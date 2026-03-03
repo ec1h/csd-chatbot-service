@@ -1,0 +1,2213 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 2,
+      "original_call_type_name": "ILLEGAL CONSTRUCTION-WAREHOUSE CHURCH"
+    },
+    "call_type_code": "40001",
+    "department": "ILLEGAL CONSTRUCTION-WAREHOUSE CHURCH",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal construction-warehouse church",
+    "short_description": "ILLEGAL WAREHOUSE",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal construction",
+      "construction warehouse",
+      "warehouse church",
+      "church illegal",
+      "illegal warehouse",
+      "warehouse fix",
+      "fix my",
+      "my city",
+      "illegal construction warehouse",
+      "construction warehouse church",
+      "warehouse church illegal",
+      "church illegal warehouse",
+      "illegal warehouse fix",
+      "warehouse fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal construction-warehouse church",
+      "I have illegal construction-warehouse church",
+      "there is illegal construction-warehouse church"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 3,
+      "original_call_type_name": "REQUEST COPY OF OCCUPANCY CERTIFICATE"
+    },
+    "call_type_code": "40002",
+    "department": "REQUEST COPY OF OCCUPANCY CERTIFICATE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Copy of occupancy certificate",
+    "short_description": "COPY OF OCCUPANCY CERT.",
+    "intent_bucket": "general",
+    "keywords": [
+      "request copy",
+      "copy of",
+      "of occupancy",
+      "occupancy certificate",
+      "certificate copy",
+      "occupancy cert",
+      "cert joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request copy of",
+      "copy of occupancy",
+      "of occupancy certificate",
+      "occupancy certificate copy",
+      "certificate copy of"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request copy of",
+      "I have request copy of",
+      "there is request copy of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 4,
+      "original_call_type_name": "CHECK WHETHER CONSTRUCTION WORK IS LEGAL"
+    },
+    "call_type_code": "40003",
+    "department": "CHECK WHETHER CONSTRUCTION WORK IS LEGAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Check whether construction work is legal",
+    "short_description": "CONSTRUCTION INSPECTION",
+    "intent_bucket": "general",
+    "keywords": [
+      "check whether",
+      "whether construction",
+      "construction work",
+      "work is",
+      "is legal",
+      "legal construction",
+      "construction inspection",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "check whether construction",
+      "whether construction work",
+      "construction work is",
+      "work is legal",
+      "is legal construction"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my check whether construction",
+      "I have check whether construction",
+      "there is check whether construction"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 5,
+      "original_call_type_name": "QUOTATION - ADDITIONAL VEHICLE ENTRANCE"
+    },
+    "call_type_code": "40042",
+    "department": "GIS QUOTATION - ADDITIONAL VEHICLE ENTRANCE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Quotation - additional vehicle entrance",
+    "short_description": "VEHICLE ENTRANCE QUOTATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "quotation additional",
+      "additional vehicle",
+      "vehicle entrance",
+      "entrance vehicle",
+      "entrance quotation",
+      "quotation joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "quotation additional vehicle",
+      "additional vehicle entrance",
+      "vehicle entrance vehicle",
+      "entrance vehicle entrance",
+      "vehicle entrance quotation",
+      "entrance quotation joburg"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my quotation - additional",
+      "I have quotation - additional",
+      "there is quotation - additional"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 6,
+      "original_call_type_name": "Illegal Activity or Land Use"
+    },
+    "call_type_code": "40043",
+    "department": "Illegal Activity or Land Use",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal activity or land use",
+    "short_description": "ILLEGAL ACTIVITY/LAND USE",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal activity",
+      "activity or",
+      "or land",
+      "land use",
+      "use illegal",
+      "activity land",
+      "use fix",
+      "fix my",
+      "my city",
+      "illegal activity or",
+      "activity or land",
+      "or land use",
+      "land use illegal",
+      "use illegal activity",
+      "illegal activity land"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal activity or",
+      "I have illegal activity or",
+      "there is illegal activity or"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 7,
+      "original_call_type_name": "FIRST VEHICLE ENTRANCE"
+    },
+    "call_type_code": "40044",
+    "department": "FIRST VEHICLE ENTRANCE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "First vehicle entrance",
+    "short_description": "FIRST VEHICLE ENTRANCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "first vehicle",
+      "vehicle entrance",
+      "entrance first",
+      "entrance joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "first vehicle entrance",
+      "vehicle entrance first",
+      "entrance first vehicle",
+      "vehicle entrance joburg",
+      "entrance joburg services",
+      "joburg services service",
+      "services service request",
+      "first"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my first vehicle entrance",
+      "I have first vehicle entrance",
+      "there is first vehicle entrance"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 8,
+      "original_call_type_name": "NAVIGATION OF SYSTEM"
+    },
+    "call_type_code": "40076",
+    "department": "NAVIGATION OF SYSTEM",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Navigation of system",
+    "short_description": "SYSTEM NAVIGATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "navigation of",
+      "of system",
+      "system system",
+      "system navigation",
+      "navigation joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "navigation of system",
+      "of system system",
+      "system system navigation",
+      "system navigation joburg",
+      "navigation joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my navigation of system",
+      "I have navigation of system",
+      "there is navigation of system"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 9,
+      "original_call_type_name": "PAGE CANNOT BE DISPLAYED METER"
+    },
+    "call_type_code": "40077",
+    "department": "PAGE CANNOT BE DISPLAYED METER",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Page cannot be displayed meter",
+    "short_description": "M:PAGE NOT DISPLAYED",
+    "intent_bucket": "general",
+    "keywords": [
+      "page cannot",
+      "cannot be",
+      "be displayed",
+      "displayed meter",
+      "meter m",
+      "m page",
+      "page not",
+      "not displayed",
+      "displayed joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "page cannot be",
+      "cannot be displayed",
+      "be displayed meter"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my page cannot be",
+      "I have page cannot be",
+      "there is page cannot be"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 10,
+      "original_call_type_name": "DISCONTINUE EMAIL ADDRESS"
+    },
+    "call_type_code": "40078",
+    "department": "DISCONTINUE EMAIL ADDRESS",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Discontinue email address",
+    "short_description": "DISCONTINUE EMAIL",
+    "intent_bucket": "general",
+    "keywords": [
+      "discontinue email",
+      "email address",
+      "address discontinue",
+      "email joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "discontinue email address",
+      "email address discontinue",
+      "address discontinue email",
+      "discontinue email joburg",
+      "email joburg services",
+      "joburg services service",
+      "services service request",
+      "discontinue"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my discontinue email address",
+      "I have discontinue email address",
+      "there is discontinue email address"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 11,
+      "original_call_type_name": "FORGOTTEN USERNAME AND PASSWORD"
+    },
+    "call_type_code": "40079",
+    "department": "FORGOTTEN USERNAME AND PASSWORD",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Forgotten username and password",
+    "short_description": "FORGOTTEN LOGIN",
+    "intent_bucket": "general",
+    "keywords": [
+      "forgotten username",
+      "username and",
+      "and password",
+      "password forgotten",
+      "forgotten login",
+      "login joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "forgotten username and",
+      "username and password",
+      "and password forgotten",
+      "password forgotten login",
+      "forgotten login joburg",
+      "login joburg services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my forgotten username and",
+      "I have forgotten username and",
+      "there is forgotten username and"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 12,
+      "original_call_type_name": "PAGE CANNOT BE DISPLAYED STATEMENT"
+    },
+    "call_type_code": "40080",
+    "department": "PAGE CANNOT BE DISPLAYED STATEMENT",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Page cannot be displayed statement",
+    "short_description": "S:PAGE NOT DISPLAYED",
+    "intent_bucket": "general",
+    "keywords": [
+      "page cannot",
+      "cannot be",
+      "be displayed",
+      "displayed statement",
+      "statement s",
+      "s page",
+      "page not",
+      "not displayed",
+      "displayed joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "page cannot be",
+      "cannot be displayed",
+      "be displayed statement"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my page cannot be",
+      "I have page cannot be",
+      "there is page cannot be"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 13,
+      "original_call_type_name": "REGISTER CUSTOMER TO RECEIVE ONLINE STAT"
+    },
+    "call_type_code": "40081",
+    "department": "REGISTER CUSTOMER TO RECEIVE ONLINE STAT",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Register customer to receive online stat",
+    "short_description": "ONLINE REGISTRATION STATEMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "register customer",
+      "customer to",
+      "to receive",
+      "receive online",
+      "online stat",
+      "stat online",
+      "online registration",
+      "registration statement",
+      "statement joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "register customer to",
+      "customer to receive",
+      "to receive online"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my register customer to",
+      "I have register customer to",
+      "there is register customer to"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 14,
+      "original_call_type_name": "REGISTRATION PROBLEM"
+    },
+    "call_type_code": "40082",
+    "department": "REGISTRATION PROBLEM",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Registration problem",
+    "short_description": "REGISTRATION ISSUE",
+    "intent_bucket": "general",
+    "keywords": [
+      "registration problem",
+      "problem registration",
+      "registration issue",
+      "issue joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "registration problem registration",
+      "problem registration issue",
+      "registration issue joburg",
+      "issue joburg services",
+      "joburg services service",
+      "services service request",
+      "registration",
+      "problem"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my registration problem registration",
+      "I have registration problem registration",
+      "there is registration problem registration"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 15,
+      "original_call_type_name": "STATEMENTS NOT AVAILABLE ONLINE"
+    },
+    "call_type_code": "40083",
+    "department": "STATEMENTS NOT AVAILABLE ONLINE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Statements not available online",
+    "short_description": "STATEMENTS NOT ONLINE",
+    "intent_bucket": "general",
+    "keywords": [
+      "statements not",
+      "not available",
+      "available online",
+      "online statements",
+      "not online",
+      "online joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "statements not available",
+      "not available online",
+      "available online statements",
+      "online statements not",
+      "statements not online",
+      "not online joburg"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my statements not available",
+      "I have statements not available",
+      "there is statements not available"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 16,
+      "original_call_type_name": "TECHNICAL"
+    },
+    "call_type_code": "40084",
+    "department": "TECHNICAL",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Technical",
+    "short_description": "TECHNICAL ISSUES",
+    "intent_bucket": "general",
+    "keywords": [
+      "technical technical",
+      "technical issues",
+      "issues joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "technical technical issues",
+      "technical issues joburg",
+      "issues joburg services",
+      "joburg services service",
+      "services service request",
+      "technical",
+      "issues",
+      "joburg",
+      "services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my technical technical issues",
+      "I have technical technical issues",
+      "there is technical technical issues"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 17,
+      "original_call_type_name": "UPDATE EMAIL ADDRESS"
+    },
+    "call_type_code": "40085",
+    "department": "UPDATE EMAIL ADDRESS",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Update email address",
+    "short_description": "UPDATE EMAIL",
+    "intent_bucket": "general",
+    "keywords": [
+      "update email",
+      "email address",
+      "address update",
+      "email joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "update email address",
+      "email address update",
+      "address update email",
+      "update email joburg",
+      "email joburg services",
+      "joburg services service",
+      "services service request",
+      "update"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my update email address",
+      "I have update email address",
+      "there is update email address"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 18,
+      "original_call_type_name": "PAGE CANNOT BE DISPLAYED WEB"
+    },
+    "call_type_code": "40088",
+    "department": "PAGE CANNOT BE DISPLAYED WEB",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Page cannot be displayed web",
+    "short_description": "W:PAGE NOT DISPLAYED",
+    "intent_bucket": "general",
+    "keywords": [
+      "page cannot",
+      "cannot be",
+      "be displayed",
+      "displayed web",
+      "web w",
+      "w page",
+      "page not",
+      "not displayed",
+      "displayed joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "page cannot be",
+      "cannot be displayed",
+      "be displayed web"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my page cannot be",
+      "I have page cannot be",
+      "there is page cannot be"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 19,
+      "original_call_type_name": "SLOW RESPONSE"
+    },
+    "call_type_code": "40089",
+    "department": "SLOW RESPONSE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Slow response",
+    "short_description": "SLOW RESPONSE",
+    "intent_bucket": "general",
+    "keywords": [
+      "slow response",
+      "response slow",
+      "response joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "slow response slow",
+      "response slow response",
+      "slow response joburg",
+      "response joburg services",
+      "joburg services service",
+      "services service request",
+      "slow",
+      "response",
+      "joburg"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my slow response slow",
+      "I have slow response slow",
+      "there is slow response slow"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 20,
+      "original_call_type_name": "GENERAL TRAFFIC OBSTRUCTIONS"
+    },
+    "call_type_code": "40124",
+    "department": "GENERAL TRAFFIC OBSTRUCTIONS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "General traffic obstructions",
+    "short_description": "GENERAL OBSTRUCTION",
+    "intent_bucket": "roads",
+    "keywords": [
+      "general traffic",
+      "traffic obstructions",
+      "obstructions general",
+      "general obstruction",
+      "obstruction fix",
+      "fix my",
+      "my city",
+      "general traffic obstructions",
+      "traffic obstructions general",
+      "obstructions general obstruction",
+      "general obstruction fix",
+      "obstruction fix my",
+      "fix my city",
+      "general",
+      "traffic"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my general traffic obstructions",
+      "I have general traffic obstructions",
+      "there is general traffic obstructions"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 21,
+      "original_call_type_name": "REPORTING SQUATTERS"
+    },
+    "call_type_code": "40125",
+    "department": "REPORTING SQUATTERS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Reporting squatters",
+    "short_description": "REPORT SQUATTERS",
+    "intent_bucket": "general",
+    "keywords": [
+      "reporting squatters",
+      "squatters report",
+      "report squatters",
+      "squatters fix",
+      "fix my",
+      "my city",
+      "reporting squatters report",
+      "squatters report squatters",
+      "report squatters fix",
+      "squatters fix my",
+      "fix my city",
+      "reporting",
+      "squatters",
+      "report",
+      "fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my reporting squatters report",
+      "I have reporting squatters report",
+      "there is reporting squatters report"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 22,
+      "original_call_type_name": "ILLEGAL ADVERTISING"
+    },
+    "call_type_code": "40126",
+    "department": "ILLEGAL ADVERTISING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal advertising",
+    "short_description": "ILLEGAL ADVERTISING",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal advertising",
+      "advertising illegal",
+      "advertising fix",
+      "fix my",
+      "my city",
+      "illegal advertising illegal",
+      "advertising illegal advertising",
+      "illegal advertising fix",
+      "advertising fix my",
+      "fix my city",
+      "illegal",
+      "advertising",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal advertising illegal",
+      "I have illegal advertising illegal",
+      "there is illegal advertising illegal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 23,
+      "original_call_type_name": "BUILDING MATERIAL & OBSTRUCTION ON SIDEWALK"
+    },
+    "call_type_code": "40127",
+    "department": "BUILDING MATERIAL & OBSTRUCTION ON SIDEWALK",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Building material & obstruction on sidewalk",
+    "short_description": "OBSTRUCTION BY BUILDING MATERIAL",
+    "intent_bucket": "general",
+    "keywords": [
+      "building material",
+      "material obstruction",
+      "obstruction on",
+      "on sidewalk",
+      "sidewalk obstruction",
+      "obstruction by",
+      "by building",
+      "material fix",
+      "fix my",
+      "my city",
+      "building material obstruction",
+      "material obstruction on",
+      "obstruction on sidewalk",
+      "on sidewalk obstruction",
+      "sidewalk obstruction by"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my building material &",
+      "I have building material &",
+      "there is building material &"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 24,
+      "original_call_type_name": "ILLEGAL DUMPING"
+    },
+    "call_type_code": "40128",
+    "department": "ILLEGAL DUMPING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal dumping",
+    "short_description": "JMPD ILLEGAL DUMPING",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal dumping",
+      "dumping jmpd",
+      "jmpd illegal",
+      "dumping fix",
+      "fix my",
+      "my city",
+      "illegal dumping jmpd",
+      "dumping jmpd illegal",
+      "jmpd illegal dumping",
+      "illegal dumping fix",
+      "dumping fix my",
+      "fix my city",
+      "illegal",
+      "dumping",
+      "jmpd"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal dumping jmpd",
+      "I have illegal dumping jmpd",
+      "there is illegal dumping jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 25,
+      "original_call_type_name": "ILLEGAL LAND OCCUPATION"
+    },
+    "call_type_code": "40129",
+    "department": "ILLEGAL LAND OCCUPATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal land occupation",
+    "short_description": "ILLEGAL LAND OCCUPATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal land",
+      "land occupation",
+      "occupation illegal",
+      "occupation fix",
+      "fix my",
+      "my city",
+      "illegal land occupation",
+      "land occupation illegal",
+      "occupation illegal land",
+      "land occupation fix",
+      "occupation fix my",
+      "fix my city",
+      "illegal",
+      "land",
+      "occupation"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal land occupation",
+      "I have illegal land occupation",
+      "there is illegal land occupation"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 26,
+      "original_call_type_name": "REPORT VAGRANTS ON PUBLIC PROPERTY"
+    },
+    "call_type_code": "40130",
+    "department": "REPORT VAGRANTS ON PUBLIC PROPERTY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Vagrants on public property",
+    "short_description": "VAGRANTS ON PUBLIC PROPERTY",
+    "intent_bucket": "general",
+    "keywords": [
+      "report vagrants",
+      "vagrants on",
+      "on public",
+      "public property",
+      "property vagrants",
+      "property fix",
+      "fix my",
+      "my city",
+      "report vagrants on",
+      "vagrants on public",
+      "on public property",
+      "public property vagrants",
+      "property vagrants on",
+      "public property fix",
+      "property fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report vagrants on",
+      "I have report vagrants on",
+      "there is report vagrants on"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 27,
+      "original_call_type_name": "STREET TRADING"
+    },
+    "call_type_code": "40131",
+    "department": "STREET TRADING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street trading",
+    "short_description": "STREET TRADING",
+    "intent_bucket": "general",
+    "keywords": [
+      "street trading",
+      "trading street",
+      "trading fix",
+      "fix my",
+      "my city",
+      "street trading street",
+      "trading street trading",
+      "street trading fix",
+      "trading fix my",
+      "fix my city",
+      "street",
+      "trading",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my street trading street",
+      "I have street trading street",
+      "there is street trading street"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 28,
+      "original_call_type_name": "ILLEGAL ACTIVITIES IN PARKS/ PUBLIC SPAC"
+    },
+    "call_type_code": "40132",
+    "department": "ILLEGAL ACTIVITIES IN PARKS/ PUBLIC SPAC",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal activities in parks/ public spac",
+    "short_description": "ILLEGAL ACTIVITY IN PARKS",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal activities",
+      "activities in",
+      "in parks",
+      "parks public",
+      "public spac",
+      "spac illegal",
+      "illegal activity",
+      "activity in",
+      "parks fix",
+      "fix my",
+      "my city",
+      "illegal activities in",
+      "activities in parks",
+      "in parks public",
+      "parks public spac"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal activities in",
+      "I have illegal activities in",
+      "there is illegal activities in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 29,
+      "original_call_type_name": "ABANDONED VEHICLES"
+    },
+    "call_type_code": "40133",
+    "department": "ABANDONED VEHICLES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Abandoned vehicles",
+    "short_description": "ABANDONED VEHICLES",
+    "intent_bucket": "general",
+    "keywords": [
+      "abandoned vehicles",
+      "vehicles abandoned",
+      "vehicles fix",
+      "fix my",
+      "my city",
+      "abandoned vehicles abandoned",
+      "vehicles abandoned vehicles",
+      "abandoned vehicles fix",
+      "vehicles fix my",
+      "fix my city",
+      "abandoned",
+      "vehicles",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my abandoned vehicles abandoned",
+      "I have abandoned vehicles abandoned",
+      "there is abandoned vehicles abandoned"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 30,
+      "original_call_type_name": "ILLEGAL TAXI RANKS"
+    },
+    "call_type_code": "40134",
+    "department": "ILLEGAL TAXI RANKS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal taxi ranks",
+    "short_description": "ILLEGAL TAXI RANKS",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal taxi",
+      "taxi ranks",
+      "ranks illegal",
+      "ranks fix",
+      "fix my",
+      "my city",
+      "illegal taxi ranks",
+      "taxi ranks illegal",
+      "ranks illegal taxi",
+      "taxi ranks fix",
+      "ranks fix my",
+      "fix my city",
+      "illegal",
+      "taxi",
+      "ranks"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal taxi ranks",
+      "I have illegal taxi ranks",
+      "there is illegal taxi ranks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 31,
+      "original_call_type_name": "REPAIRS TO VEHICLES IN ROADWAY/SIDEWALK"
+    },
+    "call_type_code": "40135",
+    "department": "REPAIRS TO VEHICLES IN ROADWAY/SIDEWALK",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Repairs to vehicles in roadway/sidewalk",
+    "short_description": "REPAIRS TO VEHICLES IN ROADWAY",
+    "intent_bucket": "roads",
+    "keywords": [
+      "repairs to",
+      "to vehicles",
+      "vehicles in",
+      "in roadway",
+      "roadway sidewalk",
+      "sidewalk repairs",
+      "roadway fix",
+      "fix my",
+      "my city",
+      "repairs to vehicles",
+      "to vehicles in",
+      "vehicles in roadway",
+      "in roadway sidewalk",
+      "roadway sidewalk repairs",
+      "sidewalk repairs to"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my repairs to vehicles",
+      "I have repairs to vehicles",
+      "there is repairs to vehicles"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 32,
+      "original_call_type_name": "ROAD POLICING"
+    },
+    "call_type_code": "40136",
+    "department": "ROAD POLICING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Road policing",
+    "short_description": "ROAD POLICING",
+    "intent_bucket": "roads",
+    "keywords": [
+      "road policing",
+      "policing road",
+      "policing fix",
+      "fix my",
+      "my city",
+      "road policing road",
+      "policing road policing",
+      "road policing fix",
+      "policing fix my",
+      "fix my city",
+      "road",
+      "policing",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my road policing road",
+      "I have road policing road",
+      "there is road policing road"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 33,
+      "original_call_type_name": "REPORT ENCROACHMENTS"
+    },
+    "call_type_code": "40137",
+    "department": "REPORT ENCROACHMENTS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Encroachments",
+    "short_description": "REPORT ENCROACHMENTS",
+    "intent_bucket": "general",
+    "keywords": [
+      "report encroachments",
+      "encroachments report",
+      "encroachments fix",
+      "fix my",
+      "my city",
+      "report encroachments report",
+      "encroachments report encroachments",
+      "report encroachments fix",
+      "encroachments fix my",
+      "fix my city",
+      "report",
+      "encroachments",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report encroachments report",
+      "I have report encroachments report",
+      "there is report encroachments report"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 34,
+      "original_call_type_name": "ILLEGAL ACCOMMODATION ESTABLISHMENT"
+    },
+    "call_type_code": "40138",
+    "department": "ILLEGAL ACCOMMODATION ESTABLISHMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal accommodation establishment",
+    "short_description": "ILLEGAL ACCOMMODATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal accommodation",
+      "accommodation establishment",
+      "establishment illegal",
+      "accommodation fix",
+      "fix my",
+      "my city",
+      "illegal accommodation establishment",
+      "accommodation establishment illegal",
+      "establishment illegal accommodation",
+      "illegal accommodation fix",
+      "accommodation fix my",
+      "fix my city",
+      "illegal",
+      "accommodation",
+      "establishment"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal accommodation establishment",
+      "I have illegal accommodation establishment",
+      "there is illegal accommodation establishment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 35,
+      "original_call_type_name": "ILLEGAL BUSINESS"
+    },
+    "call_type_code": "40139",
+    "department": "ILLEGAL BUSINESS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal business",
+    "short_description": "ILLEGAL BUSINESS",
+    "intent_bucket": "transport",
+    "keywords": [
+      "illegal business",
+      "business illegal",
+      "business fix",
+      "fix my",
+      "my city",
+      "illegal business illegal",
+      "business illegal business",
+      "illegal business fix",
+      "business fix my",
+      "fix my city",
+      "illegal",
+      "business",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal business illegal",
+      "I have illegal business illegal",
+      "there is illegal business illegal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 36,
+      "original_call_type_name": "ILLEGAL CHURCH"
+    },
+    "call_type_code": "40140",
+    "department": "ILLEGAL CHURCH",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal church",
+    "short_description": "ILLEGAL CHURCH",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal church",
+      "church illegal",
+      "church fix",
+      "fix my",
+      "my city",
+      "illegal church illegal",
+      "church illegal church",
+      "illegal church fix",
+      "church fix my",
+      "fix my city",
+      "illegal",
+      "church",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal church illegal",
+      "I have illegal church illegal",
+      "there is illegal church illegal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 37,
+      "original_call_type_name": "ILLEGAL CRECHE/PLACE OF INSTRUCTION"
+    },
+    "call_type_code": "40141",
+    "department": "ILLEGAL CRECHE/PLACE OF INSTRUCTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal creche/place of instruction",
+    "short_description": "ILLEGAL SCHOOL/CRECHE",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal creche",
+      "creche place",
+      "place of",
+      "of instruction",
+      "instruction illegal",
+      "illegal school",
+      "school creche",
+      "creche fix",
+      "fix my",
+      "my city",
+      "illegal creche place",
+      "creche place of",
+      "place of instruction",
+      "of instruction illegal",
+      "instruction illegal school"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal creche/place of",
+      "I have illegal creche/place of",
+      "there is illegal creche/place of"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 38,
+      "original_call_type_name": "ILLEGAL LAND USE"
+    },
+    "call_type_code": "40142",
+    "department": "ILLEGAL LAND USE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal land use",
+    "short_description": "ILLEGAL LAND USE",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal land",
+      "land use",
+      "use illegal",
+      "use fix",
+      "fix my",
+      "my city",
+      "illegal land use",
+      "land use illegal",
+      "use illegal land",
+      "land use fix",
+      "use fix my",
+      "fix my city",
+      "illegal",
+      "land",
+      "use"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal land use",
+      "I have illegal land use",
+      "there is illegal land use"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 39,
+      "original_call_type_name": "ILLEGAL TRADING ON PROPERTY"
+    },
+    "call_type_code": "40144",
+    "department": "ILLEGAL TRADING ON PROPERTY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal trading on property",
+    "short_description": "ILLEGAL TRADING",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal trading",
+      "trading on",
+      "on property",
+      "property illegal",
+      "trading fix",
+      "fix my",
+      "my city",
+      "illegal trading on",
+      "trading on property",
+      "on property illegal",
+      "property illegal trading",
+      "illegal trading fix",
+      "trading fix my",
+      "fix my city",
+      "illegal"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal trading on",
+      "I have illegal trading on",
+      "there is illegal trading on"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 40,
+      "original_call_type_name": "ILLEGAL MOTOR REPAIRS AND PANEL BEATING"
+    },
+    "call_type_code": "40150",
+    "department": "ILLEGAL MOTOR REPAIRS AND PANEL BEATING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal motor repairs and panel beating",
+    "short_description": "ILLEGAL MOTOR REPAIRS",
+    "intent_bucket": "general",
+    "keywords": [
+      "illegal motor",
+      "motor repairs",
+      "repairs and",
+      "and panel",
+      "panel beating",
+      "beating illegal",
+      "repairs fix",
+      "fix my",
+      "my city",
+      "illegal motor repairs",
+      "motor repairs and",
+      "repairs and panel",
+      "and panel beating",
+      "panel beating illegal",
+      "beating illegal motor"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal motor repairs",
+      "I have illegal motor repairs",
+      "there is illegal motor repairs"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 41,
+      "original_call_type_name": "OBJECTIONS ON APPLICATION"
+    },
+    "call_type_code": "40152",
+    "department": "OBJECTIONS ON APPLICATION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Objections on application",
+    "short_description": "APPLICATION OBJECTIONS",
+    "intent_bucket": "general",
+    "keywords": [
+      "objections on",
+      "on application",
+      "application application",
+      "application objections",
+      "objections joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "objections on application",
+      "on application application",
+      "application application objections",
+      "application objections joburg",
+      "objections joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my objections on application",
+      "I have objections on application",
+      "there is objections on application"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 42,
+      "original_call_type_name": "LOST APPLICATION REFERENCE NUMBER"
+    },
+    "call_type_code": "40153",
+    "department": "LOST APPLICATION REFERENCE NUMBER",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Lost application reference number",
+    "short_description": "LOST APPLICATION REF NO.",
+    "intent_bucket": "general",
+    "keywords": [
+      "lost application",
+      "application reference",
+      "reference number",
+      "number lost",
+      "application ref",
+      "ref no",
+      "no joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "lost application reference",
+      "application reference number",
+      "reference number lost",
+      "number lost application",
+      "lost application ref"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my lost application reference",
+      "I have lost application reference",
+      "there is lost application reference"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 43,
+      "original_call_type_name": "TIME TO PROCESS APPLICATION"
+    },
+    "call_type_code": "40154",
+    "department": "TIME TO PROCESS APPLICATION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Time to process application",
+    "short_description": "APPLICATION PROCESSING",
+    "intent_bucket": "general",
+    "keywords": [
+      "time to",
+      "to process",
+      "process application",
+      "application application",
+      "application processing",
+      "processing joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "time to process",
+      "to process application",
+      "process application application",
+      "application application processing",
+      "application processing joburg",
+      "processing joburg services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my time to process",
+      "I have time to process",
+      "there is time to process"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 44,
+      "original_call_type_name": "REMOVE RUBBLE"
+    },
+    "call_type_code": "40155",
+    "department": "REMOVE RUBBLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Remove rubble",
+    "short_description": "REMOVE RUBBLE",
+    "intent_bucket": "general",
+    "keywords": [
+      "remove rubble",
+      "rubble remove",
+      "rubble fix",
+      "fix my",
+      "my city",
+      "remove rubble remove",
+      "rubble remove rubble",
+      "remove rubble fix",
+      "rubble fix my",
+      "fix my city",
+      "remove",
+      "rubble",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my remove rubble remove",
+      "I have remove rubble remove",
+      "there is remove rubble remove"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 45,
+      "original_call_type_name": "CONTACT DETAILS OF PLANNER CONSULTANT"
+    },
+    "call_type_code": "40156",
+    "department": "CONTACT DETAILS OF PLANNER CONSULTANT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Contact details of planner consultant",
+    "short_description": "PLANNER CONTACTS",
+    "intent_bucket": "general",
+    "keywords": [
+      "contact details",
+      "details of",
+      "of planner",
+      "planner consultant",
+      "consultant planner",
+      "planner contacts",
+      "contacts fix",
+      "fix my",
+      "my city",
+      "contact details of",
+      "details of planner",
+      "of planner consultant",
+      "planner consultant planner",
+      "consultant planner contacts",
+      "planner contacts fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my contact details of",
+      "I have contact details of",
+      "there is contact details of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 46,
+      "original_call_type_name": "CONTACT DETAILS OF TOWN PLANNER"
+    },
+    "call_type_code": "40157",
+    "department": "CONTACT DETAILS OF TOWN PLANNER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Contact details of town planner",
+    "short_description": "TOWN PLANNER CONTACTS",
+    "intent_bucket": "general",
+    "keywords": [
+      "contact details",
+      "details of",
+      "of town",
+      "town planner",
+      "planner town",
+      "planner contacts",
+      "contacts fix",
+      "fix my",
+      "my city",
+      "contact details of",
+      "details of town",
+      "of town planner",
+      "town planner town",
+      "planner town planner",
+      "town planner contacts"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my contact details of",
+      "I have contact details of",
+      "there is contact details of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 47,
+      "original_call_type_name": "SITE INSPECTION"
+    },
+    "call_type_code": "40158",
+    "department": "SITE INSPECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Site inspection",
+    "short_description": "SITE INSPECTION",
+    "intent_bucket": "general",
+    "keywords": [
+      "site inspection",
+      "inspection site",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "site inspection site",
+      "inspection site inspection",
+      "site inspection fix",
+      "inspection fix my",
+      "fix my city",
+      "site",
+      "inspection",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my site inspection site",
+      "I have site inspection site",
+      "there is site inspection site"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 48,
+      "original_call_type_name": "BUILDING INSPECTION"
+    },
+    "call_type_code": "40159",
+    "department": "BUILDING INSPECTION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Building inspection",
+    "short_description": "BUILDING INSPECTION",
+    "intent_bucket": "general",
+    "keywords": [
+      "building inspection",
+      "inspection building",
+      "inspection joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "building inspection building",
+      "inspection building inspection",
+      "building inspection joburg",
+      "inspection joburg services",
+      "joburg services service",
+      "services service request",
+      "building",
+      "inspection",
+      "joburg"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building inspection building",
+      "I have building inspection building",
+      "there is building inspection building"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 49,
+      "original_call_type_name": "REQUEST COPY OF BUILDING PLAN"
+    },
+    "call_type_code": "40160",
+    "department": "REQUEST COPY OF BUILDING PLAN",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Copy of building plan",
+    "short_description": "BUILDING PLAN",
+    "intent_bucket": "general",
+    "keywords": [
+      "request copy",
+      "copy of",
+      "of building",
+      "building plan",
+      "plan building",
+      "plan joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request copy of",
+      "copy of building",
+      "of building plan",
+      "building plan building",
+      "plan building plan",
+      "building plan joburg"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request copy of",
+      "I have request copy of",
+      "there is request copy of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 50,
+      "original_call_type_name": "PROVISIONAL PLAN APPROVAL"
+    },
+    "call_type_code": "40161",
+    "department": "PROVISIONAL PLAN APPROVAL",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Provisional plan approval",
+    "short_description": "PROVISIONAL PLAN APPROVAL",
+    "intent_bucket": "general",
+    "keywords": [
+      "provisional plan",
+      "plan approval",
+      "approval provisional",
+      "approval joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "provisional plan approval",
+      "plan approval provisional",
+      "approval provisional plan",
+      "plan approval joburg",
+      "approval joburg services",
+      "joburg services service",
+      "services service request",
+      "provisional"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my provisional plan approval",
+      "I have provisional plan approval",
+      "there is provisional plan approval"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 51,
+      "original_call_type_name": "INSTALL SHELTERS: BUS & TAXI"
+    },
+    "call_type_code": "40162",
+    "department": "INSTALL SHELTERS: BUS & TAXI",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Install shelters: bus & taxi",
+    "short_description": "INSTALL BUS/TAXI SHELTER",
+    "intent_bucket": "transport",
+    "keywords": [
+      "install shelters",
+      "shelters bus",
+      "bus taxi",
+      "taxi install",
+      "install bus",
+      "taxi shelter",
+      "shelter joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "install shelters bus",
+      "shelters bus taxi",
+      "bus taxi install",
+      "taxi install bus",
+      "install bus taxi"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my install shelters: bus",
+      "I have install shelters: bus",
+      "there is install shelters: bus"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 52,
+      "original_call_type_name": "PUBLIC TRANSPORT FACILITIES"
+    },
+    "call_type_code": "40163",
+    "department": "PUBLIC TRANSPORT FACILITIES",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Public transport facilities",
+    "short_description": "PUBLIC TRANSPORT FACILITIES",
+    "intent_bucket": "general",
+    "keywords": [
+      "public transport",
+      "transport facilities",
+      "facilities public",
+      "facilities joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "public transport facilities",
+      "transport facilities public",
+      "facilities public transport",
+      "transport facilities joburg",
+      "facilities joburg services",
+      "joburg services service",
+      "services service request",
+      "public"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my public transport facilities",
+      "I have public transport facilities",
+      "there is public transport facilities"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 53,
+      "original_call_type_name": "REQUEST FOR TRAFFIC ASSESSMENT"
+    },
+    "call_type_code": "40164",
+    "department": "REQUEST FOR TRAFFIC ASSESSMENT",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "For traffic assessment",
+    "short_description": "TRAFFIC ASSESSMENT",
+    "intent_bucket": "roads",
+    "keywords": [
+      "request for",
+      "for traffic",
+      "traffic assessment",
+      "assessment traffic",
+      "assessment joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request for traffic",
+      "for traffic assessment",
+      "traffic assessment traffic",
+      "assessment traffic assessment",
+      "traffic assessment joburg",
+      "assessment joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request for traffic",
+      "I have request for traffic",
+      "there is request for traffic"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 54,
+      "original_call_type_name": "REQUEST FOR TRAFFIC COUNTS"
+    },
+    "call_type_code": "40165",
+    "department": "REQUEST FOR TRAFFIC COUNTS",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "For traffic counts",
+    "short_description": "TRAFFIC COUNT",
+    "intent_bucket": "roads",
+    "keywords": [
+      "request for",
+      "for traffic",
+      "traffic counts",
+      "counts traffic",
+      "traffic count",
+      "count joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request for traffic",
+      "for traffic counts",
+      "traffic counts traffic",
+      "counts traffic count",
+      "traffic count joburg",
+      "count joburg services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request for traffic",
+      "I have request for traffic",
+      "there is request for traffic"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 55,
+      "original_call_type_name": "REQUEST FOR TRAFFIC IMPACT STUDIES"
+    },
+    "call_type_code": "40166",
+    "department": "REQUEST FOR TRAFFIC IMPACT STUDIES",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "For traffic impact studies",
+    "short_description": "TRAFFIC IMPACT STUDIES",
+    "intent_bucket": "roads",
+    "keywords": [
+      "request for",
+      "for traffic",
+      "traffic impact",
+      "impact studies",
+      "studies traffic",
+      "studies joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request for traffic",
+      "for traffic impact",
+      "traffic impact studies",
+      "impact studies traffic",
+      "studies traffic impact",
+      "impact studies joburg"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request for traffic",
+      "I have request for traffic",
+      "there is request for traffic"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "General Contact",
+      "row_number": 56,
+      "original_call_type_name": "Unknown"
+    },
+    "call_type_code": "0",
+    "department": "Unknown",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Unknown",
+    "short_description": "Unknown",
+    "intent_bucket": "general",
+    "keywords": [
+      "unknown unknown",
+      "unknown fix",
+      "fix my",
+      "my city",
+      "unknown unknown fix",
+      "unknown fix my",
+      "fix my city",
+      "unknown",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my unknown unknown",
+      "I have unknown unknown",
+      "there is unknown unknown"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

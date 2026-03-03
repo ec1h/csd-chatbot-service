@@ -1,0 +1,182 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 2,
+      "original_call_type_name": "Process Complaint"
+    },
+    "call_type_code": "15001",
+    "department": "Process Complaint",
+    "service_group": "General",
+    "issue_category": "complaint",
+    "issue_type": "Process complaint",
+    "short_description": "Process",
+    "intent_bucket": "general",
+    "keywords": [
+      "process complaint",
+      "complaint process",
+      "process complaint process",
+      "process",
+      "complaint"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my process complaint process",
+      "I have process complaint process",
+      "there is process complaint process"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 3,
+      "original_call_type_name": "Infrastructure Complaint"
+    },
+    "call_type_code": "15002",
+    "department": "Infrastructure Complaint",
+    "service_group": "General",
+    "issue_category": "complaint",
+    "issue_type": "Infrastructure complaint",
+    "short_description": "Infrastructure",
+    "intent_bucket": "general",
+    "keywords": [
+      "infrastructure complaint",
+      "complaint infrastructure",
+      "infrastructure complaint infrastructure",
+      "infrastructure",
+      "complaint"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my infrastructure complaint infrastructure",
+      "I have infrastructure complaint infrastructure",
+      "there is infrastructure complaint infrastructure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 4,
+      "original_call_type_name": "Personnel Complaint"
+    },
+    "call_type_code": "15003",
+    "department": "Personnel Complaint",
+    "service_group": "General",
+    "issue_category": "complaint",
+    "issue_type": "Personnel complaint",
+    "short_description": "Personnel",
+    "intent_bucket": "general",
+    "keywords": [
+      "personnel complaint",
+      "complaint personnel",
+      "personnel complaint personnel",
+      "personnel",
+      "complaint"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my personnel complaint personnel",
+      "I have personnel complaint personnel",
+      "there is personnel complaint personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 5,
+      "original_call_type_name": "Process Complement"
+    },
+    "call_type_code": "15004",
+    "department": "Process Complement",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Process complement",
+    "short_description": "Process",
+    "intent_bucket": "general",
+    "keywords": [
+      "process complement",
+      "complement process",
+      "process complement process",
+      "process",
+      "complement"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my process complement process",
+      "I have process complement process",
+      "there is process complement process"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 6,
+      "original_call_type_name": "Infrastructure Complement"
+    },
+    "call_type_code": "15005",
+    "department": "Infrastructure Complement",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Infrastructure complement",
+    "short_description": "Infrastructure",
+    "intent_bucket": "general",
+    "keywords": [
+      "infrastructure complement",
+      "complement infrastructure",
+      "infrastructure complement infrastructure",
+      "infrastructure",
+      "complement"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my infrastructure complement infrastructure",
+      "I have infrastructure complement infrastructure",
+      "there is infrastructure complement infrastructure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints_ and complements",
+      "row_number": 7,
+      "original_call_type_name": "Personnel Complement"
+    },
+    "call_type_code": "15006",
+    "department": "Personnel Complement",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Personnel complement",
+    "short_description": "Personnel",
+    "intent_bucket": "general",
+    "keywords": [
+      "personnel complement",
+      "complement personnel",
+      "personnel complement personnel",
+      "personnel",
+      "complement"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my personnel complement personnel",
+      "I have personnel complement personnel",
+      "there is personnel complement personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

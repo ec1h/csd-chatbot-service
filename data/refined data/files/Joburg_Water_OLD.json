@@ -1,0 +1,3565 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 2,
+      "original_call_type_name": "ILLEGAL CONNECTION / BYPASS METER"
+    },
+    "call_type_code": "10078",
+    "department": "ILLEGAL WATER CONNECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal connection / bypass meter",
+    "short_description": "ILLEGAL CONN.",
+    "intent_bucket": "water",
+    "keywords": [
+      "illegal connection",
+      "connection bypass",
+      "bypass meter",
+      "meter illegal",
+      "illegal conn",
+      "conn fix",
+      "fix my",
+      "my city",
+      "illegal connection bypass",
+      "connection bypass meter",
+      "bypass meter illegal",
+      "meter illegal conn",
+      "illegal conn fix",
+      "conn fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my illegal connection /",
+      "I have illegal connection /",
+      "there is illegal connection /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 3,
+      "original_call_type_name": "ILLEGAL CONNECTION / BYPASS METER"
+    },
+    "call_type_code": "10001",
+    "department": "BYPASSED WATER METER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal connection / bypass meter",
+    "short_description": "BYPASSED WATER METER",
+    "intent_bucket": "water",
+    "keywords": [
+      "illegal connection",
+      "connection bypass",
+      "bypass meter",
+      "meter bypassed",
+      "bypassed water",
+      "water meter",
+      "meter fix",
+      "fix my",
+      "my city",
+      "illegal connection bypass",
+      "connection bypass meter",
+      "bypass meter bypassed",
+      "meter bypassed water",
+      "bypassed water meter",
+      "water meter fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my illegal connection /",
+      "I have illegal connection /",
+      "there is illegal connection /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 4,
+      "original_call_type_name": "ILLEGAL RECONNECTION"
+    },
+    "call_type_code": "10002",
+    "department": "ILLEGAL WATER RECONNECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal reconnection",
+    "short_description": "ILLEGAL RECONN.",
+    "intent_bucket": "water",
+    "keywords": [
+      "illegal reconnection",
+      "reconnection illegal",
+      "illegal reconn",
+      "reconn fix",
+      "fix my",
+      "my city",
+      "illegal reconnection illegal",
+      "reconnection illegal reconn",
+      "illegal reconn fix",
+      "reconn fix my",
+      "fix my city",
+      "illegal",
+      "reconnection",
+      "reconn",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my illegal reconnection illegal",
+      "I have illegal reconnection illegal",
+      "there is illegal reconnection illegal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 5,
+      "original_call_type_name": "ABLUTION REPAIRS"
+    },
+    "call_type_code": "10003",
+    "department": "Water ABLUTION REPAIRS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Ablution repairs",
+    "short_description": "ABLUTION REPAIRS",
+    "intent_bucket": "water",
+    "keywords": [
+      "ablution repairs",
+      "repairs ablution",
+      "repairs fix",
+      "fix my",
+      "my city",
+      "ablution repairs ablution",
+      "repairs ablution repairs",
+      "ablution repairs fix",
+      "repairs fix my",
+      "fix my city",
+      "ablution",
+      "repairs",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my ablution repairs ablution",
+      "I have ablution repairs ablution",
+      "there is ablution repairs ablution"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 6,
+      "original_call_type_name": "MAIN ABLUTION UNBLOCKING"
+    },
+    "call_type_code": "10004",
+    "department": "MAIN ABLUTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Main ablution unblocking",
+    "short_description": "UNBLOCK ABLUTION",
+    "intent_bucket": "water",
+    "keywords": [
+      "main ablution",
+      "ablution unblocking",
+      "unblocking unblock",
+      "unblock ablution",
+      "ablution fix",
+      "fix my",
+      "my city",
+      "main ablution unblocking",
+      "ablution unblocking unblock",
+      "unblocking unblock ablution",
+      "unblock ablution fix",
+      "ablution fix my",
+      "fix my city",
+      "main",
+      "ablution"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my main ablution unblocking",
+      "I have main ablution unblocking",
+      "there is main ablution unblocking"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 7,
+      "original_call_type_name": "INDUSTRIAL EFFLUENT"
+    },
+    "call_type_code": "10005",
+    "department": "INDUSTRIAL EFFLUENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Industrial effluent",
+    "short_description": "INDUSTRIAL EFFLUENT",
+    "intent_bucket": "water",
+    "keywords": [
+      "industrial effluent",
+      "effluent industrial",
+      "effluent fix",
+      "fix my",
+      "my city",
+      "industrial effluent industrial",
+      "effluent industrial effluent",
+      "industrial effluent fix",
+      "effluent fix my",
+      "fix my city",
+      "industrial",
+      "effluent",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my industrial effluent industrial",
+      "I have industrial effluent industrial",
+      "there is industrial effluent industrial"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 8,
+      "original_call_type_name": "LEAKING VALVE"
+    },
+    "call_type_code": "10006",
+    "department": "LEAKING WATER VALVE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Leaking valve",
+    "short_description": "LEAKING VALVE",
+    "intent_bucket": "water",
+    "keywords": [
+      "leaking valve",
+      "valve leaking",
+      "valve fix",
+      "fix my",
+      "my city",
+      "leaking valve leaking",
+      "valve leaking valve",
+      "leaking valve fix",
+      "valve fix my",
+      "fix my city",
+      "leaking",
+      "valve",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my valve leak",
+      "I have valve leak",
+      "there is valve leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 9,
+      "original_call_type_name": "FAULTY TAG / CARD"
+    },
+    "call_type_code": "10007",
+    "department": "FAULTY WATER TAG / CARD",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Faulty tag / card",
+    "short_description": "FAULTY TAG",
+    "intent_bucket": "water",
+    "keywords": [
+      "faulty tag",
+      "tag card",
+      "card faulty",
+      "tag fix",
+      "fix my",
+      "my city",
+      "faulty tag card",
+      "tag card faulty",
+      "card faulty tag",
+      "faulty tag fix",
+      "tag fix my",
+      "fix my city",
+      "faulty",
+      "tag",
+      "card"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my faulty tag /",
+      "I have faulty tag /",
+      "there is faulty tag /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 10,
+      "original_call_type_name": "LOW PRESSURE"
+    },
+    "call_type_code": "10008",
+    "department": "LOW WATER PRESSURE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Low pressure",
+    "short_description": "LOW PRESSURE",
+    "intent_bucket": "water",
+    "keywords": [
+      "low pressure",
+      "pressure low",
+      "pressure fix",
+      "fix my",
+      "my city",
+      "low pressure low",
+      "pressure low pressure",
+      "low pressure fix",
+      "pressure fix my",
+      "fix my city",
+      "low",
+      "pressure",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my low pressure low",
+      "I have low pressure low",
+      "there is low pressure low"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 11,
+      "original_call_type_name": "METER BLOCKED"
+    },
+    "call_type_code": "10009",
+    "department": "Water METER BLOCKED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Meter blocked",
+    "short_description": "METER BLOCKED",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter blocked",
+      "blocked meter",
+      "blocked fix",
+      "fix my",
+      "my city",
+      "meter blocked meter",
+      "blocked meter blocked",
+      "meter blocked fix",
+      "blocked fix my",
+      "fix my city",
+      "meter",
+      "blocked",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter blocked",
+      "I have meter blocked",
+      "there is meter blocked"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 12,
+      "original_call_type_name": "METER BROKEN"
+    },
+    "call_type_code": "10010",
+    "department": "Water METER BROKEN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Meter broken",
+    "short_description": "METER BROKEN",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter broken",
+      "broken meter",
+      "broken fix",
+      "fix my",
+      "my city",
+      "meter broken meter",
+      "broken meter broken",
+      "meter broken fix",
+      "broken fix my",
+      "fix my city",
+      "meter",
+      "broken",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter broken meter",
+      "I have meter broken meter",
+      "there is meter broken meter"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 13,
+      "original_call_type_name": "METER LEAKING"
+    },
+    "call_type_code": "10011",
+    "department": "Water METER LEAKING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Meter leaking",
+    "short_description": "METER LEAK",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter leaking",
+      "leaking meter",
+      "meter leak",
+      "leak fix",
+      "fix my",
+      "my city",
+      "meter leaking meter",
+      "leaking meter leak",
+      "meter leak fix",
+      "leak fix my",
+      "fix my city",
+      "meter",
+      "leaking",
+      "leak",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter leak",
+      "I have meter leak",
+      "there is meter leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 14,
+      "original_call_type_name": "METER TAMPER"
+    },
+    "call_type_code": "10012",
+    "department": "Water METER TAMPER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter tamper",
+    "short_description": "METER TAMPER",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter tamper",
+      "tamper meter",
+      "tamper fix",
+      "fix my",
+      "my city",
+      "meter tamper meter",
+      "tamper meter tamper",
+      "meter tamper fix",
+      "tamper fix my",
+      "fix my city",
+      "meter",
+      "tamper",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter tamper meter",
+      "I have meter tamper meter",
+      "there is meter tamper meter"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 15,
+      "original_call_type_name": "METER VALVE MALFUNCTION"
+    },
+    "call_type_code": "10013",
+    "department": "Water METER VALVE MALFUNCTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter valve malfunction",
+    "short_description": "VALVE FAULT",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter valve",
+      "valve malfunction",
+      "malfunction valve",
+      "valve fault",
+      "fault fix",
+      "fix my",
+      "my city",
+      "meter valve malfunction",
+      "valve malfunction valve",
+      "malfunction valve fault",
+      "valve fault fix",
+      "fault fix my",
+      "fix my city",
+      "meter",
+      "valve"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter valve malfunction",
+      "I have meter valve malfunction",
+      "there is meter valve malfunction"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 16,
+      "original_call_type_name": "NO FREE BASIC WATER"
+    },
+    "call_type_code": "10014",
+    "department": "NO FREE BASIC WATER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "No free basic water",
+    "short_description": "NO FREE WATER",
+    "intent_bucket": "water",
+    "keywords": [
+      "no free",
+      "free basic",
+      "basic water",
+      "water no",
+      "free water",
+      "water fix",
+      "fix my",
+      "my city",
+      "no free basic",
+      "free basic water",
+      "basic water no",
+      "water no free",
+      "no free water",
+      "free water fix",
+      "water fix my"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no free",
+      "I have no free",
+      "there is no free"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 17,
+      "original_call_type_name": "NO SIGNAGE AGREEMENT"
+    },
+    "call_type_code": "10015",
+    "department": "NO WATER SIGNAGE AGREEMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "No signage agreement",
+    "short_description": "NO SIGNAGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "no signage",
+      "signage agreement",
+      "agreement no",
+      "signage fix",
+      "fix my",
+      "my city",
+      "no signage agreement",
+      "signage agreement no",
+      "agreement no signage",
+      "no signage fix",
+      "signage fix my",
+      "fix my city",
+      "signage",
+      "agreement",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no signage",
+      "I have no signage",
+      "there is no signage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 18,
+      "original_call_type_name": "NO WATER"
+    },
+    "call_type_code": "10016",
+    "department": "NO WATER SUPPLY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "No water",
+    "short_description": "NO WATER",
+    "intent_bucket": "water",
+    "keywords": [
+      "no water",
+      "water no",
+      "water fix",
+      "fix my",
+      "my city",
+      "no water no",
+      "water no water",
+      "no water fix",
+      "water fix my",
+      "fix my city",
+      "water",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no water",
+      "I have no water",
+      "there is no water"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 19,
+      "original_call_type_name": "ADMIN - PUBLIC INJURY"
+    },
+    "call_type_code": "10017",
+    "department": "ADMIN - PUBLIC INJURY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Admin - public injury",
+    "short_description": "PUBLIC INJURY",
+    "intent_bucket": "water",
+    "keywords": [
+      "admin public",
+      "public injury",
+      "injury public",
+      "injury fix",
+      "fix my",
+      "my city",
+      "admin public injury",
+      "public injury public",
+      "injury public injury",
+      "public injury fix",
+      "injury fix my",
+      "fix my city",
+      "admin",
+      "public",
+      "injury"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my admin - public",
+      "I have admin - public",
+      "there is admin - public"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 20,
+      "original_call_type_name": "COVER MISSING"
+    },
+    "call_type_code": "10018",
+    "department": "Water COVER MISSING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Cover missing",
+    "short_description": "COVER MISSING",
+    "intent_bucket": "water",
+    "keywords": [
+      "cover missing",
+      "missing cover",
+      "missing fix",
+      "fix my",
+      "my city",
+      "cover missing cover",
+      "missing cover missing",
+      "cover missing fix",
+      "missing fix my",
+      "fix my city",
+      "cover",
+      "missing",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my cover missing cover",
+      "I have cover missing cover",
+      "there is cover missing cover"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 21,
+      "original_call_type_name": "FIRE HYDRANT INACTIVE / NO WATER SUPPLY"
+    },
+    "call_type_code": "10019",
+    "department": "FIRE HYDRANT INACTIVE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "Fire hydrant inactive / no water supply",
+    "short_description": "HYDRANT OFF",
+    "intent_bucket": "water",
+    "keywords": [
+      "fire hydrant",
+      "hydrant inactive",
+      "inactive no",
+      "no water",
+      "water supply",
+      "supply hydrant",
+      "hydrant off",
+      "off fix",
+      "fix my",
+      "my city",
+      "fire hydrant inactive",
+      "hydrant inactive no",
+      "inactive no water",
+      "no water supply",
+      "water supply hydrant"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no water",
+      "I have no water",
+      "there is no water"
+    ],
+    "confidence_weight": 0.9999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 22,
+      "original_call_type_name": "LEAK / MAINTENANCE"
+    },
+    "call_type_code": "10020",
+    "department": "LEAKING WATER CONNECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Leak / maintenance",
+    "short_description": "LEAK/MAINT",
+    "intent_bucket": "water",
+    "keywords": [
+      "leak maintenance",
+      "maintenance leak",
+      "leak maint",
+      "maint fix",
+      "fix my",
+      "my city",
+      "leak maintenance leak",
+      "maintenance leak maint",
+      "leak maint fix",
+      "maint fix my",
+      "fix my city",
+      "leak",
+      "maintenance",
+      "maint",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my maintenance leak",
+      "I have maintenance leak",
+      "there is maintenance leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 23,
+      "original_call_type_name": "REPORT STOLEN METER"
+    },
+    "call_type_code": "10021",
+    "department": "REPOST STOLEN WATER METER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Stolen meter",
+    "short_description": "STOLEN METER",
+    "intent_bucket": "water",
+    "keywords": [
+      "report stolen",
+      "stolen meter",
+      "meter stolen",
+      "meter fix",
+      "fix my",
+      "my city",
+      "report stolen meter",
+      "stolen meter stolen",
+      "meter stolen meter",
+      "stolen meter fix",
+      "meter fix my",
+      "fix my city",
+      "report",
+      "stolen",
+      "meter"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my report stolen meter",
+      "I have report stolen meter",
+      "there is report stolen meter"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 24,
+      "original_call_type_name": "HIGH PRESSURE"
+    },
+    "call_type_code": "10022",
+    "department": "HIGH WATER PRESSURE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "High pressure",
+    "short_description": "HIGH PRESSURE",
+    "intent_bucket": "water",
+    "keywords": [
+      "high pressure",
+      "pressure high",
+      "pressure fix",
+      "fix my",
+      "my city",
+      "high pressure high",
+      "pressure high pressure",
+      "high pressure fix",
+      "pressure fix my",
+      "fix my city",
+      "high",
+      "pressure",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my high pressure high",
+      "I have high pressure high",
+      "there is high pressure high"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 25,
+      "original_call_type_name": "Reconnect Water After C160/ / Isolation"
+    },
+    "call_type_code": "10023",
+    "department": "RECONNECT WATER AFTER C160 // ISOLATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Reconnect water after c160/ / isolation",
+    "short_description": "RECONNECT C160",
+    "intent_bucket": "water",
+    "keywords": [
+      "reconnect water",
+      "water after",
+      "after c160",
+      "c160 isolation",
+      "isolation reconnect",
+      "reconnect c160",
+      "c160 fix",
+      "fix my",
+      "my city",
+      "reconnect water after",
+      "water after c160",
+      "after c160 isolation",
+      "c160 isolation reconnect",
+      "isolation reconnect c160",
+      "reconnect c160 fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my reconnect water after",
+      "I have reconnect water after",
+      "there is reconnect water after"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 26,
+      "original_call_type_name": "INVESTIGATE BEES IN METER BOX"
+    },
+    "call_type_code": "10024",
+    "department": "INVESTIGATE BEES IN WATER METER BOX",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate bees in meter box",
+    "short_description": "BEES IN METER",
+    "intent_bucket": "water",
+    "keywords": [
+      "investigate bees",
+      "bees in",
+      "in meter",
+      "meter box",
+      "box bees",
+      "meter fix",
+      "fix my",
+      "my city",
+      "investigate bees in",
+      "bees in meter",
+      "in meter box",
+      "meter box bees",
+      "box bees in",
+      "in meter fix",
+      "meter fix my"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my investigate bees in",
+      "I have investigate bees in",
+      "there is investigate bees in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 27,
+      "original_call_type_name": "DESLUDGING (INFORMAL HOUSE)"
+    },
+    "call_type_code": "10025",
+    "department": "Water DESLUDGE (INFORMAL HOUSE)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Desludging (informal house)",
+    "short_description": "DESLUDGING",
+    "intent_bucket": "water",
+    "keywords": [
+      "desludging informal",
+      "informal house",
+      "house desludging",
+      "desludging fix",
+      "fix my",
+      "my city",
+      "desludging informal house",
+      "informal house desludging",
+      "house desludging fix",
+      "desludging fix my",
+      "fix my city",
+      "desludging",
+      "informal",
+      "house",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my desludging (informal house)",
+      "I have desludging (informal house)",
+      "there is desludging (informal house)"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 28,
+      "original_call_type_name": "MAIN BLOCKAGE"
+    },
+    "call_type_code": "10026",
+    "department": "MAIN WATER BLOCKAGE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Main blockage",
+    "short_description": "MAIN BLOCK",
+    "intent_bucket": "water",
+    "keywords": [
+      "main blockage",
+      "blockage main",
+      "main block",
+      "block fix",
+      "fix my",
+      "my city",
+      "main blockage main",
+      "blockage main block",
+      "main block fix",
+      "block fix my",
+      "fix my city",
+      "main",
+      "blockage",
+      "block",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my main blockage main",
+      "I have main blockage main",
+      "there is main blockage main"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 29,
+      "original_call_type_name": "MANHOLE COVER MISSING / BROKEN"
+    },
+    "call_type_code": "10027",
+    "department": "Water MANHOLE COVER MISSING / BROKEN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Manhole cover missing / broken",
+    "short_description": "MANHOLE COVER MISSING",
+    "intent_bucket": "water",
+    "keywords": [
+      "manhole cover",
+      "cover missing",
+      "missing broken",
+      "broken manhole",
+      "missing fix",
+      "fix my",
+      "my city",
+      "manhole cover missing",
+      "cover missing broken",
+      "missing broken manhole",
+      "broken manhole cover",
+      "cover missing fix",
+      "missing fix my",
+      "fix my city",
+      "manhole"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my manhole cover missing",
+      "I have manhole cover missing",
+      "there is manhole cover missing"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 30,
+      "original_call_type_name": "VACUUM SERVICE"
+    },
+    "call_type_code": "10028",
+    "department": "Water VACUUM SERVICE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Vacuum service",
+    "short_description": "VACUUM SERVICE",
+    "intent_bucket": "water",
+    "keywords": [
+      "vacuum service",
+      "service vacuum",
+      "service fix",
+      "fix my",
+      "my city",
+      "vacuum service vacuum",
+      "service vacuum service",
+      "vacuum service fix",
+      "service fix my",
+      "fix my city",
+      "vacuum",
+      "service",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my vacuum service vacuum",
+      "I have vacuum service vacuum",
+      "there is vacuum service vacuum"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 31,
+      "original_call_type_name": "CLOSE WATER AS PER OWNERS REQUEST"
+    },
+    "call_type_code": "10029",
+    "department": "CLOSE WATER AS PER OWNER REQUEST",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Close water as per owners request",
+    "short_description": "CLOSE WATER",
+    "intent_bucket": "water",
+    "keywords": [
+      "close water",
+      "water as",
+      "as per",
+      "per owners",
+      "owners request",
+      "request close",
+      "water joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "close water as",
+      "water as per",
+      "as per owners",
+      "per owners request",
+      "owners request close"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my close water as",
+      "I have close water as",
+      "there is close water as"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 32,
+      "original_call_type_name": "INTERMITTENT SUPPLY"
+    },
+    "call_type_code": "10030",
+    "department": "INTERMITTENT WATER SUPPLY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "Intermittent supply",
+    "short_description": "INTERMITTENT SUPPLY",
+    "intent_bucket": "water",
+    "keywords": [
+      "intermittent supply",
+      "supply intermittent",
+      "supply fix",
+      "fix my",
+      "my city",
+      "intermittent supply intermittent",
+      "supply intermittent supply",
+      "intermittent supply fix",
+      "supply fix my",
+      "fix my city",
+      "intermittent",
+      "supply",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my intermittent supply intermittent",
+      "I have intermittent supply intermittent",
+      "there is intermittent supply intermittent"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 33,
+      "original_call_type_name": "LACK OF PRESSURE"
+    },
+    "call_type_code": "10031",
+    "department": "LACK OF WATER PRESSURE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Lack of pressure",
+    "short_description": "NO PRESSURE",
+    "intent_bucket": "water",
+    "keywords": [
+      "lack of",
+      "of pressure",
+      "pressure no",
+      "no pressure",
+      "pressure fix",
+      "fix my",
+      "my city",
+      "lack of pressure",
+      "of pressure no",
+      "pressure no pressure",
+      "no pressure fix",
+      "pressure fix my",
+      "fix my city",
+      "lack",
+      "pressure"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no pressure",
+      "I have no pressure",
+      "there is no pressure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 34,
+      "original_call_type_name": "NO WATER - AREA OUTAGE"
+    },
+    "call_type_code": "10032",
+    "department": "NO WATER - AREA OUTAGE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "No water - area outage",
+    "short_description": "AREA OUTAGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "no water",
+      "water area",
+      "area outage",
+      "outage area",
+      "outage fix",
+      "fix my",
+      "my city",
+      "no water area",
+      "water area outage",
+      "area outage area",
+      "outage area outage",
+      "area outage fix",
+      "outage fix my",
+      "fix my city",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no water",
+      "I have no water",
+      "there is no water"
+    ],
+    "confidence_weight": 0.9999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 35,
+      "original_call_type_name": "NO WATER - INDIVIDUAL"
+    },
+    "call_type_code": "10033",
+    "department": "NO WATER - INDIVIDUAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "No water - individual",
+    "short_description": "INDIVIDUAL OUTAGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "no water",
+      "water individual",
+      "individual individual",
+      "individual outage",
+      "outage fix",
+      "fix my",
+      "my city",
+      "no water individual",
+      "water individual individual",
+      "individual individual outage",
+      "individual outage fix",
+      "outage fix my",
+      "fix my city",
+      "water",
+      "individual"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no water",
+      "I have no water",
+      "there is no water"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 36,
+      "original_call_type_name": "LEAKING CONNECTION"
+    },
+    "call_type_code": "10034",
+    "department": "LEAKING WATER CONNECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Leaking connection",
+    "short_description": "LEAKING CONN.",
+    "intent_bucket": "water",
+    "keywords": [
+      "leaking connection",
+      "connection leaking",
+      "leaking conn",
+      "conn fix",
+      "fix my",
+      "my city",
+      "leaking connection leaking",
+      "connection leaking conn",
+      "leaking conn fix",
+      "conn fix my",
+      "fix my city",
+      "leaking",
+      "connection",
+      "conn",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my connection leak",
+      "I have connection leak",
+      "there is connection leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 37,
+      "original_call_type_name": "MAJOR WATER BURST"
+    },
+    "call_type_code": "10035",
+    "department": "MAJOR WATER BURST",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Major water burst",
+    "short_description": "MAJOR BURST",
+    "intent_bucket": "water",
+    "keywords": [
+      "major water",
+      "water burst",
+      "burst major",
+      "major burst",
+      "burst fix",
+      "fix my",
+      "my city",
+      "major water burst",
+      "water burst major",
+      "burst major burst",
+      "major burst fix",
+      "burst fix my",
+      "fix my city",
+      "major",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my water burst",
+      "I have water burst",
+      "there is water burst"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 38,
+      "original_call_type_name": "ANIMALS IN WATER"
+    },
+    "call_type_code": "10036",
+    "department": "ANIMALS IN WATER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Animals in water",
+    "short_description": "ANIMALS IN WATER",
+    "intent_bucket": "water",
+    "keywords": [
+      "animals in",
+      "in water",
+      "water animals",
+      "water fix",
+      "fix my",
+      "my city",
+      "animals in water",
+      "in water animals",
+      "water animals in",
+      "in water fix",
+      "water fix my",
+      "fix my city",
+      "animals",
+      "water",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my animals in water",
+      "I have animals in water",
+      "there is animals in water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 39,
+      "original_call_type_name": "BITS IN WATER"
+    },
+    "call_type_code": "10037",
+    "department": "BITS IN WATER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bits in water",
+    "short_description": "WATER CONTAMINATION",
+    "intent_bucket": "water",
+    "keywords": [
+      "bits in",
+      "in water",
+      "water water",
+      "water contamination",
+      "contamination fix",
+      "fix my",
+      "my city",
+      "bits in water",
+      "in water water",
+      "water water contamination",
+      "water contamination fix",
+      "contamination fix my",
+      "fix my city",
+      "bits",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my bits in water",
+      "I have bits in water",
+      "there is bits in water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 40,
+      "original_call_type_name": "SUSPECTED WATER ILLNESS"
+    },
+    "call_type_code": "10038",
+    "department": "SUSPECTED WATER ILLNESS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Suspected water illness",
+    "short_description": "WATER ILLNESS",
+    "intent_bucket": "water",
+    "keywords": [
+      "suspected water",
+      "water illness",
+      "illness water",
+      "illness fix",
+      "fix my",
+      "my city",
+      "suspected water illness",
+      "water illness water",
+      "illness water illness",
+      "water illness fix",
+      "illness fix my",
+      "fix my city",
+      "suspected",
+      "water",
+      "illness"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my suspected water illness",
+      "I have suspected water illness",
+      "there is suspected water illness"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 41,
+      "original_call_type_name": "CONSORTIUM COMMUNICATION ERROR"
+    },
+    "call_type_code": "10039",
+    "department": "Water CONSORTIUM COMMUNICATION ERROR",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Consortium communication error",
+    "short_description": "COMMUNICATION ERROR",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium communication",
+      "communication error",
+      "error communication",
+      "error joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "consortium communication error",
+      "communication error communication",
+      "error communication error",
+      "communication error joburg",
+      "error joburg services",
+      "joburg services service",
+      "services service request",
+      "consortium"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my consortium communication error",
+      "I have consortium communication error",
+      "there is consortium communication error"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 42,
+      "original_call_type_name": "LOST TAG / CARD"
+    },
+    "call_type_code": "10040",
+    "department": "LOST WATER TAG / CARD",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Lost tag / card",
+    "short_description": "LOST TAG",
+    "intent_bucket": "water",
+    "keywords": [
+      "lost tag",
+      "tag card",
+      "card lost",
+      "tag joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "lost tag card",
+      "tag card lost",
+      "card lost tag",
+      "lost tag joburg",
+      "tag joburg services",
+      "joburg services service",
+      "services service request",
+      "lost"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my lost tag /",
+      "I have lost tag /",
+      "there is lost tag /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 43,
+      "original_call_type_name": "TARIFF INVESTIGATION"
+    },
+    "call_type_code": "10041",
+    "department": "Water TARIF INVESTIGATION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Tariff investigation",
+    "short_description": "TARIF INQUIRY",
+    "intent_bucket": "water",
+    "keywords": [
+      "tariff investigation",
+      "investigation tarif",
+      "tarif inquiry",
+      "inquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "tariff investigation tarif",
+      "investigation tarif inquiry",
+      "tarif inquiry joburg",
+      "inquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "tariff",
+      "investigation"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my tariff investigation tarif",
+      "I have tariff investigation tarif",
+      "there is tariff investigation tarif"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 44,
+      "original_call_type_name": "WRONG TAG / CARD"
+    },
+    "call_type_code": "10042",
+    "department": "WRONG WATER TAG / CARD",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Wrong tag / card",
+    "short_description": "WRONG TAG",
+    "intent_bucket": "water",
+    "keywords": [
+      "wrong tag",
+      "tag card",
+      "card wrong",
+      "tag joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "wrong tag card",
+      "tag card wrong",
+      "card wrong tag",
+      "wrong tag joburg",
+      "tag joburg services",
+      "joburg services service",
+      "services service request",
+      "wrong"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my wrong tag /",
+      "I have wrong tag /",
+      "there is wrong tag /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 45,
+      "original_call_type_name": "CONSORTIUM RETROFITTING QUALITY"
+    },
+    "call_type_code": "10043",
+    "department": "Water CONSORTIUM RETROFITTING QUALITY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Consortium retrofitting quality",
+    "short_description": "RETROFITTING QUALITY",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium retrofitting",
+      "retrofitting quality",
+      "quality retrofitting",
+      "quality fix",
+      "fix my",
+      "my city",
+      "consortium retrofitting quality",
+      "retrofitting quality retrofitting",
+      "quality retrofitting quality",
+      "retrofitting quality fix",
+      "quality fix my",
+      "fix my city",
+      "consortium",
+      "retrofitting",
+      "quality"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my consortium retrofitting quality",
+      "I have consortium retrofitting quality",
+      "there is consortium retrofitting quality"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 46,
+      "original_call_type_name": "CONSORTIUM SAFETY"
+    },
+    "call_type_code": "10044",
+    "department": "Water CONSORTIUM SAFETY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Consortium safety",
+    "short_description": "SAFETY ISSUES",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium safety",
+      "safety safety",
+      "safety issues",
+      "issues fix",
+      "fix my",
+      "my city",
+      "consortium safety safety",
+      "safety safety issues",
+      "safety issues fix",
+      "issues fix my",
+      "fix my city",
+      "consortium",
+      "safety",
+      "issues",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my consortium safety safety",
+      "I have consortium safety safety",
+      "there is consortium safety safety"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 47,
+      "original_call_type_name": "CONSORTIUM UNDERGROUND LEAKS"
+    },
+    "call_type_code": "10045",
+    "department": "Water CONSORTIUM UNDERGROUND LEAKS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Consortium underground leaks",
+    "short_description": "UNDERGROUND LEAKS",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium underground",
+      "underground leaks",
+      "leaks underground",
+      "leaks fix",
+      "fix my",
+      "my city",
+      "consortium underground leaks",
+      "underground leaks underground",
+      "leaks underground leaks",
+      "underground leaks fix",
+      "leaks fix my",
+      "fix my city",
+      "consortium",
+      "underground",
+      "leaks"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my underground leak",
+      "I have underground leak",
+      "there is underground leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 48,
+      "original_call_type_name": "SEWER DEBRIS / BARRICADE / BACKFILL"
+    },
+    "call_type_code": "10046",
+    "department": "Water SEWER DEBRIS / BARRICADE / BACKFILL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Sewer debris / barricade / backfill",
+    "short_description": "SEWER DEBRIS",
+    "intent_bucket": "water",
+    "keywords": [
+      "sewer debris",
+      "debris barricade",
+      "barricade backfill",
+      "backfill sewer",
+      "debris fix",
+      "fix my",
+      "my city",
+      "sewer debris barricade",
+      "debris barricade backfill",
+      "barricade backfill sewer",
+      "backfill sewer debris",
+      "sewer debris fix",
+      "debris fix my",
+      "fix my city",
+      "sewer"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my sewer debris /",
+      "I have sewer debris /",
+      "there is sewer debris /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 49,
+      "original_call_type_name": "WATER DEBRIS / BARRICADE / BACKFILL"
+    },
+    "call_type_code": "10047",
+    "department": "Water DEBRIS / BARRICADE / BACKFILL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water debris / barricade / backfill",
+    "short_description": "WATER DEBRIS",
+    "intent_bucket": "water",
+    "keywords": [
+      "water debris",
+      "debris barricade",
+      "barricade backfill",
+      "backfill water",
+      "debris fix",
+      "fix my",
+      "my city",
+      "water debris barricade",
+      "debris barricade backfill",
+      "barricade backfill water",
+      "backfill water debris",
+      "water debris fix",
+      "debris fix my",
+      "fix my city",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water debris /",
+      "I have water debris /",
+      "there is water debris /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 50,
+      "original_call_type_name": "PREPAID"
+    },
+    "call_type_code": "10048",
+    "department": "PREPAID WATER PROBLEM",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid",
+    "short_description": "PREPAID",
+    "intent_bucket": "water",
+    "keywords": [
+      "prepaid prepaid",
+      "prepaid joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "prepaid prepaid joburg",
+      "prepaid joburg services",
+      "joburg services service",
+      "services service request",
+      "prepaid",
+      "joburg",
+      "services",
+      "service",
+      "request"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid prepaid",
+      "I have prepaid prepaid",
+      "there is prepaid prepaid"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 51,
+      "original_call_type_name": "SEWER CONSTRUCTION"
+    },
+    "call_type_code": "10050",
+    "department": "SEWER WATER CONSTRUCTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Sewer construction",
+    "short_description": "SEWER CONSTRUCTION",
+    "intent_bucket": "water",
+    "keywords": [
+      "sewer construction",
+      "construction sewer",
+      "construction fix",
+      "fix my",
+      "my city",
+      "sewer construction sewer",
+      "construction sewer construction",
+      "sewer construction fix",
+      "construction fix my",
+      "fix my city",
+      "sewer",
+      "construction",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my sewer construction sewer",
+      "I have sewer construction sewer",
+      "there is sewer construction sewer"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 52,
+      "original_call_type_name": "WATER EXCAVATION"
+    },
+    "call_type_code": "10051",
+    "department": "Water EXCAVATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water excavation",
+    "short_description": "WATER EXCAVATION",
+    "intent_bucket": "water",
+    "keywords": [
+      "water excavation",
+      "excavation water",
+      "excavation fix",
+      "fix my",
+      "my city",
+      "water excavation water",
+      "excavation water excavation",
+      "water excavation fix",
+      "excavation fix my",
+      "fix my city",
+      "water",
+      "excavation",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water excavation water",
+      "I have water excavation water",
+      "there is water excavation water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 53,
+      "original_call_type_name": "INSTALL FIRE SERVICE PIPE"
+    },
+    "call_type_code": "10052",
+    "department": "INSTALL WATER FIRE SERVICE PIPE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Install fire service pipe",
+    "short_description": "FIRE SERVICE PIPE",
+    "intent_bucket": "water",
+    "keywords": [
+      "install fire",
+      "fire service",
+      "service pipe",
+      "pipe fire",
+      "pipe fix",
+      "fix my",
+      "my city",
+      "install fire service",
+      "fire service pipe",
+      "service pipe fire",
+      "pipe fire service",
+      "service pipe fix",
+      "pipe fix my",
+      "fix my city",
+      "install"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my install fire service",
+      "I have install fire service",
+      "there is install fire service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 54,
+      "original_call_type_name": "RESEAL HYDRANT"
+    },
+    "call_type_code": "10053",
+    "department": "RESEAL WATER HYDRANT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Reseal hydrant",
+    "short_description": "RESEAL HYDRANT",
+    "intent_bucket": "water",
+    "keywords": [
+      "reseal hydrant",
+      "hydrant reseal",
+      "hydrant fix",
+      "fix my",
+      "my city",
+      "reseal hydrant reseal",
+      "hydrant reseal hydrant",
+      "reseal hydrant fix",
+      "hydrant fix my",
+      "fix my city",
+      "reseal",
+      "hydrant",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my reseal hydrant reseal",
+      "I have reseal hydrant reseal",
+      "there is reseal hydrant reseal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 55,
+      "original_call_type_name": "METER / V-BOX COVER DAMAGED"
+    },
+    "call_type_code": "10054",
+    "department": "Water METER / V-BOX COVER DAMAGED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Meter / v-box cover damaged",
+    "short_description": "COVER DAMAGED",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter v",
+      "v box",
+      "box cover",
+      "cover damaged",
+      "damaged cover",
+      "damaged fix",
+      "fix my",
+      "my city",
+      "meter v box",
+      "v box cover",
+      "box cover damaged",
+      "cover damaged cover",
+      "damaged cover damaged",
+      "cover damaged fix",
+      "damaged fix my"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my cover damage",
+      "I have cover damage",
+      "there is cover damage"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 56,
+      "original_call_type_name": "METER / V-BOX COVER MISSING"
+    },
+    "call_type_code": "10055",
+    "department": "Water METER / V-BOX COVER MISSING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter / v-box cover missing",
+    "short_description": "COVER MISSING",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter v",
+      "v box",
+      "box cover",
+      "cover missing",
+      "missing cover",
+      "missing fix",
+      "fix my",
+      "my city",
+      "meter v box",
+      "v box cover",
+      "box cover missing",
+      "cover missing cover",
+      "missing cover missing",
+      "cover missing fix",
+      "missing fix my"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter / v-box",
+      "I have meter / v-box",
+      "there is meter / v-box"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 57,
+      "original_call_type_name": "SEWER CONTRACTOR / AGENCY"
+    },
+    "call_type_code": "10056",
+    "department": "Water SEWER CONTRACTOR / AGENCY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Sewer contractor / agency",
+    "short_description": "SEWER CONTRACTOR",
+    "intent_bucket": "water",
+    "keywords": [
+      "sewer contractor",
+      "contractor agency",
+      "agency sewer",
+      "contractor fix",
+      "fix my",
+      "my city",
+      "sewer contractor agency",
+      "contractor agency sewer",
+      "agency sewer contractor",
+      "sewer contractor fix",
+      "contractor fix my",
+      "fix my city",
+      "sewer",
+      "contractor",
+      "agency"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my sewer contractor /",
+      "I have sewer contractor /",
+      "there is sewer contractor /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 58,
+      "original_call_type_name": "WATER CONTRACTOR / AGENCY"
+    },
+    "call_type_code": "10057",
+    "department": "Water CONTRACTOR / AGENCY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water contractor / agency",
+    "short_description": "WATER CONTRACTOR",
+    "intent_bucket": "water",
+    "keywords": [
+      "water contractor",
+      "contractor agency",
+      "agency water",
+      "contractor fix",
+      "fix my",
+      "my city",
+      "water contractor agency",
+      "contractor agency water",
+      "agency water contractor",
+      "water contractor fix",
+      "contractor fix my",
+      "fix my city",
+      "water",
+      "contractor",
+      "agency"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water contractor /",
+      "I have water contractor /",
+      "there is water contractor /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 59,
+      "original_call_type_name": "WATER TAR PATCH INSPECTION"
+    },
+    "call_type_code": "10058",
+    "department": "Water TAR PATCH INSPECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water tar patch inspection",
+    "short_description": "TAR PATCH INSPECTION",
+    "intent_bucket": "water",
+    "keywords": [
+      "water tar",
+      "tar patch",
+      "patch inspection",
+      "inspection tar",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "water tar patch",
+      "tar patch inspection",
+      "patch inspection tar",
+      "inspection tar patch",
+      "patch inspection fix",
+      "inspection fix my",
+      "fix my city",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water tar patch",
+      "I have water tar patch",
+      "there is water tar patch"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 60,
+      "original_call_type_name": "ABLUTION MANHOLE REFURBISH"
+    },
+    "call_type_code": "10059",
+    "department": "ABLUTION WATER MANHOLE REFURBISH",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Ablution manhole refurbish",
+    "short_description": "MANHOLE REFURBISH",
+    "intent_bucket": "water",
+    "keywords": [
+      "ablution manhole",
+      "manhole refurbish",
+      "refurbish manhole",
+      "refurbish fix",
+      "fix my",
+      "my city",
+      "ablution manhole refurbish",
+      "manhole refurbish manhole",
+      "refurbish manhole refurbish",
+      "manhole refurbish fix",
+      "refurbish fix my",
+      "fix my city",
+      "ablution",
+      "manhole",
+      "refurbish"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my ablution manhole refurbish",
+      "I have ablution manhole refurbish",
+      "there is ablution manhole refurbish"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 61,
+      "original_call_type_name": "LOCATE MANHOLE"
+    },
+    "call_type_code": "10060",
+    "department": "LOCATE WATER MANHOLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Locate manhole",
+    "short_description": "LOCATE MANHOLE",
+    "intent_bucket": "water",
+    "keywords": [
+      "locate manhole",
+      "manhole locate",
+      "manhole fix",
+      "fix my",
+      "my city",
+      "locate manhole locate",
+      "manhole locate manhole",
+      "locate manhole fix",
+      "manhole fix my",
+      "fix my city",
+      "locate",
+      "manhole",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my locate manhole locate",
+      "I have locate manhole locate",
+      "there is locate manhole locate"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 62,
+      "original_call_type_name": "MANHOLE REPAIRS / RAISE"
+    },
+    "call_type_code": "10061",
+    "department": "Water MANHOLE REPAIRS / RAISE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Manhole repairs / raise",
+    "short_description": "MANHOLE REPAIRS",
+    "intent_bucket": "water",
+    "keywords": [
+      "manhole repairs",
+      "repairs raise",
+      "raise manhole",
+      "repairs fix",
+      "fix my",
+      "my city",
+      "manhole repairs raise",
+      "repairs raise manhole",
+      "raise manhole repairs",
+      "manhole repairs fix",
+      "repairs fix my",
+      "fix my city",
+      "manhole",
+      "repairs",
+      "raise"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my manhole repairs /",
+      "I have manhole repairs /",
+      "there is manhole repairs /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 63,
+      "original_call_type_name": "REPAIR BROKEN CONNECTION"
+    },
+    "call_type_code": "10062",
+    "department": "REPAIR BROKEN WATER CONNECTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Repair broken connection",
+    "short_description": "BROKEN CONN.",
+    "intent_bucket": "water",
+    "keywords": [
+      "repair broken",
+      "broken connection",
+      "connection broken",
+      "broken conn",
+      "conn fix",
+      "fix my",
+      "my city",
+      "repair broken connection",
+      "broken connection broken",
+      "connection broken conn",
+      "broken conn fix",
+      "conn fix my",
+      "fix my city",
+      "repair",
+      "broken"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my repair broken connection",
+      "I have repair broken connection",
+      "there is repair broken connection"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 64,
+      "original_call_type_name": "SPILLAGE CLEANUP"
+    },
+    "call_type_code": "10063",
+    "department": "Water SPILLAGE CLEANUP",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Spillage cleanup",
+    "short_description": "SPILLAGE CLEANUP",
+    "intent_bucket": "water",
+    "keywords": [
+      "spillage cleanup",
+      "cleanup spillage",
+      "cleanup fix",
+      "fix my",
+      "my city",
+      "spillage cleanup spillage",
+      "cleanup spillage cleanup",
+      "spillage cleanup fix",
+      "cleanup fix my",
+      "fix my city",
+      "spillage",
+      "cleanup",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my spillage cleanup spillage",
+      "I have spillage cleanup spillage",
+      "there is spillage cleanup spillage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 65,
+      "original_call_type_name": "MINOR WATER BURST"
+    },
+    "call_type_code": "10064",
+    "department": "MINOR WATER BURST",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Minor water burst",
+    "short_description": "MINOR BURST",
+    "intent_bucket": "water",
+    "keywords": [
+      "minor water",
+      "water burst",
+      "burst minor",
+      "minor burst",
+      "burst fix",
+      "fix my",
+      "my city",
+      "minor water burst",
+      "water burst minor",
+      "burst minor burst",
+      "minor burst fix",
+      "burst fix my",
+      "fix my city",
+      "minor",
+      "water"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my water burst",
+      "I have water burst",
+      "there is water burst"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 66,
+      "original_call_type_name": "METER COVERED / UNABLE TO LOCATE"
+    },
+    "call_type_code": "10065",
+    "department": "Water METER COVERED / UNABLE TO LOCATE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter covered / unable to locate",
+    "short_description": "METER ISSUES",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter covered",
+      "covered unable",
+      "unable to",
+      "to locate",
+      "locate meter",
+      "meter issues",
+      "issues fix",
+      "fix my",
+      "my city",
+      "meter covered unable",
+      "covered unable to",
+      "unable to locate",
+      "to locate meter",
+      "locate meter issues",
+      "meter issues fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter covered /",
+      "I have meter covered /",
+      "there is meter covered /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 67,
+      "original_call_type_name": "METER FAULTY / DIAL SPINNING"
+    },
+    "call_type_code": "10066",
+    "department": "Water METER FAULTY / DIAL SPINNING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter faulty / dial spinning",
+    "short_description": "FAULTY METER",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter faulty",
+      "faulty dial",
+      "dial spinning",
+      "spinning faulty",
+      "faulty meter",
+      "meter fix",
+      "fix my",
+      "my city",
+      "meter faulty dial",
+      "faulty dial spinning",
+      "dial spinning faulty",
+      "spinning faulty meter",
+      "faulty meter fix",
+      "meter fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter faulty /",
+      "I have meter faulty /",
+      "there is meter faulty /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 68,
+      "original_call_type_name": "METER LEAKING"
+    },
+    "call_type_code": "10067",
+    "department": "Water METER LEAKING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Meter leaking",
+    "short_description": "METER LEAK",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter leaking",
+      "leaking meter",
+      "meter leak",
+      "leak fix",
+      "fix my",
+      "my city",
+      "meter leaking meter",
+      "leaking meter leak",
+      "meter leak fix",
+      "leak fix my",
+      "fix my city",
+      "meter",
+      "leaking",
+      "leak",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter leak",
+      "I have meter leak",
+      "there is meter leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 69,
+      "original_call_type_name": "METER TURNING BACKWARDS"
+    },
+    "call_type_code": "10068",
+    "department": "Water METER TURNING BACKWARDS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter turning backwards",
+    "short_description": "METER ISSUES",
+    "intent_bucket": "water",
+    "keywords": [
+      "meter turning",
+      "turning backwards",
+      "backwards meter",
+      "meter issues",
+      "issues fix",
+      "fix my",
+      "my city",
+      "meter turning backwards",
+      "turning backwards meter",
+      "backwards meter issues",
+      "meter issues fix",
+      "issues fix my",
+      "fix my city",
+      "meter",
+      "turning"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter turning backwards",
+      "I have meter turning backwards",
+      "there is meter turning backwards"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 70,
+      "original_call_type_name": "STOPCOCK DAMAGED"
+    },
+    "call_type_code": "10069",
+    "department": "Water STOP COCK DAMAGED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Stopcock damaged",
+    "short_description": "STOPCOCK DAMAGED",
+    "intent_bucket": "water",
+    "keywords": [
+      "stopcock damaged",
+      "damaged stopcock",
+      "damaged fix",
+      "fix my",
+      "my city",
+      "stopcock damaged stopcock",
+      "damaged stopcock damaged",
+      "stopcock damaged fix",
+      "damaged fix my",
+      "fix my city",
+      "stopcock",
+      "damaged",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my stopcock damage",
+      "I have stopcock damage",
+      "there is stopcock damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 71,
+      "original_call_type_name": "PAVING / METER BOX"
+    },
+    "call_type_code": "10070",
+    "department": "Water PAVING / METER BOX",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Paving / meter box",
+    "short_description": "METER BOX PAVING",
+    "intent_bucket": "water",
+    "keywords": [
+      "paving meter",
+      "meter box",
+      "box meter",
+      "box paving",
+      "paving fix",
+      "fix my",
+      "my city",
+      "paving meter box",
+      "meter box meter",
+      "box meter box",
+      "meter box paving",
+      "box paving fix",
+      "paving fix my",
+      "fix my city",
+      "paving"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my paving / meter",
+      "I have paving / meter",
+      "there is paving / meter"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 72,
+      "original_call_type_name": "CONSORTIUM LEAKING PLUMBING FIXTURES"
+    },
+    "call_type_code": "10071",
+    "department": "Water CONSORTIUM LEAKING PLUMBING FIXTURES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Consortium leaking plumbing fixtures",
+    "short_description": "LEAKING FEATURES",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium leaking",
+      "leaking plumbing",
+      "plumbing fixtures",
+      "fixtures leaking",
+      "leaking features",
+      "features fix",
+      "fix my",
+      "my city",
+      "consortium leaking plumbing",
+      "leaking plumbing fixtures",
+      "plumbing fixtures leaking",
+      "fixtures leaking features",
+      "leaking features fix",
+      "features fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my consortium leak",
+      "I have consortium leak",
+      "there is consortium leak"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 73,
+      "original_call_type_name": "CONSORTIUM OPEN TRENCHES"
+    },
+    "call_type_code": "10072",
+    "department": "Water CONSORTIUM OPEN TRENCHES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Consortium open trenches",
+    "short_description": "OPEN TRENCHES",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium open",
+      "open trenches",
+      "trenches open",
+      "trenches fix",
+      "fix my",
+      "my city",
+      "consortium open trenches",
+      "open trenches open",
+      "trenches open trenches",
+      "open trenches fix",
+      "trenches fix my",
+      "fix my city",
+      "consortium",
+      "open",
+      "trenches"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my consortium open trenches",
+      "I have consortium open trenches",
+      "there is consortium open trenches"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 74,
+      "original_call_type_name": "CONSORTIUM REINSTATEMENT"
+    },
+    "call_type_code": "10073",
+    "department": "Water CONSORTIUM REINSTATEMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "billing",
+    "issue_type": "Consortium reinstatement",
+    "short_description": "REINSTATEMENT",
+    "intent_bucket": "water",
+    "keywords": [
+      "consortium reinstatement",
+      "reinstatement reinstatement",
+      "reinstatement fix",
+      "fix my",
+      "my city",
+      "consortium reinstatement reinstatement",
+      "reinstatement reinstatement fix",
+      "reinstatement fix my",
+      "fix my city",
+      "consortium",
+      "reinstatement",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my consortium reinstatement reinstatement",
+      "I have consortium reinstatement reinstatement",
+      "there is consortium reinstatement reinstatement"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 75,
+      "original_call_type_name": "BAD ODOUR"
+    },
+    "call_type_code": "10074",
+    "department": "BAD WATER ODOUR",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bad odour",
+    "short_description": "BAD ODOUR",
+    "intent_bucket": "water",
+    "keywords": [
+      "bad odour",
+      "odour bad",
+      "odour fix",
+      "fix my",
+      "my city",
+      "bad odour bad",
+      "odour bad odour",
+      "bad odour fix",
+      "odour fix my",
+      "fix my city",
+      "bad",
+      "odour",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my bad odour bad",
+      "I have bad odour bad",
+      "there is bad odour bad"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 76,
+      "original_call_type_name": "BLOCKAGE - PRIVATE"
+    },
+    "call_type_code": "10075",
+    "department": "Water BLOCKAGE - PRIVATE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Blockage - private",
+    "short_description": "PRIVATE BLOCKAGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "blockage private",
+      "private private",
+      "private blockage",
+      "blockage fix",
+      "fix my",
+      "my city",
+      "blockage private private",
+      "private private blockage",
+      "private blockage fix",
+      "blockage fix my",
+      "fix my city",
+      "blockage",
+      "private",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my blockage - private",
+      "I have blockage - private",
+      "there is blockage - private"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 77,
+      "original_call_type_name": "INVESTIGATE ILLEGAL CONNECTION / BYPASS"
+    },
+    "call_type_code": "10076",
+    "department": "INVESTIGATE ILLEGAL WATER CONNECTION / BYPASS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate illegal connection / bypass",
+    "short_description": "INVESTIGATE BYPASS",
+    "intent_bucket": "water",
+    "keywords": [
+      "investigate illegal",
+      "illegal connection",
+      "connection bypass",
+      "bypass investigate",
+      "investigate bypass",
+      "bypass fix",
+      "fix my",
+      "my city",
+      "investigate illegal connection",
+      "illegal connection bypass",
+      "connection bypass investigate",
+      "bypass investigate bypass",
+      "investigate bypass fix",
+      "bypass fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my investigate illegal connection",
+      "I have investigate illegal connection",
+      "there is investigate illegal connection"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 78,
+      "original_call_type_name": "ADMIN - INSURANCE CLAIM"
+    },
+    "call_type_code": "10077",
+    "department": "ADMIN-INSURANCE WATER CLAIM",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Admin - insurance claim",
+    "short_description": "INSURANCE CLAIM",
+    "intent_bucket": "water",
+    "keywords": [
+      "admin insurance",
+      "insurance claim",
+      "claim insurance",
+      "claim joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "admin insurance claim",
+      "insurance claim insurance",
+      "claim insurance claim",
+      "insurance claim joburg",
+      "claim joburg services",
+      "joburg services service",
+      "services service request",
+      "admin"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my admin - insurance",
+      "I have admin - insurance",
+      "there is admin - insurance"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Joburg Water OLD",
+      "row_number": 79,
+      "original_call_type_name": "BURST WATER PIPE (PARK, CEMETARY, NATURE RESERVE)"
+    },
+    "call_type_code": "70079",
+    "department": "BURST WATER PIPE (PARK, CEMETARY, NATURE RESERVE)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "leak",
+    "issue_type": "Burst water pipe (park, cemetary, nature reserve)",
+    "short_description": "BURST WATER PIPE",
+    "intent_bucket": "water",
+    "keywords": [
+      "burst water",
+      "water pipe",
+      "pipe park",
+      "park cemetary",
+      "cemetary nature",
+      "nature reserve",
+      "reserve burst",
+      "pipe fix",
+      "fix my",
+      "my city",
+      "burst water pipe",
+      "water pipe park",
+      "pipe park cemetary",
+      "park cemetary nature",
+      "cemetary nature reserve"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my burst water pipe",
+      "I have burst water pipe",
+      "there is burst water pipe"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

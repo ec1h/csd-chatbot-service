@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables — NEVER commit real credentials
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Generated / temp analysis files
+project_files.txt
+large_files.txt
+project_tree.txt
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Test reports (keep .gitkeep)
+reports/*.html
+reports/*.json
+reports/*.md
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Old app backup (if needed)
+app_old.py
+app_backup.py
+
+# Binary classifier cache — regenerated at startup
+src/classification/cache/*.pkl
+
+# Call-type metadata backup snapshots — derived from source data
+data/call_types/call_type_metadata_pre_rebalance.json
+data/call_types/call_type_metadata_original.json
+data/call_types/call_type_metadata_rebalanced.json
+data/call_types/call_type_metadata_enhanced.json
+
+# Terraform — never commit state files or provider binaries
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+terraform/test-outputs.txt
+terraform/environments/test/terraform.tfvars  # may contain secrets in future

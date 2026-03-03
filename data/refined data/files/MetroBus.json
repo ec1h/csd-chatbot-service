@@ -1,0 +1,1374 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 2,
+      "original_call_type_name": "DAMAGE ON BUS"
+    },
+    "call_type_code": "80001",
+    "department": "Metro Bus DAMAGE ON BUS",
+    "service_group": "METRO BUS",
+    "issue_category": "damage",
+    "issue_type": "Damage on bus",
+    "short_description": "BUS DAMAGE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "damage on",
+      "on bus",
+      "bus bus",
+      "bus damage",
+      "damage metro",
+      "metro bus",
+      "damage on bus",
+      "on bus bus",
+      "bus bus damage",
+      "bus damage metro",
+      "damage metro bus",
+      "damage",
+      "bus",
+      "metro"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my bus damage",
+      "I have bus damage",
+      "there is bus damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 3,
+      "original_call_type_name": "CANCEL BUS HIRE  LONG TERM"
+    },
+    "call_type_code": "80002",
+    "department": "Metro Bus CONTRACT HIRE CANCELLATION",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Cancel bus hire  long term",
+    "short_description": "HIRE CANCELLATION",
+    "intent_bucket": "transport",
+    "keywords": [
+      "cancel bus",
+      "bus hire",
+      "hire long",
+      "long term",
+      "term hire",
+      "hire cancellation",
+      "cancellation metro",
+      "metro bus",
+      "cancel bus hire",
+      "bus hire long",
+      "hire long term",
+      "long term hire",
+      "term hire cancellation",
+      "hire cancellation metro",
+      "cancellation metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my cancel bus hire",
+      "I have cancel bus hire",
+      "there is cancel bus hire"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 4,
+      "original_call_type_name": "MECHANICAL BREAKDOWN"
+    },
+    "call_type_code": "80003",
+    "department": "Metro Bus MECHANICAL BREAKDOWN",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Mechanical breakdown",
+    "short_description": "MECHANICAL BREAKDOWN",
+    "intent_bucket": "transport",
+    "keywords": [
+      "mechanical breakdown",
+      "breakdown mechanical",
+      "breakdown metro",
+      "metro bus",
+      "mechanical breakdown mechanical",
+      "breakdown mechanical breakdown",
+      "mechanical breakdown metro",
+      "breakdown metro bus",
+      "mechanical",
+      "breakdown",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my mechanical breakdown mechanical",
+      "I have mechanical breakdown mechanical",
+      "there is mechanical breakdown mechanical"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 5,
+      "original_call_type_name": "METROBUS NON ARRIVAL"
+    },
+    "call_type_code": "80004",
+    "department": "METRO BUS NON ARRIVAL",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Metrobus non arrival",
+    "short_description": "BUS NON-ARRIVAL",
+    "intent_bucket": "transport",
+    "keywords": [
+      "metrobus non",
+      "non arrival",
+      "arrival bus",
+      "bus non",
+      "arrival metro",
+      "metro bus",
+      "metrobus non arrival",
+      "non arrival bus",
+      "arrival bus non",
+      "bus non arrival",
+      "non arrival metro",
+      "arrival metro bus",
+      "metrobus",
+      "non",
+      "arrival"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metrobus non arrival",
+      "I have metrobus non arrival",
+      "there is metrobus non arrival"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 6,
+      "original_call_type_name": "DAMAGED TAG"
+    },
+    "call_type_code": "80005",
+    "department": "Metro Bus DAMAGED CARD",
+    "service_group": "METRO BUS",
+    "issue_category": "damage",
+    "issue_type": "Damaged tag",
+    "short_description": "DAMAGED CARD",
+    "intent_bucket": "transport",
+    "keywords": [
+      "damaged tag",
+      "tag damaged",
+      "damaged card",
+      "card metro",
+      "metro bus",
+      "damaged tag damaged",
+      "tag damaged card",
+      "damaged card metro",
+      "card metro bus",
+      "damaged",
+      "tag",
+      "card",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my tag damage",
+      "I have tag damage",
+      "there is tag damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 7,
+      "original_call_type_name": "LOST TAG"
+    },
+    "call_type_code": "80006",
+    "department": "Metro Bus LOST CARD",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Lost tag",
+    "short_description": "LOST CARD",
+    "intent_bucket": "transport",
+    "keywords": [
+      "lost tag",
+      "tag lost",
+      "lost card",
+      "card metro",
+      "metro bus",
+      "lost tag lost",
+      "tag lost card",
+      "lost card metro",
+      "card metro bus",
+      "lost",
+      "tag",
+      "card",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my lost tag lost",
+      "I have lost tag lost",
+      "there is lost tag lost"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 8,
+      "original_call_type_name": "CANCEL BUS HIRE SHORT TERM"
+    },
+    "call_type_code": "80007",
+    "department": "Metro Bus PRIVATE HIRE CANCELLATION",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Cancel bus hire short term",
+    "short_description": "HIRE CANCELLATION",
+    "intent_bucket": "transport",
+    "keywords": [
+      "cancel bus",
+      "bus hire",
+      "hire short",
+      "short term",
+      "term hire",
+      "hire cancellation",
+      "cancellation metro",
+      "metro bus",
+      "cancel bus hire",
+      "bus hire short",
+      "hire short term",
+      "short term hire",
+      "term hire cancellation",
+      "hire cancellation metro",
+      "cancellation metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my cancel bus hire",
+      "I have cancel bus hire",
+      "there is cancel bus hire"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 9,
+      "original_call_type_name": "PRIVATE HIRE RATES"
+    },
+    "call_type_code": "80008",
+    "department": "Metro Bus ROUTE INFORMATION",
+    "service_group": "METRO BUS",
+    "issue_category": "inquiry",
+    "issue_type": "Private hire rates",
+    "short_description": "ROUTE INFORMATION",
+    "intent_bucket": "transport",
+    "keywords": [
+      "private hire",
+      "hire rates",
+      "rates route",
+      "route information",
+      "information metro",
+      "metro bus",
+      "private hire rates",
+      "hire rates route",
+      "rates route information",
+      "route information metro",
+      "information metro bus",
+      "private",
+      "hire",
+      "rates",
+      "route"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my private hire rates",
+      "I have private hire rates",
+      "there is private hire rates"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 10,
+      "original_call_type_name": "BUS HIRE LONG TERM"
+    },
+    "call_type_code": "80009",
+    "department": "Metro Bus CONTRACT HIRE SERVICE QUOTE",
+    "service_group": "METRO BUS",
+    "issue_category": "maintenance",
+    "issue_type": "Bus hire long term",
+    "short_description": "HIRE SERVICE QUOTE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "bus hire",
+      "hire long",
+      "long term",
+      "term hire",
+      "hire service",
+      "service quote",
+      "quote metro",
+      "metro bus",
+      "bus hire long",
+      "hire long term",
+      "long term hire",
+      "term hire service",
+      "hire service quote",
+      "service quote metro",
+      "quote metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my bus hire long",
+      "I have bus hire long",
+      "there is bus hire long"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 11,
+      "original_call_type_name": "LOST TRIPS"
+    },
+    "call_type_code": "80010",
+    "department": "Metro Bus LOST TRIPS",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Lost trips",
+    "short_description": "LOST TRIPS",
+    "intent_bucket": "transport",
+    "keywords": [
+      "lost trips",
+      "trips lost",
+      "trips metro",
+      "metro bus",
+      "lost trips lost",
+      "trips lost trips",
+      "lost trips metro",
+      "trips metro bus",
+      "lost",
+      "trips",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my lost trips lost",
+      "I have lost trips lost",
+      "there is lost trips lost"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 12,
+      "original_call_type_name": "BUS HIRE SHORT TERM"
+    },
+    "call_type_code": "80011",
+    "department": "Metro Bus PRIVATE HIRE SERVICE QUOTE",
+    "service_group": "METRO BUS",
+    "issue_category": "maintenance",
+    "issue_type": "Bus hire short term",
+    "short_description": "HIRE SERVICE QUOTE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "bus hire",
+      "hire short",
+      "short term",
+      "term hire",
+      "hire service",
+      "service quote",
+      "quote metro",
+      "metro bus",
+      "bus hire short",
+      "hire short term",
+      "short term hire",
+      "term hire service",
+      "hire service quote",
+      "service quote metro",
+      "quote metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my bus hire short",
+      "I have bus hire short",
+      "there is bus hire short"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 13,
+      "original_call_type_name": "DAMAGED DESTINATION BOARD"
+    },
+    "call_type_code": "80012",
+    "department": "Metro Bus DAMAGED DESTINATION BOARD",
+    "service_group": "METRO BUS",
+    "issue_category": "damage",
+    "issue_type": "Damaged destination board",
+    "short_description": "DAMAGED DESTINATION BOARD",
+    "intent_bucket": "transport",
+    "keywords": [
+      "damaged destination",
+      "destination board",
+      "board damaged",
+      "board metro",
+      "metro bus",
+      "damaged destination board",
+      "destination board damaged",
+      "board damaged destination",
+      "destination board metro",
+      "board metro bus",
+      "damaged",
+      "destination",
+      "board",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my board damage",
+      "I have board damage",
+      "there is board damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 14,
+      "original_call_type_name": "MISSING DESTINATION BOARD"
+    },
+    "call_type_code": "80013",
+    "department": "Metro Bus MISSING DESTINATION BOARD",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Missing destination board",
+    "short_description": "MISSING DESTINATION BOARD",
+    "intent_bucket": "transport",
+    "keywords": [
+      "missing destination",
+      "destination board",
+      "board missing",
+      "board metro",
+      "metro bus",
+      "missing destination board",
+      "destination board missing",
+      "board missing destination",
+      "destination board metro",
+      "board metro bus",
+      "missing",
+      "destination",
+      "board",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my missing destination board",
+      "I have missing destination board",
+      "there is missing destination board"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 15,
+      "original_call_type_name": "PROBLEM PASSENGERS"
+    },
+    "call_type_code": "80014",
+    "department": "Metro Bus PROBLEM PASSENGERS",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Problem passengers",
+    "short_description": "PROBLEM PASSENGERS",
+    "intent_bucket": "transport",
+    "keywords": [
+      "problem passengers",
+      "passengers problem",
+      "passengers metro",
+      "metro bus",
+      "problem passengers problem",
+      "passengers problem passengers",
+      "problem passengers metro",
+      "passengers metro bus",
+      "problem",
+      "passengers",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my problem passengers problem",
+      "I have problem passengers problem",
+      "there is problem passengers problem"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 16,
+      "original_call_type_name": "ROUTE EXTENSION"
+    },
+    "call_type_code": "80015",
+    "department": "Metro Bus ROUTE EXTENSION",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Route extension",
+    "short_description": "ROUTE EXTENSION",
+    "intent_bucket": "transport",
+    "keywords": [
+      "route extension",
+      "extension route",
+      "extension metro",
+      "metro bus",
+      "route extension route",
+      "extension route extension",
+      "route extension metro",
+      "extension metro bus",
+      "route",
+      "extension",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my route extension route",
+      "I have route extension route",
+      "there is route extension route"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 17,
+      "original_call_type_name": "WRONG DESTINATION BOARD"
+    },
+    "call_type_code": "80016",
+    "department": "Metro Bus WRONG DESTINATION BOARD",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Wrong destination board",
+    "short_description": "WRONG DESTINATION BOARD",
+    "intent_bucket": "transport",
+    "keywords": [
+      "wrong destination",
+      "destination board",
+      "board wrong",
+      "board metro",
+      "metro bus",
+      "wrong destination board",
+      "destination board wrong",
+      "board wrong destination",
+      "destination board metro",
+      "board metro bus",
+      "wrong",
+      "destination",
+      "board",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my wrong destination board",
+      "I have wrong destination board",
+      "there is wrong destination board"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 18,
+      "original_call_type_name": "BUS OVERLOADING"
+    },
+    "call_type_code": "80017",
+    "department": "Metro Bus BUS OVERLOADING",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Bus overloading",
+    "short_description": "BUS OVERLOADING",
+    "intent_bucket": "transport",
+    "keywords": [
+      "bus overloading",
+      "overloading bus",
+      "overloading metro",
+      "metro bus",
+      "bus overloading bus",
+      "overloading bus overloading",
+      "bus overloading metro",
+      "overloading metro bus",
+      "bus",
+      "overloading",
+      "metro"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my bus overloading bus",
+      "I have bus overloading bus",
+      "there is bus overloading bus"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 19,
+      "original_call_type_name": "DIRTY BUS"
+    },
+    "call_type_code": "80018",
+    "department": "Metro Bus DIRTY BUS",
+    "service_group": "METRO BUS",
+    "issue_category": "quality",
+    "issue_type": "Dirty bus",
+    "short_description": "DIRTY BUS",
+    "intent_bucket": "transport",
+    "keywords": [
+      "dirty bus",
+      "bus dirty",
+      "bus metro",
+      "metro bus",
+      "dirty bus dirty",
+      "bus dirty bus",
+      "dirty bus metro",
+      "bus metro bus",
+      "dirty",
+      "bus",
+      "metro"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my dirty bus dirty",
+      "I have dirty bus dirty",
+      "there is dirty bus dirty"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 20,
+      "original_call_type_name": "DRIVER BEHAVIOUR"
+    },
+    "call_type_code": "80019",
+    "department": "Metro Bus DRIVER BEHAVIOUR",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Driver behaviour",
+    "short_description": "DRIVER BEHAVIOUR",
+    "intent_bucket": "transport",
+    "keywords": [
+      "driver behaviour",
+      "behaviour driver",
+      "behaviour metro",
+      "metro bus",
+      "driver behaviour driver",
+      "behaviour driver behaviour",
+      "driver behaviour metro",
+      "behaviour metro bus",
+      "driver",
+      "behaviour",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my driver behaviour driver",
+      "I have driver behaviour driver",
+      "there is driver behaviour driver"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 21,
+      "original_call_type_name": "EARLY ARRIVAL OF BUS"
+    },
+    "call_type_code": "80020",
+    "department": "EARLY DEPARTURE OF BUS",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Early arrival of bus",
+    "short_description": "EARLY BUS DEPARTURE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "early arrival",
+      "arrival of",
+      "of bus",
+      "bus early",
+      "early bus",
+      "bus departure",
+      "departure metro",
+      "metro bus",
+      "early arrival of",
+      "arrival of bus",
+      "of bus early",
+      "bus early bus",
+      "early bus departure",
+      "bus departure metro",
+      "departure metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my early arrival of",
+      "I have early arrival of",
+      "there is early arrival of"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 22,
+      "original_call_type_name": "INCORRECT FARE CHARGE"
+    },
+    "call_type_code": "80021",
+    "department": "Metro Bus INCORRECT FARE CHARGE",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Incorrect fare charge",
+    "short_description": "INCORRECT FARE CHARGE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "incorrect fare",
+      "fare charge",
+      "charge incorrect",
+      "charge metro",
+      "metro bus",
+      "incorrect fare charge",
+      "fare charge incorrect",
+      "charge incorrect fare",
+      "fare charge metro",
+      "charge metro bus",
+      "incorrect",
+      "fare",
+      "charge",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my incorrect fare charge",
+      "I have incorrect fare charge",
+      "there is incorrect fare charge"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 23,
+      "original_call_type_name": "INJURY IN THE BUS"
+    },
+    "call_type_code": "80022",
+    "department": "Metro Bus INJURY IN THE BUS",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Injury in the bus",
+    "short_description": "INJURY ON BUS",
+    "intent_bucket": "transport",
+    "keywords": [
+      "injury in",
+      "the bus",
+      "bus injury",
+      "injury on",
+      "on bus",
+      "bus metro",
+      "metro bus",
+      "injury in the",
+      "in the bus",
+      "the bus injury",
+      "bus injury on",
+      "injury on bus",
+      "on bus metro",
+      "bus metro bus",
+      "injury"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my injury in the",
+      "I have injury in the",
+      "there is injury in the"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 24,
+      "original_call_type_name": "INSPECTOR COMPLAINT"
+    },
+    "call_type_code": "80023",
+    "department": "Metro Bus INSPECTOR COMPLAINT",
+    "service_group": "METRO BUS",
+    "issue_category": "complaint",
+    "issue_type": "Inspector complaint",
+    "short_description": "INSPECTOR COMPLAINT",
+    "intent_bucket": "transport",
+    "keywords": [
+      "inspector complaint",
+      "complaint inspector",
+      "complaint metro",
+      "metro bus",
+      "inspector complaint inspector",
+      "complaint inspector complaint",
+      "inspector complaint metro",
+      "complaint metro bus",
+      "inspector",
+      "complaint",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my inspector complaint inspector",
+      "I have inspector complaint inspector",
+      "there is inspector complaint inspector"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 25,
+      "original_call_type_name": "METROBUS LATE ARRIVAL"
+    },
+    "call_type_code": "80024",
+    "department": "METROBUS LATE ARRIVAL",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Metrobus late arrival",
+    "short_description": "LATE ARRIVAL",
+    "intent_bucket": "transport",
+    "keywords": [
+      "metrobus late",
+      "late arrival",
+      "arrival late",
+      "arrival metro",
+      "metro bus",
+      "metrobus late arrival",
+      "late arrival late",
+      "arrival late arrival",
+      "late arrival metro",
+      "arrival metro bus",
+      "metrobus",
+      "late",
+      "arrival",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metrobus late arrival",
+      "I have metrobus late arrival",
+      "there is metrobus late arrival"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 26,
+      "original_call_type_name": "LOST PROPERTY"
+    },
+    "call_type_code": "80025",
+    "department": "Metro Bus LOST PROPERTY",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Lost property",
+    "short_description": "LOST PROPERTY",
+    "intent_bucket": "transport",
+    "keywords": [
+      "lost property",
+      "property lost",
+      "property metro",
+      "metro bus",
+      "lost property lost",
+      "property lost property",
+      "lost property metro",
+      "property metro bus",
+      "lost",
+      "property",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my lost property lost",
+      "I have lost property lost",
+      "there is lost property lost"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 27,
+      "original_call_type_name": "LOUD RADIO"
+    },
+    "call_type_code": "80026",
+    "department": "Metro Bus LOUD RADIO",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Loud radio",
+    "short_description": "LOUD RADIO",
+    "intent_bucket": "transport",
+    "keywords": [
+      "loud radio",
+      "radio loud",
+      "radio metro",
+      "metro bus",
+      "loud radio loud",
+      "radio loud radio",
+      "loud radio metro",
+      "radio metro bus",
+      "loud",
+      "radio",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my loud radio loud",
+      "I have loud radio loud",
+      "there is loud radio loud"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 28,
+      "original_call_type_name": "NO STOPPING"
+    },
+    "call_type_code": "80027",
+    "department": "Metro Bus NO STOPPING",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "No stopping",
+    "short_description": "NO STOPPING",
+    "intent_bucket": "transport",
+    "keywords": [
+      "no stopping",
+      "stopping no",
+      "stopping metro",
+      "metro bus",
+      "no stopping no",
+      "stopping no stopping",
+      "no stopping metro",
+      "stopping metro bus",
+      "stopping",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my no stopping",
+      "I have no stopping",
+      "there is no stopping"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 29,
+      "original_call_type_name": "NON-ISSUE OF TICKETS / IRREGULARITY"
+    },
+    "call_type_code": "80028",
+    "department": "Metro Bus FARE EVASION",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Non-issue of tickets / irregularity",
+    "short_description": "FARE EVASION",
+    "intent_bucket": "transport",
+    "keywords": [
+      "non issue",
+      "issue of",
+      "of tickets",
+      "tickets irregularity",
+      "irregularity fare",
+      "fare evasion",
+      "evasion metro",
+      "metro bus",
+      "non issue of",
+      "issue of tickets",
+      "of tickets irregularity",
+      "tickets irregularity fare",
+      "irregularity fare evasion",
+      "fare evasion metro",
+      "evasion metro bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my non-issue of tickets",
+      "I have non-issue of tickets",
+      "there is non-issue of tickets"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 30,
+      "original_call_type_name": "RECKLESS DRIVING"
+    },
+    "call_type_code": "80029",
+    "department": "Metro Bus RECKLESS DRIVING",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Reckless driving",
+    "short_description": "RECKLESS DRIVING",
+    "intent_bucket": "transport",
+    "keywords": [
+      "reckless driving",
+      "driving reckless",
+      "driving metro",
+      "metro bus",
+      "reckless driving reckless",
+      "driving reckless driving",
+      "reckless driving metro",
+      "driving metro bus",
+      "reckless",
+      "driving",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my reckless driving reckless",
+      "I have reckless driving reckless",
+      "there is reckless driving reckless"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 31,
+      "original_call_type_name": "WRONG ROUTE TAKEN"
+    },
+    "call_type_code": "80030",
+    "department": "Metro Bus WRONG ROUTE TAKEN",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Wrong route taken",
+    "short_description": "WRONG ROUTE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "wrong route",
+      "route taken",
+      "taken wrong",
+      "route metro",
+      "metro bus",
+      "wrong route taken",
+      "route taken wrong",
+      "taken wrong route",
+      "wrong route metro",
+      "route metro bus",
+      "wrong",
+      "route",
+      "taken",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my wrong route taken",
+      "I have wrong route taken",
+      "there is wrong route taken"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 32,
+      "original_call_type_name": "Request BUS STOP"
+    },
+    "call_type_code": "80031",
+    "department": "Metro Bus REQUEST BUS STOP",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Bus stop",
+    "short_description": "BUS STOP",
+    "intent_bucket": "transport",
+    "keywords": [
+      "request bus",
+      "bus stop",
+      "stop bus",
+      "stop metro",
+      "metro bus",
+      "request bus stop",
+      "bus stop bus",
+      "stop bus stop",
+      "bus stop metro",
+      "stop metro bus",
+      "request",
+      "bus",
+      "stop",
+      "metro"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request bus stop",
+      "I have request bus stop",
+      "there is request bus stop"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 33,
+      "original_call_type_name": "DAMAGED BUS STOP"
+    },
+    "call_type_code": "80032",
+    "department": "Metro Bus DAMAGED BUS STOP",
+    "service_group": "METRO BUS",
+    "issue_category": "damage",
+    "issue_type": "Damaged bus stop",
+    "short_description": "DAMAGED BUS STOP",
+    "intent_bucket": "transport",
+    "keywords": [
+      "damaged bus",
+      "bus stop",
+      "stop damaged",
+      "stop metro",
+      "metro bus",
+      "damaged bus stop",
+      "bus stop damaged",
+      "stop damaged bus",
+      "bus stop metro",
+      "stop metro bus",
+      "damaged",
+      "bus",
+      "stop",
+      "metro"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my stop damage",
+      "I have stop damage",
+      "there is stop damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 34,
+      "original_call_type_name": "NEW ROUTE"
+    },
+    "call_type_code": "80033",
+    "department": "Metro Bus NEW ROUTE",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "New route",
+    "short_description": "NEW ROUTE",
+    "intent_bucket": "transport",
+    "keywords": [
+      "new route",
+      "route new",
+      "route metro",
+      "metro bus",
+      "new route new",
+      "route new route",
+      "new route metro",
+      "route metro bus",
+      "new",
+      "route",
+      "metro",
+      "bus"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my new route new",
+      "I have new route new",
+      "there is new route new"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 35,
+      "original_call_type_name": "REQUEST BUS STOP SIGN"
+    },
+    "call_type_code": "80034",
+    "department": "Metro Bus REQUEST BUS STOP SIGN",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Bus stop sign",
+    "short_description": "BUS STOP SIGN",
+    "intent_bucket": "transport",
+    "keywords": [
+      "request bus",
+      "bus stop",
+      "stop sign",
+      "sign bus",
+      "sign metro",
+      "metro bus",
+      "request bus stop",
+      "bus stop sign",
+      "stop sign bus",
+      "sign bus stop",
+      "stop sign metro",
+      "sign metro bus",
+      "request",
+      "bus",
+      "stop"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request bus stop",
+      "I have request bus stop",
+      "there is request bus stop"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "MetroBus",
+      "row_number": 36,
+      "original_call_type_name": "INJURY ON THE BUS"
+    },
+    "call_type_code": "80035",
+    "department": "Metro Bus ACCIDENT",
+    "service_group": "METRO BUS",
+    "issue_category": "general",
+    "issue_type": "Injury on the bus",
+    "short_description": "ACCIDENT",
+    "intent_bucket": "transport",
+    "keywords": [
+      "injury on",
+      "the bus",
+      "bus accident",
+      "accident metro",
+      "metro bus",
+      "injury on the",
+      "on the bus",
+      "the bus accident",
+      "bus accident metro",
+      "accident metro bus",
+      "injury",
+      "bus",
+      "accident",
+      "metro"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my injury on the",
+      "I have injury on the",
+      "there is injury on the"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

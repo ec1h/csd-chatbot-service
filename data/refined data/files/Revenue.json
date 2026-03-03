@@ -1,0 +1,1958 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 2,
+      "original_call_type_name": "LEGAL RATES ENQUIRY"
+    },
+    "call_type_code": "50001",
+    "department": "LEGAL RATES ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Legal rates enquiry",
+    "short_description": "LEGAL RATES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "legal rates",
+      "rates enquiry",
+      "enquiry legal",
+      "rates joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "legal rates enquiry",
+      "rates enquiry legal",
+      "enquiry legal rates",
+      "legal rates joburg",
+      "rates joburg services",
+      "joburg services service",
+      "services service request",
+      "legal"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my legal rates enquiry",
+      "I have legal rates enquiry",
+      "there is legal rates enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 3,
+      "original_call_type_name": "PENSIONER'S REBATE APPLICATION"
+    },
+    "call_type_code": "50002",
+    "department": "PENSIONER'S REBATE APPLICATION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Pensioner's rebate application",
+    "short_description": "PENSIONER REBATE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "pensioner s",
+      "s rebate",
+      "rebate application",
+      "application pensioner",
+      "pensioner rebate",
+      "rebate joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "pensioner s rebate",
+      "s rebate application",
+      "rebate application pensioner",
+      "application pensioner rebate",
+      "pensioner rebate joburg",
+      "rebate joburg services"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my pensioner's rebate application",
+      "I have pensioner's rebate application",
+      "there is pensioner's rebate application"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 4,
+      "original_call_type_name": "INDUSTRIAL EFFLUENT"
+    },
+    "call_type_code": "50003",
+    "department": "INDUSTRIAL EFFLUENT",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Industrial effluent",
+    "short_description": "INDUSTRIAL EFFLUENT",
+    "intent_bucket": "billing",
+    "keywords": [
+      "industrial effluent",
+      "effluent industrial",
+      "effluent joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "industrial effluent industrial",
+      "effluent industrial effluent",
+      "industrial effluent joburg",
+      "effluent joburg services",
+      "joburg services service",
+      "services service request",
+      "industrial",
+      "effluent",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my industrial effluent industrial",
+      "I have industrial effluent industrial",
+      "there is industrial effluent industrial"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 5,
+      "original_call_type_name": "ADJUSTMENT DISPUTED (EXCL)"
+    },
+    "call_type_code": "50004",
+    "department": "ADJUSTMENT DISPUTED (EXCL)",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Adjustment disputed (excl)",
+    "short_description": "DISPUTE ADJUSTMENT",
+    "intent_bucket": "billing",
+    "keywords": [
+      "adjustment disputed",
+      "disputed excl",
+      "excl dispute",
+      "dispute adjustment",
+      "adjustment joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "adjustment disputed excl",
+      "disputed excl dispute",
+      "excl dispute adjustment",
+      "dispute adjustment joburg",
+      "adjustment joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my adjustment disputed (excl)",
+      "I have adjustment disputed (excl)",
+      "there is adjustment disputed (excl)"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 6,
+      "original_call_type_name": "ENQUIRY REFUSE CHARGE"
+    },
+    "call_type_code": "50005",
+    "department": "ENQUIRY REFUSE CHARGE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Refuse charge",
+    "short_description": "REFUSE CHARGE",
+    "intent_bucket": "waste",
+    "keywords": [
+      "enquiry refuse",
+      "refuse charge",
+      "charge refuse",
+      "charge joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry refuse charge",
+      "refuse charge refuse",
+      "charge refuse charge",
+      "refuse charge joburg",
+      "charge joburg services",
+      "joburg services service",
+      "services service request",
+      "enquiry"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my enquiry refuse charge",
+      "I have enquiry refuse charge",
+      "there is enquiry refuse charge"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 7,
+      "original_call_type_name": "ENQUIRY SEWER CHARGE"
+    },
+    "call_type_code": "50006",
+    "department": "ENQUIRY SEWER CHARGE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Sewer charge",
+    "short_description": "SEWER CHARGE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "enquiry sewer",
+      "sewer charge",
+      "charge sewer",
+      "charge joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry sewer charge",
+      "sewer charge sewer",
+      "charge sewer charge",
+      "sewer charge joburg",
+      "charge joburg services",
+      "joburg services service",
+      "services service request",
+      "enquiry"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my enquiry sewer charge",
+      "I have enquiry sewer charge",
+      "there is enquiry sewer charge"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 8,
+      "original_call_type_name": "ELECTRICITY TARIFF  ENQUIRY"
+    },
+    "call_type_code": "50007",
+    "department": "ELECTRICITY TARIFF  ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Electricity tariff  enquiry",
+    "short_description": "ELECTRICITY CHARGE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "electricity tariff",
+      "tariff enquiry",
+      "enquiry electricity",
+      "electricity charge",
+      "charge joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "electricity tariff enquiry",
+      "tariff enquiry electricity",
+      "enquiry electricity charge",
+      "electricity charge joburg",
+      "charge joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my electricity tariff enquiry",
+      "I have electricity tariff enquiry",
+      "there is electricity tariff enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 9,
+      "original_call_type_name": "WATER TARIFF ENQUIRY"
+    },
+    "call_type_code": "50008",
+    "department": "WATER TARIFF ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Water tariff enquiry",
+    "short_description": "WATER CHARGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "water tariff",
+      "tariff enquiry",
+      "enquiry water",
+      "water charge",
+      "charge joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "water tariff enquiry",
+      "tariff enquiry water",
+      "enquiry water charge",
+      "water charge joburg",
+      "charge joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water tariff enquiry",
+      "I have water tariff enquiry",
+      "there is water tariff enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 10,
+      "original_call_type_name": "ELECTRICITY CONSUMPTION ENQUIRY"
+    },
+    "call_type_code": "50009",
+    "department": "ELECTRICITY CONSUMPTION ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Electricity consumption enquiry",
+    "short_description": "ELECTRICITY USAGE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "electricity consumption",
+      "consumption enquiry",
+      "enquiry electricity",
+      "electricity usage",
+      "usage joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "electricity consumption enquiry",
+      "consumption enquiry electricity",
+      "enquiry electricity usage",
+      "electricity usage joburg",
+      "usage joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my electricity consumption enquiry",
+      "I have electricity consumption enquiry",
+      "there is electricity consumption enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 11,
+      "original_call_type_name": "WATER CONSUMPTION ENQUIRY"
+    },
+    "call_type_code": "50010",
+    "department": "WATER CONSUMPTION ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Water consumption enquiry",
+    "short_description": "WATER USAGE",
+    "intent_bucket": "water",
+    "keywords": [
+      "water consumption",
+      "consumption enquiry",
+      "enquiry water",
+      "water usage",
+      "usage joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "water consumption enquiry",
+      "consumption enquiry water",
+      "enquiry water usage",
+      "water usage joburg",
+      "usage joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water consumption enquiry",
+      "I have water consumption enquiry",
+      "there is water consumption enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 12,
+      "original_call_type_name": "REQUEST TO LINK OR DE-LINK METER"
+    },
+    "call_type_code": "50011",
+    "department": "REQUEST TO LINK OR DE-LINK METER",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "To link or de-link meter",
+    "short_description": "LINK/DELINK METER",
+    "intent_bucket": "billing",
+    "keywords": [
+      "request to",
+      "to link",
+      "link or",
+      "or de",
+      "de link",
+      "link meter",
+      "meter link",
+      "link delink",
+      "delink meter",
+      "meter joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request to link",
+      "to link or"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my request to link",
+      "I have request to link",
+      "there is request to link"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 13,
+      "original_call_type_name": "INTEREST CHARGE ENQUIRY"
+    },
+    "call_type_code": "50012",
+    "department": "INTEREST CHARGE ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Interest charge enquiry",
+    "short_description": "INTEREST ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "interest charge",
+      "charge enquiry",
+      "enquiry interest",
+      "interest enquiry",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "interest charge enquiry",
+      "charge enquiry interest",
+      "enquiry interest enquiry",
+      "interest enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my interest charge enquiry",
+      "I have interest charge enquiry",
+      "there is interest charge enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 14,
+      "original_call_type_name": "STATEMENT ENQUIRY"
+    },
+    "call_type_code": "50013",
+    "department": "STATEMENT ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Statement enquiry",
+    "short_description": "STATEMENT ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "statement enquiry",
+      "enquiry statement",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "statement enquiry statement",
+      "enquiry statement enquiry",
+      "statement enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "statement",
+      "enquiry",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my statement enquiry statement",
+      "I have statement enquiry statement",
+      "there is statement enquiry statement"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 15,
+      "original_call_type_name": "PAYMENT ENQUIRY"
+    },
+    "call_type_code": "50014",
+    "department": "PAYMENT ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Payment enquiry",
+    "short_description": "PAYMENT ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "payment enquiry",
+      "enquiry payment",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "payment enquiry payment",
+      "enquiry payment enquiry",
+      "payment enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "payment",
+      "enquiry",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my payment enquiry payment",
+      "I have payment enquiry payment",
+      "there is payment enquiry payment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 16,
+      "original_call_type_name": "DIRECT DEBIT ENQUIRY"
+    },
+    "call_type_code": "50017",
+    "department": "DIRECT DEBIT ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Direct debit enquiry",
+    "short_description": "DEBIT ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "direct debit",
+      "debit enquiry",
+      "enquiry debit",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "direct debit enquiry",
+      "debit enquiry debit",
+      "enquiry debit enquiry",
+      "debit enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "direct"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my direct debit enquiry",
+      "I have direct debit enquiry",
+      "there is direct debit enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 17,
+      "original_call_type_name": "UNALLOCATED PAYMENT (SUSPENSE ACC)"
+    },
+    "call_type_code": "50018",
+    "department": "UNALLOCATED PAYMENT (SUSPENSE ACC)",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Unallocated payment (suspense acc)",
+    "short_description": "UNALLOCATED PAYMENT",
+    "intent_bucket": "billing",
+    "keywords": [
+      "unallocated payment",
+      "payment suspense",
+      "suspense acc",
+      "acc unallocated",
+      "payment joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "unallocated payment suspense",
+      "payment suspense acc",
+      "suspense acc unallocated",
+      "acc unallocated payment",
+      "unallocated payment joburg",
+      "payment joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my unallocated payment (suspense",
+      "I have unallocated payment (suspense",
+      "there is unallocated payment (suspense"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 18,
+      "original_call_type_name": "NEW CLEARANCE ENQUIRY"
+    },
+    "call_type_code": "50019",
+    "department": "NEW CLEARANCE ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "New clearance enquiry",
+    "short_description": "NEW CLEARANCE ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "new clearance",
+      "clearance enquiry",
+      "enquiry new",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "new clearance enquiry",
+      "clearance enquiry new",
+      "enquiry new clearance",
+      "clearance enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "new"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my new clearance enquiry",
+      "I have new clearance enquiry",
+      "there is new clearance enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 19,
+      "original_call_type_name": "RE-SET ATTORNEY PASSWORD"
+    },
+    "call_type_code": "50020",
+    "department": "RE-SET ATTORNEY PASSWORD",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Re-set attorney password",
+    "short_description": "RESET PASSWORD",
+    "intent_bucket": "billing",
+    "keywords": [
+      "re set",
+      "set attorney",
+      "attorney password",
+      "password reset",
+      "reset password",
+      "password joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "re set attorney",
+      "set attorney password",
+      "attorney password reset",
+      "password reset password",
+      "reset password joburg",
+      "password joburg services"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my re-set attorney password",
+      "I have re-set attorney password",
+      "there is re-set attorney password"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 20,
+      "original_call_type_name": "STAFF ACCOUNTS ENQUIRY"
+    },
+    "call_type_code": "50021",
+    "department": "STAFF ACCOUNTS ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Staff accounts enquiry",
+    "short_description": "STAFF ACCOUNTS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "staff accounts",
+      "accounts enquiry",
+      "enquiry staff",
+      "accounts joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "staff accounts enquiry",
+      "accounts enquiry staff",
+      "enquiry staff accounts",
+      "staff accounts joburg",
+      "accounts joburg services",
+      "joburg services service",
+      "services service request",
+      "staff"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my staff accounts enquiry",
+      "I have staff accounts enquiry",
+      "there is staff accounts enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 21,
+      "original_call_type_name": "ENQUIRY Property Size"
+    },
+    "call_type_code": "50022",
+    "department": "ENQUIRY Property Size",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Property size",
+    "short_description": "PROPERTY SIZE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "enquiry property",
+      "property size",
+      "size property",
+      "size joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry property size",
+      "property size property",
+      "size property size",
+      "property size joburg",
+      "size joburg services",
+      "joburg services service",
+      "services service request",
+      "enquiry"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my enquiry property size",
+      "I have enquiry property size",
+      "there is enquiry property size"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 22,
+      "original_call_type_name": "ENQUIRY Property Status"
+    },
+    "call_type_code": "50023",
+    "department": "ENQUIRY Property Status",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Property status",
+    "short_description": "PROPERTY STATUS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "enquiry property",
+      "property status",
+      "status property",
+      "status joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry property status",
+      "property status property",
+      "status property status",
+      "property status joburg",
+      "status joburg services",
+      "joburg services service",
+      "services service request",
+      "enquiry"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my enquiry property status",
+      "I have enquiry property status",
+      "there is enquiry property status"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 23,
+      "original_call_type_name": "Zoning ENQUIRY"
+    },
+    "call_type_code": "50024",
+    "department": "Zoning ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Zoning enquiry",
+    "short_description": "ZONING",
+    "intent_bucket": "billing",
+    "keywords": [
+      "zoning enquiry",
+      "enquiry zoning",
+      "zoning joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "zoning enquiry zoning",
+      "enquiry zoning joburg",
+      "zoning joburg services",
+      "joburg services service",
+      "services service request",
+      "zoning",
+      "enquiry",
+      "joburg",
+      "services"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my zoning enquiry zoning",
+      "I have zoning enquiry zoning",
+      "there is zoning enquiry zoning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 24,
+      "original_call_type_name": "Property Not Reflecting On LIS"
+    },
+    "call_type_code": "50025",
+    "department": "Property Not Reflecting On LIS",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Property not reflecting on lis",
+    "short_description": "PROPERTY NOT ON LIS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "property not",
+      "not reflecting",
+      "reflecting on",
+      "on lis",
+      "lis property",
+      "not on",
+      "lis joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "property not reflecting",
+      "not reflecting on",
+      "reflecting on lis",
+      "on lis property",
+      "lis property not"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my property not reflecting",
+      "I have property not reflecting",
+      "there is property not reflecting"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 25,
+      "original_call_type_name": "Deeds Ownership Not On LIS"
+    },
+    "call_type_code": "50026",
+    "department": "Deeds Ownership Not On LIS",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Deeds ownership not on lis",
+    "short_description": "DEEDS NOT ON LIS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "deeds ownership",
+      "ownership not",
+      "not on",
+      "on lis",
+      "lis deeds",
+      "deeds not",
+      "lis joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "deeds ownership not",
+      "ownership not on",
+      "not on lis",
+      "on lis deeds",
+      "lis deeds not"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my deeds ownership not",
+      "I have deeds ownership not",
+      "there is deeds ownership not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 26,
+      "original_call_type_name": "ENQUIRY Physical Address"
+    },
+    "call_type_code": "50027",
+    "department": "ENQUIRY Physical Address",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Physical address",
+    "short_description": "ADDRESS ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "enquiry physical",
+      "physical address",
+      "address address",
+      "address enquiry",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry physical address",
+      "physical address address",
+      "address address enquiry",
+      "address enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my enquiry physical address",
+      "I have enquiry physical address",
+      "there is enquiry physical address"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 27,
+      "original_call_type_name": "REQUEST TO RECONNECT SERVICES"
+    },
+    "call_type_code": "50028",
+    "department": "REQUEST TO RECONNECT SERVICES",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "To reconnect services",
+    "short_description": "RECONNECT SERVICES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "request to",
+      "to reconnect",
+      "reconnect services",
+      "services reconnect",
+      "services joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request to reconnect",
+      "to reconnect services",
+      "reconnect services reconnect",
+      "services reconnect services",
+      "reconnect services joburg",
+      "services joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my request to reconnect",
+      "I have request to reconnect",
+      "there is request to reconnect"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 28,
+      "original_call_type_name": "WRONGFUL CREDIT CONTROL ACTION"
+    },
+    "call_type_code": "50029",
+    "department": "WRONGFUL CREDIT CONTROL ACTION",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Wrongful credit control action",
+    "short_description": "WRONG CREDIT ACTION",
+    "intent_bucket": "billing",
+    "keywords": [
+      "wrongful credit",
+      "credit control",
+      "control action",
+      "action wrong",
+      "wrong credit",
+      "credit action",
+      "action joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "wrongful credit control",
+      "credit control action",
+      "control action wrong",
+      "action wrong credit",
+      "wrong credit action"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my wrongful credit control",
+      "I have wrongful credit control",
+      "there is wrongful credit control"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 29,
+      "original_call_type_name": "REQUEST TO DISCONNECT SERVICES"
+    },
+    "call_type_code": "50030",
+    "department": "REQUEST TO DISCONNECT SERVICES",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "To disconnect services",
+    "short_description": "DISCONNECT SERVICES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "request to",
+      "to disconnect",
+      "disconnect services",
+      "services disconnect",
+      "services joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request to disconnect",
+      "to disconnect services",
+      "disconnect services disconnect",
+      "services disconnect services",
+      "disconnect services joburg",
+      "services joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my request to disconnect",
+      "I have request to disconnect",
+      "there is request to disconnect"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 30,
+      "original_call_type_name": "DEPOSIT ENQUIRY"
+    },
+    "call_type_code": "50031",
+    "department": "DEPOSIT ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Deposit enquiry",
+    "short_description": "DEPOSIT ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "deposit enquiry",
+      "enquiry deposit",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "deposit enquiry deposit",
+      "enquiry deposit enquiry",
+      "deposit enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "deposit",
+      "enquiry",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my deposit enquiry deposit",
+      "I have deposit enquiry deposit",
+      "there is deposit enquiry deposit"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 31,
+      "original_call_type_name": "LEGAL ENQUIRY"
+    },
+    "call_type_code": "50032",
+    "department": "LEGAL ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Legal enquiry",
+    "short_description": "LEGAL ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "legal enquiry",
+      "enquiry legal",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "legal enquiry legal",
+      "enquiry legal enquiry",
+      "legal enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "legal",
+      "enquiry",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my legal enquiry legal",
+      "I have legal enquiry legal",
+      "there is legal enquiry legal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 32,
+      "original_call_type_name": "SETTLEMENT OFFER"
+    },
+    "call_type_code": "50033",
+    "department": "SETTLEMENT OFFER",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Settlement offer",
+    "short_description": "SETTLEMENT OFFER",
+    "intent_bucket": "billing",
+    "keywords": [
+      "settlement offer",
+      "offer settlement",
+      "offer joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "settlement offer settlement",
+      "offer settlement offer",
+      "settlement offer joburg",
+      "offer joburg services",
+      "joburg services service",
+      "services service request",
+      "settlement",
+      "offer",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my settlement offer settlement",
+      "I have settlement offer settlement",
+      "there is settlement offer settlement"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 33,
+      "original_call_type_name": "REQUEST FOR RATES REBATE"
+    },
+    "call_type_code": "50034",
+    "department": "REQUEST FOR RATES REBATE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "For rates rebate",
+    "short_description": "RATES REBATE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "request for",
+      "for rates",
+      "rates rebate",
+      "rebate rates",
+      "rebate joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request for rates",
+      "for rates rebate",
+      "rates rebate rates",
+      "rebate rates rebate",
+      "rates rebate joburg",
+      "rebate joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my request for rates",
+      "I have request for rates",
+      "there is request for rates"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 34,
+      "original_call_type_name": "CHANGE OF OWNERSHIP ENQUIRY"
+    },
+    "call_type_code": "50035",
+    "department": "CHANGE OF OWNERSHIP ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Change of ownership enquiry",
+    "short_description": "OWNERSHIP CHANGE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "change of",
+      "of ownership",
+      "ownership enquiry",
+      "enquiry ownership",
+      "ownership change",
+      "change joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "change of ownership",
+      "of ownership enquiry",
+      "ownership enquiry ownership",
+      "enquiry ownership change",
+      "ownership change joburg",
+      "change joburg services"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my change of ownership",
+      "I have change of ownership",
+      "there is change of ownership"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 35,
+      "original_call_type_name": "DISPUTE RATES ADJUSTMENT"
+    },
+    "call_type_code": "50036",
+    "department": "DISPUTE RATES ADJUSTMENT",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Dispute rates adjustment",
+    "short_description": "DISPUTE RATES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "dispute rates",
+      "rates adjustment",
+      "adjustment dispute",
+      "rates joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "dispute rates adjustment",
+      "rates adjustment dispute",
+      "adjustment dispute rates",
+      "dispute rates joburg",
+      "rates joburg services",
+      "joburg services service",
+      "services service request",
+      "dispute"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my dispute rates adjustment",
+      "I have dispute rates adjustment",
+      "there is dispute rates adjustment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 36,
+      "original_call_type_name": "ENQUIRY RATES TARIFF OR CHARGE"
+    },
+    "call_type_code": "50037",
+    "department": "ENQUIRY RATES TARIFF OR CHARGE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Rates tariff or charge",
+    "short_description": "RATES TARIFF/CHARGE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "enquiry rates",
+      "rates tariff",
+      "tariff or",
+      "or charge",
+      "charge rates",
+      "tariff charge",
+      "charge joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "enquiry rates tariff",
+      "rates tariff or",
+      "tariff or charge",
+      "or charge rates",
+      "charge rates tariff"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my enquiry rates tariff",
+      "I have enquiry rates tariff",
+      "there is enquiry rates tariff"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 37,
+      "original_call_type_name": "RETURNED DEBITS ENQUIRY"
+    },
+    "call_type_code": "50041",
+    "department": "RETURNED DEBITS ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Returned debits enquiry",
+    "short_description": "RETURNED DEBITS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "returned debits",
+      "debits enquiry",
+      "enquiry returned",
+      "debits joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "returned debits enquiry",
+      "debits enquiry returned",
+      "enquiry returned debits",
+      "returned debits joburg",
+      "debits joburg services",
+      "joburg services service",
+      "services service request",
+      "returned"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my returned debits enquiry",
+      "I have returned debits enquiry",
+      "there is returned debits enquiry"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 38,
+      "original_call_type_name": "CHANGE PROPERTY RATES CATEGORY"
+    },
+    "call_type_code": "50043",
+    "department": "CHANGE PROPERTY RATES CATEGORY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Change property rates category",
+    "short_description": "CHANGE PROPERTY RATES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "change property",
+      "property rates",
+      "rates category",
+      "category change",
+      "rates joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "change property rates",
+      "property rates category",
+      "rates category change",
+      "category change property",
+      "property rates joburg",
+      "rates joburg services",
+      "joburg services service"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my change property rates",
+      "I have change property rates",
+      "there is change property rates"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 39,
+      "original_call_type_name": "VALUATION ENQUIRY"
+    },
+    "call_type_code": "50044",
+    "department": "VALUATION ENQUIRY",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Valuation enquiry",
+    "short_description": "VALUATION ENQUIRY",
+    "intent_bucket": "billing",
+    "keywords": [
+      "valuation enquiry",
+      "enquiry valuation",
+      "enquiry joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "valuation enquiry valuation",
+      "enquiry valuation enquiry",
+      "valuation enquiry joburg",
+      "enquiry joburg services",
+      "joburg services service",
+      "services service request",
+      "valuation",
+      "enquiry",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my valuation enquiry valuation",
+      "I have valuation enquiry valuation",
+      "there is valuation enquiry valuation"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 45,
+      "original_call_type_name": "REFUND PAYMENT MADE IN ERROR"
+    },
+    "call_type_code": "50049",
+    "department": "REFUNDS  DUE TO INCORRECT PAYMENTS /PAYMENTS MADE IN ERROR",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Refund payment made in error",
+    "short_description": "REFUND ERROR",
+    "intent_bucket": "billing",
+    "keywords": [
+      "refund payment",
+      "payment made",
+      "made in",
+      "in error",
+      "error refund",
+      "refund error",
+      "error joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "refund payment made",
+      "payment made in",
+      "made in error",
+      "in error refund",
+      "error refund error"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my refund payment made",
+      "I have refund payment made",
+      "there is refund payment made"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 46,
+      "original_call_type_name": "REFUND REQUEST"
+    },
+    "call_type_code": "50050",
+    "department": "REFUND REQUEST DUE TO CHANGE OF OWNERSHIP",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Refund request",
+    "short_description": "REFUND REQUEST",
+    "intent_bucket": "billing",
+    "keywords": [
+      "refund request",
+      "request refund",
+      "request joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "refund request refund",
+      "request refund request",
+      "refund request joburg",
+      "request joburg services",
+      "joburg services service",
+      "services service request",
+      "refund",
+      "request",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my refund request refund",
+      "I have refund request refund",
+      "there is refund request refund"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 47,
+      "original_call_type_name": "REFUND REQUEST DUE TO ADJUSTMENTS (CREDIT ON AN ACTIVE ACCOUNT DUE TO AN ADJUSTMENT)"
+    },
+    "call_type_code": "50051",
+    "department": "REFUND REQUEST DUE TO ADJUSTMENTS (CREDIT ON AN ACTIVE ACCOUNT DUE TO AN ADJUSTMENT)",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Refund request due to adjustments (credit on an ac",
+    "short_description": "REFUND REQUEST DUE TO ADJUSTMENTS",
+    "intent_bucket": "billing",
+    "keywords": [
+      "refund request",
+      "request due",
+      "due to",
+      "to adjustments",
+      "adjustments credit",
+      "credit on",
+      "an active",
+      "active account",
+      "account due",
+      "an adjustment",
+      "adjustment refund",
+      "adjustments joburg",
+      "joburg services",
+      "services service",
+      "service request"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my refund request due",
+      "I have refund request due",
+      "there is refund request due"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 48,
+      "original_call_type_name": "REFUND REQUEST DUE TO TRANSFER OF CREDIT BALANCE"
+    },
+    "call_type_code": "50052",
+    "department": "REFUND REQUEST DUE TO TRANSFER OF CREDIT BALANCE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Refund request due to transfer of credit balance",
+    "short_description": "TRANSFER CREDIT BALANCE",
+    "intent_bucket": "billing",
+    "keywords": [
+      "refund request",
+      "request due",
+      "due to",
+      "to transfer",
+      "transfer of",
+      "of credit",
+      "credit balance",
+      "balance transfer",
+      "transfer credit",
+      "balance joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "refund request due",
+      "request due to"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my refund request due",
+      "I have refund request due",
+      "there is refund request due"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Revenue",
+      "row_number": 49,
+      "original_call_type_name": "REFUNDS OR CREDIT TRANSFERS TO THIRD PARTIES"
+    },
+    "call_type_code": "50053",
+    "department": "REFUNDS OR CREDIT TRANSFERS TO THIRD PARTIES",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Refunds or credit transfers to third parties",
+    "short_description": "REFUNDS OR CREDIT TRANSFERS TO THIRD PARTIES",
+    "intent_bucket": "billing",
+    "keywords": [
+      "refunds or",
+      "or credit",
+      "credit transfers",
+      "transfers to",
+      "to third",
+      "third parties",
+      "parties refunds",
+      "parties joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "refunds or credit",
+      "or credit transfers",
+      "credit transfers to",
+      "transfers to third"
+    ],
+    "negative_keywords": [
+      "repair",
+      "fix",
+      "damage",
+      "leak"
+    ],
+    "example_user_utterances": [
+      "my refunds or credit",
+      "I have refunds or credit",
+      "there is refunds or credit"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

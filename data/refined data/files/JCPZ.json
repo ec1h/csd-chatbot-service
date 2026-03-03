@@ -1,0 +1,1870 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 2,
+      "original_call_type_name": "TREES GROWING INTO POWER LINES"
+    },
+    "call_type_code": "70001",
+    "department": "TREES GROWING INTO POWER LINES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Trees growing into power lines",
+    "short_description": "TREES IN POWER LINE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "trees growing",
+      "growing into",
+      "into power",
+      "power lines",
+      "lines trees",
+      "trees in",
+      "in power",
+      "power line",
+      "line fix",
+      "fix my",
+      "my city",
+      "trees growing into",
+      "growing into power",
+      "into power lines",
+      "power lines trees"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my trees growing into",
+      "I have trees growing into",
+      "there is trees growing into"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 3,
+      "original_call_type_name": "CONDITION OF ABLUTIONS"
+    },
+    "call_type_code": "70002",
+    "department": "CONDITION OF ABLUTIONS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Condition of ablutions",
+    "short_description": "ABLUTIONS CONDITION",
+    "intent_bucket": "general",
+    "keywords": [
+      "condition of",
+      "of ablutions",
+      "ablutions ablutions",
+      "ablutions condition",
+      "condition fix",
+      "fix my",
+      "my city",
+      "condition of ablutions",
+      "of ablutions ablutions",
+      "ablutions ablutions condition",
+      "ablutions condition fix",
+      "condition fix my",
+      "fix my city",
+      "condition",
+      "ablutions"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my condition of ablutions",
+      "I have condition of ablutions",
+      "there is condition of ablutions"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 4,
+      "original_call_type_name": "EXCESSIVE LITTER INSIDE OR OUTSIDE ZOO WALL PERIMETER"
+    },
+    "call_type_code": "70003",
+    "department": "EXCESSIVE LITTER INSIDE OR OUTSIDE ZOO WALL PERIMETER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Excessive litter inside or outside zoo wall perime",
+    "short_description": "EXCESSIVE LITTER AT THE ZOO",
+    "intent_bucket": "general",
+    "keywords": [
+      "excessive litter",
+      "litter inside",
+      "inside or",
+      "or outside",
+      "outside zoo",
+      "zoo wall",
+      "wall perimeter",
+      "perimeter excessive",
+      "litter at",
+      "the zoo",
+      "zoo fix",
+      "fix my",
+      "my city",
+      "excessive litter inside",
+      "litter inside or"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my excessive litter inside",
+      "I have excessive litter inside",
+      "there is excessive litter inside"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 5,
+      "original_call_type_name": "BROKEN AND NOT WORKING TOILET BLOCKS"
+    },
+    "call_type_code": "70004",
+    "department": "BROKEN AND NOT WORKING TOILET BLOCKS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Broken and not working toilet blocks",
+    "short_description": "TOILETS NOT WORKING",
+    "intent_bucket": "general",
+    "keywords": [
+      "broken and",
+      "and not",
+      "not working",
+      "working toilet",
+      "toilet blocks",
+      "blocks toilets",
+      "toilets not",
+      "working fix",
+      "fix my",
+      "my city",
+      "broken and not",
+      "and not working",
+      "not working toilet",
+      "working toilet blocks",
+      "toilet blocks toilets"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my and not working",
+      "I have and not working",
+      "there is and not working"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 6,
+      "original_call_type_name": "REQUEST INFORMATION"
+    },
+    "call_type_code": "70006",
+    "department": "REQUEST INFORMATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Information",
+    "short_description": "INFORMATION REQUEST",
+    "intent_bucket": "general",
+    "keywords": [
+      "request information",
+      "information information",
+      "information request",
+      "request fix",
+      "fix my",
+      "my city",
+      "request information information",
+      "information information request",
+      "information request fix",
+      "request fix my",
+      "fix my city",
+      "request",
+      "information",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request information information",
+      "I have request information information",
+      "there is request information information"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 7,
+      "original_call_type_name": "REQUEST MAINTENANCE OF PARK INFRASTRUCTURE"
+    },
+    "call_type_code": "70007",
+    "department": "REQUEST MAINTENANCE OF PARK INFRASTRUCTURE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Maintenance of park infrastructure",
+    "short_description": "INFRASTRUCTURE MAINTENANCE(PARK)",
+    "intent_bucket": "general",
+    "keywords": [
+      "request maintenance",
+      "maintenance of",
+      "of park",
+      "park infrastructure",
+      "infrastructure infrastructure",
+      "infrastructure maintenance",
+      "maintenance park",
+      "park fix",
+      "fix my",
+      "my city",
+      "request maintenance of",
+      "maintenance of park",
+      "of park infrastructure",
+      "park infrastructure infrastructure",
+      "infrastructure infrastructure maintenance"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request maintenance of",
+      "I have request maintenance of",
+      "there is request maintenance of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 8,
+      "original_call_type_name": "EMERGENCY: OBSTRUCTION TO TRAFFIC ON HOUSE / WALL / VEHICLE"
+    },
+    "call_type_code": "70008",
+    "department": "EMERGENCY: OBSTRUCTION TO TRAFFIC ON HOUSE / WALL / VEHICLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Emergency: obstruction to traffic on house / wall ",
+    "short_description": "TRAFFIC OBSTRUCTION",
+    "intent_bucket": "roads",
+    "keywords": [
+      "emergency obstruction",
+      "obstruction to",
+      "to traffic",
+      "traffic on",
+      "on house",
+      "house wall",
+      "wall vehicle",
+      "vehicle traffic",
+      "traffic obstruction",
+      "obstruction fix",
+      "fix my",
+      "my city",
+      "emergency obstruction to",
+      "obstruction to traffic",
+      "to traffic on"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my emergency: obstruction to",
+      "I have emergency: obstruction to",
+      "there is emergency: obstruction to"
+    ],
+    "confidence_weight": 0.9999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 9,
+      "original_call_type_name": "OBSTRUCTION ON PAVEMENT"
+    },
+    "call_type_code": "70010",
+    "department": "OBSTRUCTION ON PAVEMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Obstruction on pavement",
+    "short_description": "NO OBSTRUCTION ON PAVEMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "obstruction on",
+      "on pavement",
+      "pavement no",
+      "no obstruction",
+      "pavement fix",
+      "fix my",
+      "my city",
+      "obstruction on pavement",
+      "on pavement no",
+      "pavement no obstruction",
+      "no obstruction on",
+      "on pavement fix",
+      "pavement fix my",
+      "fix my city",
+      "obstruction"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my no obstruction",
+      "I have no obstruction",
+      "there is no obstruction"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 10,
+      "original_call_type_name": "EMERGENCY FALLEN TREES OR BRANCHES"
+    },
+    "call_type_code": "70011",
+    "department": "EMERGENCY FALLEN TREES OR BRANCHES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Fallen trees or branches",
+    "short_description": "FALLEN TREES/BRANCHES",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "emergency fallen",
+      "fallen trees",
+      "trees or",
+      "or branches",
+      "branches fallen",
+      "trees branches",
+      "branches fix",
+      "fix my",
+      "my city",
+      "emergency fallen trees",
+      "fallen trees or",
+      "trees or branches",
+      "or branches fallen",
+      "branches fallen trees",
+      "fallen trees branches"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my emergency fallen trees",
+      "I have emergency fallen trees",
+      "there is emergency fallen trees"
+    ],
+    "confidence_weight": 0.9999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 11,
+      "original_call_type_name": "CUT ROOTS"
+    },
+    "call_type_code": "70012",
+    "department": "CUT ROOTS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Cut roots",
+    "short_description": "CUT ROOTS",
+    "intent_bucket": "general",
+    "keywords": [
+      "cut roots",
+      "roots cut",
+      "roots fix",
+      "fix my",
+      "my city",
+      "cut roots cut",
+      "roots cut roots",
+      "cut roots fix",
+      "roots fix my",
+      "fix my city",
+      "cut",
+      "roots",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my cut roots cut",
+      "I have cut roots cut",
+      "there is cut roots cut"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 12,
+      "original_call_type_name": "PLANT TREE"
+    },
+    "call_type_code": "70013",
+    "department": "PLANT TREE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Plant tree",
+    "short_description": "PLANT TREE",
+    "intent_bucket": "general",
+    "keywords": [
+      "plant tree",
+      "tree plant",
+      "tree fix",
+      "fix my",
+      "my city",
+      "plant tree plant",
+      "tree plant tree",
+      "plant tree fix",
+      "tree fix my",
+      "fix my city",
+      "plant",
+      "tree",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my plant tree plant",
+      "I have plant tree plant",
+      "there is plant tree plant"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 13,
+      "original_call_type_name": "DEVELOPMENT / UPGRADING"
+    },
+    "call_type_code": "70014",
+    "department": "DEVELOPMENT / UPGRADING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Development / upgrading",
+    "short_description": "DEVELOPMENT/UPGRADING",
+    "intent_bucket": "general",
+    "keywords": [
+      "development upgrading",
+      "upgrading development",
+      "upgrading fix",
+      "fix my",
+      "my city",
+      "development upgrading development",
+      "upgrading development upgrading",
+      "development upgrading fix",
+      "upgrading fix my",
+      "fix my city",
+      "development",
+      "upgrading",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my development / upgrading",
+      "I have development / upgrading",
+      "there is development / upgrading"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 14,
+      "original_call_type_name": "REQUEST REPAIRS OF CEMETERY INFRASTRUCTURE"
+    },
+    "call_type_code": "70016",
+    "department": "REQUEST REPAIRS OF CEMETERY INFRASTRUCTURE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Repairs of cemetery infrastructure",
+    "short_description": "CEMETERY INFRASTRUCTURE  MAINTENANCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "request repairs",
+      "repairs of",
+      "of cemetery",
+      "cemetery infrastructure",
+      "infrastructure cemetery",
+      "infrastructure maintenance",
+      "maintenance fix",
+      "fix my",
+      "my city",
+      "request repairs of",
+      "repairs of cemetery",
+      "of cemetery infrastructure",
+      "cemetery infrastructure cemetery",
+      "infrastructure cemetery infrastructure",
+      "cemetery infrastructure maintenance"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request repairs of",
+      "I have request repairs of",
+      "there is request repairs of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 15,
+      "original_call_type_name": "EXPOSED ELECTRICAL BOXES IN CEMETERY OR PARK"
+    },
+    "call_type_code": "70017",
+    "department": "EXPOSED ELECTRICAL BOXES IN CEMETERY OR PARK",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Exposed electrical boxes in cemetery or park",
+    "short_description": "EXPOSED BOX(CEMETERY OR PARK)",
+    "intent_bucket": "general",
+    "keywords": [
+      "exposed electrical",
+      "electrical boxes",
+      "boxes in",
+      "in cemetery",
+      "cemetery or",
+      "or park",
+      "park exposed",
+      "exposed box",
+      "box cemetery",
+      "park fix",
+      "fix my",
+      "my city",
+      "exposed electrical boxes",
+      "electrical boxes in",
+      "boxes in cemetery"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my exposed electrical boxes",
+      "I have exposed electrical boxes",
+      "there is exposed electrical boxes"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 16,
+      "original_call_type_name": "LITTERING / ILLEGAL DUMPING IN PARKS"
+    },
+    "call_type_code": "70021",
+    "department": "LITTERING / ILLEGAL DUMPING IN PARKS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Littering / illegal dumping in parks",
+    "short_description": "PARK LITTERING",
+    "intent_bucket": "general",
+    "keywords": [
+      "littering illegal",
+      "illegal dumping",
+      "dumping in",
+      "in parks",
+      "parks park",
+      "park littering",
+      "littering fix",
+      "fix my",
+      "my city",
+      "littering illegal dumping",
+      "illegal dumping in",
+      "dumping in parks",
+      "in parks park",
+      "parks park littering",
+      "park littering fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my littering / illegal",
+      "I have littering / illegal",
+      "there is littering / illegal"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 17,
+      "original_call_type_name": "GRASS CUTTING ALONG MAIN ROAD"
+    },
+    "call_type_code": "70022",
+    "department": "GRASS CUTTING ALONG MAIN ROAD",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Grass cutting along main road",
+    "short_description": "ARTERIAL GRASS CUTTING",
+    "intent_bucket": "roads",
+    "keywords": [
+      "grass cutting",
+      "cutting along",
+      "along main",
+      "main road",
+      "road arterial",
+      "arterial grass",
+      "cutting fix",
+      "fix my",
+      "my city",
+      "grass cutting along",
+      "cutting along main",
+      "along main road",
+      "main road arterial",
+      "road arterial grass",
+      "arterial grass cutting"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my grass cutting along",
+      "I have grass cutting along",
+      "there is grass cutting along"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 18,
+      "original_call_type_name": "COLLECTION OF BRANCHES  (NOT ILLEGALY DUMPED)"
+    },
+    "call_type_code": "70023",
+    "department": "COLLECTION OF BRANCHES  (NOT ILLEGALY DUMPED)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Collection of branches  (not illegaly dumped)",
+    "short_description": "BRANCH/STUMP COLLECTION",
+    "intent_bucket": "general",
+    "keywords": [
+      "collection of",
+      "of branches",
+      "branches not",
+      "not illegaly",
+      "illegaly dumped",
+      "dumped branch",
+      "branch stump",
+      "stump collection",
+      "collection fix",
+      "fix my",
+      "my city",
+      "collection of branches",
+      "of branches not",
+      "branches not illegaly",
+      "not illegaly dumped"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my collection of branches",
+      "I have collection of branches",
+      "there is collection of branches"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 19,
+      "original_call_type_name": "PRUNING OF TREES"
+    },
+    "call_type_code": "70027",
+    "department": "PRUNING OF TREES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Pruning of trees",
+    "short_description": "TREES PRUNING",
+    "intent_bucket": "general",
+    "keywords": [
+      "pruning of",
+      "of trees",
+      "trees trees",
+      "trees pruning",
+      "pruning fix",
+      "fix my",
+      "my city",
+      "pruning of trees",
+      "of trees trees",
+      "trees trees pruning",
+      "trees pruning fix",
+      "pruning fix my",
+      "fix my city",
+      "pruning",
+      "trees"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pruning of trees",
+      "I have pruning of trees",
+      "there is pruning of trees"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 20,
+      "original_call_type_name": "GRASS CUTTING IN NATURE RESERVES"
+    },
+    "call_type_code": "70038",
+    "department": "GRASS CUTTING IN NATURE RESERVES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Grass cutting in nature reserves",
+    "short_description": "NATURE RESERVE GRASS CUT",
+    "intent_bucket": "general",
+    "keywords": [
+      "grass cutting",
+      "cutting in",
+      "in nature",
+      "nature reserves",
+      "reserves nature",
+      "nature reserve",
+      "reserve grass",
+      "grass cut",
+      "cut fix",
+      "fix my",
+      "my city",
+      "grass cutting in",
+      "cutting in nature",
+      "in nature reserves",
+      "nature reserves nature"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my grass cutting in",
+      "I have grass cutting in",
+      "there is grass cutting in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 21,
+      "original_call_type_name": "DAMAGED OR BROKEN PLAYGROUND EQUIPMENT"
+    },
+    "call_type_code": "70039",
+    "department": "DAMAGED OR BROKEN PLAYGROUND EQUIPMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Damaged or broken playground equipment",
+    "short_description": "DAMAGED OR BROKEN PLAYGROUND EQUIPMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "damaged or",
+      "or broken",
+      "broken playground",
+      "playground equipment",
+      "equipment damaged",
+      "equipment fix",
+      "fix my",
+      "my city",
+      "damaged or broken",
+      "or broken playground",
+      "broken playground equipment",
+      "playground equipment damaged",
+      "equipment damaged or",
+      "playground equipment fix",
+      "equipment fix my"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my equipment damage",
+      "I have equipment damage",
+      "there is equipment damage"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 22,
+      "original_call_type_name": "LITTER BINS IN PARK IS OVERFLOWING, BROKEN OR TOO FEW BINS"
+    },
+    "call_type_code": "70041",
+    "department": "LITTER BINS IN PARK IS OVERFLOWING, BROKEN OR TOO FEW BINS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Litter bins in park is overflowing, broken or too ",
+    "short_description": "LITTER BINS IN PARK FULL",
+    "intent_bucket": "general",
+    "keywords": [
+      "litter bins",
+      "bins in",
+      "in park",
+      "park is",
+      "is overflowing",
+      "overflowing broken",
+      "broken or",
+      "or too",
+      "too few",
+      "few bins",
+      "bins litter",
+      "park full",
+      "full fix",
+      "fix my",
+      "my city"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my litter bins in",
+      "I have litter bins in",
+      "there is litter bins in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 23,
+      "original_call_type_name": "PATHWAY REPAIRS AT PARKS OR CEMETARIES"
+    },
+    "call_type_code": "70042",
+    "department": "PATHWAY REPAIRS AT PARKS OR CEMETARIES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Pathway repairs at parks or cemetaries",
+    "short_description": "PATHWAY REPAIRS",
+    "intent_bucket": "general",
+    "keywords": [
+      "pathway repairs",
+      "repairs at",
+      "at parks",
+      "parks or",
+      "or cemetaries",
+      "cemetaries pathway",
+      "repairs fix",
+      "fix my",
+      "my city",
+      "pathway repairs at",
+      "repairs at parks",
+      "at parks or",
+      "parks or cemetaries",
+      "or cemetaries pathway",
+      "cemetaries pathway repairs"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pathway repairs at",
+      "I have pathway repairs at",
+      "there is pathway repairs at"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 24,
+      "original_call_type_name": "BROKEN PARK FENCE(CEMETARY, NATURE RESERVE, PARK)"
+    },
+    "call_type_code": "70044",
+    "department": "BROKEN PARK FENCE(CEMETARY, NATURE RESERVE, PARK)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Broken park fence(cemetary, nature reserve, park)",
+    "short_description": "BROKEN FENCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "broken park",
+      "park fence",
+      "fence cemetary",
+      "cemetary nature",
+      "nature reserve",
+      "reserve park",
+      "park broken",
+      "broken fence",
+      "fence fix",
+      "fix my",
+      "my city",
+      "broken park fence",
+      "park fence cemetary",
+      "fence cemetary nature",
+      "cemetary nature reserve"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my broken park fence(cemetary,",
+      "I have broken park fence(cemetary,",
+      "there is broken park fence(cemetary,"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 25,
+      "original_call_type_name": "LITTER BINS IN A NATURE RESERVE IS OVERFLOWING OR BROKEN"
+    },
+    "call_type_code": "70046",
+    "department": "LITTER BINS IN A NATURE RESERVE IS OVERFLOWING OR BROKEN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Litter bins in a nature reserve is overflowing or ",
+    "short_description": "NATURE RESERVE BIN BROKEN",
+    "intent_bucket": "general",
+    "keywords": [
+      "litter bins",
+      "bins in",
+      "a nature",
+      "nature reserve",
+      "reserve is",
+      "is overflowing",
+      "overflowing or",
+      "or broken",
+      "broken nature",
+      "reserve bin",
+      "bin broken",
+      "broken fix",
+      "fix my",
+      "my city",
+      "litter bins in"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my litter bins in",
+      "I have litter bins in",
+      "there is litter bins in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 26,
+      "original_call_type_name": "LITTER IN NATURE RESERVE"
+    },
+    "call_type_code": "70047",
+    "department": "LITTER IN NATURE RESERVE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Litter in nature reserve",
+    "short_description": "LITTER IN NATURE RESERVE",
+    "intent_bucket": "general",
+    "keywords": [
+      "litter in",
+      "in nature",
+      "nature reserve",
+      "reserve litter",
+      "reserve fix",
+      "fix my",
+      "my city",
+      "litter in nature",
+      "in nature reserve",
+      "nature reserve litter",
+      "reserve litter in",
+      "nature reserve fix",
+      "reserve fix my",
+      "fix my city",
+      "litter"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my litter in nature",
+      "I have litter in nature",
+      "there is litter in nature"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 27,
+      "original_call_type_name": "PARK TRAIL REPAIR"
+    },
+    "call_type_code": "70048",
+    "department": "PARK TRAIL REPAIR",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Park trail repair",
+    "short_description": "TRAIL REPAIR",
+    "intent_bucket": "general",
+    "keywords": [
+      "park trail",
+      "trail repair",
+      "repair trail",
+      "repair fix",
+      "fix my",
+      "my city",
+      "park trail repair",
+      "trail repair trail",
+      "repair trail repair",
+      "trail repair fix",
+      "repair fix my",
+      "fix my city",
+      "park",
+      "trail",
+      "repair"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my park trail repair",
+      "I have park trail repair",
+      "there is park trail repair"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 28,
+      "original_call_type_name": "OVERGROWN/FALLEN TREES IN NATURE RESERVE"
+    },
+    "call_type_code": "70049",
+    "department": "OVERGROWN/FALLEN TREES IN NATURE RESERVE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Overgrown/fallen trees in nature reserve",
+    "short_description": "OVERGROWN/FALLEN TREES IN NATURE RESERVE",
+    "intent_bucket": "general",
+    "keywords": [
+      "overgrown fallen",
+      "fallen trees",
+      "trees in",
+      "in nature",
+      "nature reserve",
+      "reserve overgrown",
+      "reserve fix",
+      "fix my",
+      "my city",
+      "overgrown fallen trees",
+      "fallen trees in",
+      "trees in nature",
+      "in nature reserve",
+      "nature reserve overgrown",
+      "reserve overgrown fallen"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my overgrown/fallen trees in",
+      "I have overgrown/fallen trees in",
+      "there is overgrown/fallen trees in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 29,
+      "original_call_type_name": "BROKEN TAPS (CEMETARY OR NATURE RESERVE)"
+    },
+    "call_type_code": "70051",
+    "department": "BROKEN TAPS (CEMETARY OR NATURE RESERVE)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Broken taps (cemetary or nature reserve)",
+    "short_description": "BROKEN TAPS",
+    "intent_bucket": "general",
+    "keywords": [
+      "broken taps",
+      "taps cemetary",
+      "cemetary or",
+      "or nature",
+      "nature reserve",
+      "reserve broken",
+      "taps fix",
+      "fix my",
+      "my city",
+      "broken taps cemetary",
+      "taps cemetary or",
+      "cemetary or nature",
+      "or nature reserve",
+      "nature reserve broken",
+      "reserve broken taps"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my broken taps (cemetary",
+      "I have broken taps (cemetary",
+      "there is broken taps (cemetary"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 30,
+      "original_call_type_name": "POOR CONDITION OF ABLUTION FACILITY IN NATURE RESERVE"
+    },
+    "call_type_code": "70052",
+    "department": "POOR CONDITION OF ABLUTION FACILITY IN NATURE RESERVE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Poor condition of ablution facility in nature rese",
+    "short_description": "POOR CONDITION OF ABLUTION FACILITY IN NATURE RESERVE",
+    "intent_bucket": "general",
+    "keywords": [
+      "poor condition",
+      "condition of",
+      "of ablution",
+      "ablution facility",
+      "facility in",
+      "in nature",
+      "nature reserve",
+      "reserve poor",
+      "reserve fix",
+      "fix my",
+      "my city",
+      "poor condition of",
+      "condition of ablution",
+      "of ablution facility",
+      "ablution facility in"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my poor condition of",
+      "I have poor condition of",
+      "there is poor condition of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 31,
+      "original_call_type_name": "DAMAGED OR BROKEN PARK FURNITURE (BENCHES)"
+    },
+    "call_type_code": "70053",
+    "department": "DAMAGED OR BROKEN PARK FURNITURE (BENCHES)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Damaged or broken park furniture (benches)",
+    "short_description": "DAMAGED OR BROKEN BENCH",
+    "intent_bucket": "general",
+    "keywords": [
+      "damaged or",
+      "or broken",
+      "broken park",
+      "park furniture",
+      "furniture benches",
+      "benches damaged",
+      "broken bench",
+      "bench fix",
+      "fix my",
+      "my city",
+      "damaged or broken",
+      "or broken park",
+      "broken park furniture",
+      "park furniture benches",
+      "furniture benches damaged"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my damaged or broken",
+      "I have damaged or broken",
+      "there is damaged or broken"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 32,
+      "original_call_type_name": "LITTER BINS IN CEMETERY OVERFLOWING, BROKEN OR NOT/TOO FEW LITTER BINS"
+    },
+    "call_type_code": "70054",
+    "department": "LITTER BINS IN CEMETERY OVERFLOWING, BROKEN OR NOT/TOO FEW LITTER BINS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Litter bins in cemetery overflowing, broken or not",
+    "short_description": "OVERFLOWING BINS IN CEMETERY",
+    "intent_bucket": "general",
+    "keywords": [
+      "litter bins",
+      "bins in",
+      "in cemetery",
+      "cemetery overflowing",
+      "overflowing broken",
+      "broken or",
+      "or not",
+      "not too",
+      "too few",
+      "few litter",
+      "bins overflowing",
+      "overflowing bins",
+      "cemetery fix",
+      "fix my",
+      "my city"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my litter bins in",
+      "I have litter bins in",
+      "there is litter bins in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 33,
+      "original_call_type_name": "OVERGROWN/FALLEN TREE IN CEMETERY"
+    },
+    "call_type_code": "70056",
+    "department": "OVERGROWN/FALLEN TREE IN CEMETERY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Overgrown/fallen tree in cemetery",
+    "short_description": "OVERGROWN/FALLEN TREE IN CEMETERY",
+    "intent_bucket": "general",
+    "keywords": [
+      "overgrown fallen",
+      "fallen tree",
+      "tree in",
+      "in cemetery",
+      "cemetery overgrown",
+      "cemetery fix",
+      "fix my",
+      "my city",
+      "overgrown fallen tree",
+      "fallen tree in",
+      "tree in cemetery",
+      "in cemetery overgrown",
+      "cemetery overgrown fallen",
+      "in cemetery fix",
+      "cemetery fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my overgrown/fallen tree in",
+      "I have overgrown/fallen tree in",
+      "there is overgrown/fallen tree in"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 34,
+      "original_call_type_name": "SUNKEN GRAVES"
+    },
+    "call_type_code": "70057",
+    "department": "SUNKEN GRAVES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Sunken graves",
+    "short_description": "SUNKEN GRAVES",
+    "intent_bucket": "general",
+    "keywords": [
+      "sunken graves",
+      "graves sunken",
+      "graves fix",
+      "fix my",
+      "my city",
+      "sunken graves sunken",
+      "graves sunken graves",
+      "sunken graves fix",
+      "graves fix my",
+      "fix my city",
+      "sunken",
+      "graves",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sunken graves sunken",
+      "I have sunken graves sunken",
+      "there is sunken graves sunken"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 35,
+      "original_call_type_name": "POOR CONDITION OF ABLUTION FACILITY IN CEMETERY"
+    },
+    "call_type_code": "70060",
+    "department": "POOR CONDITION OF ABLUTION FACILITY IN CEMETERY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Poor condition of ablution facility in cemetery",
+    "short_description": "BAD CEMETRY ABLUTION FACILITY",
+    "intent_bucket": "general",
+    "keywords": [
+      "poor condition",
+      "condition of",
+      "of ablution",
+      "ablution facility",
+      "facility in",
+      "in cemetery",
+      "cemetery bad",
+      "bad cemetry",
+      "cemetry ablution",
+      "facility fix",
+      "fix my",
+      "my city",
+      "poor condition of",
+      "condition of ablution",
+      "of ablution facility"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my poor condition of",
+      "I have poor condition of",
+      "there is poor condition of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 36,
+      "original_call_type_name": "BROKEN LIGHTS IN A PARK"
+    },
+    "call_type_code": "70061",
+    "department": "BROKEN LIGHTS IN A PARK",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Broken lights in a park",
+    "short_description": "BROKEN LIGHTS IN A PARK",
+    "intent_bucket": "general",
+    "keywords": [
+      "broken lights",
+      "lights in",
+      "a park",
+      "park broken",
+      "park fix",
+      "fix my",
+      "my city",
+      "broken lights in",
+      "lights in a",
+      "in a park",
+      "a park broken",
+      "park broken lights",
+      "a park fix",
+      "park fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my broken lights in",
+      "I have broken lights in",
+      "there is broken lights in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 37,
+      "original_call_type_name": "TREE PRUNING AROUND ZOO WALL PERIMETER"
+    },
+    "call_type_code": "70063",
+    "department": "TREE PRUNING AROUND ZOO WALL PERIMETER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Tree pruning around zoo wall perimeter",
+    "short_description": "TREE PRUNING AROUND ZOO",
+    "intent_bucket": "general",
+    "keywords": [
+      "tree pruning",
+      "pruning around",
+      "around zoo",
+      "zoo wall",
+      "wall perimeter",
+      "perimeter tree",
+      "zoo fix",
+      "fix my",
+      "my city",
+      "tree pruning around",
+      "pruning around zoo",
+      "around zoo wall",
+      "zoo wall perimeter",
+      "wall perimeter tree",
+      "perimeter tree pruning"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tree pruning around",
+      "I have tree pruning around",
+      "there is tree pruning around"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 38,
+      "original_call_type_name": "TREE TRIPPING POWER SUPPLY"
+    },
+    "call_type_code": "70064",
+    "department": "TREE TRIPPING POWER SUPPLY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "Tree tripping power supply",
+    "short_description": "TREE TRIPPING POWER SUPPLY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "tree tripping",
+      "tripping power",
+      "power supply",
+      "supply tree",
+      "supply fix",
+      "fix my",
+      "my city",
+      "tree tripping power",
+      "tripping power supply",
+      "power supply tree",
+      "supply tree tripping",
+      "power supply fix",
+      "supply fix my",
+      "fix my city",
+      "tree"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my tree tripping power",
+      "I have tree tripping power",
+      "there is tree tripping power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 39,
+      "original_call_type_name": "TREE FALLEN INTO POWER LINE"
+    },
+    "call_type_code": "70065",
+    "department": "TREE FALLEN INTO POWER LINE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Tree fallen into power line",
+    "short_description": "TREE FALLEN INTO POWER LINE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "tree fallen",
+      "fallen into",
+      "into power",
+      "power line",
+      "line tree",
+      "line fix",
+      "fix my",
+      "my city",
+      "tree fallen into",
+      "fallen into power",
+      "into power line",
+      "power line tree",
+      "line tree fallen",
+      "power line fix",
+      "line fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my tree fallen into",
+      "I have tree fallen into",
+      "there is tree fallen into"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 40,
+      "original_call_type_name": "ASSESMENT OF A TREE FOR POTENTIAL REMOVAL"
+    },
+    "call_type_code": "70066",
+    "department": "ASSESMENT OF A TREE FOR POTENTIAL REMOVAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Assesment of a tree for potential removal",
+    "short_description": "ASSESMENT OF A TREE",
+    "intent_bucket": "general",
+    "keywords": [
+      "assesment of",
+      "a tree",
+      "tree for",
+      "for potential",
+      "potential removal",
+      "removal assesment",
+      "tree fix",
+      "fix my",
+      "my city",
+      "assesment of a",
+      "of a tree",
+      "a tree for",
+      "tree for potential",
+      "for potential removal",
+      "potential removal assesment"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my assesment of a",
+      "I have assesment of a",
+      "there is assesment of a"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 41,
+      "original_call_type_name": "Grass cutting in green belts"
+    },
+    "call_type_code": "70067",
+    "department": "Grass cutting in green belts",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Grass cutting in green belts",
+    "short_description": "Grass cutting in green belts",
+    "intent_bucket": "general",
+    "keywords": [
+      "grass cutting",
+      "cutting in",
+      "in green",
+      "green belts",
+      "belts grass",
+      "belts fix",
+      "fix my",
+      "my city",
+      "grass cutting in",
+      "cutting in green",
+      "in green belts",
+      "green belts grass",
+      "belts grass cutting",
+      "green belts fix",
+      "belts fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my grass cutting in",
+      "I have grass cutting in",
+      "there is grass cutting in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 42,
+      "original_call_type_name": "Grass cutting in catchment areas"
+    },
+    "call_type_code": "70068",
+    "department": "Grass cutting in catchment areas",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Grass cutting in catchment areas",
+    "short_description": "Grass cutting in catchment areas",
+    "intent_bucket": "general",
+    "keywords": [
+      "grass cutting",
+      "cutting in",
+      "in catchment",
+      "catchment areas",
+      "areas grass",
+      "areas fix",
+      "fix my",
+      "my city",
+      "grass cutting in",
+      "cutting in catchment",
+      "in catchment areas",
+      "catchment areas grass",
+      "areas grass cutting",
+      "catchment areas fix",
+      "areas fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my grass cutting in",
+      "I have grass cutting in",
+      "there is grass cutting in"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 43,
+      "original_call_type_name": "Terrestrial alien invasive plant control in catchment areas"
+    },
+    "call_type_code": "70069",
+    "department": "Terrestrial alien invasive plant control in catchment areas",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Terrestrial alien invasive plant control in catchm",
+    "short_description": "Plant control in catchment areas",
+    "intent_bucket": "general",
+    "keywords": [
+      "terrestrial alien",
+      "alien invasive",
+      "invasive plant",
+      "plant control",
+      "control in",
+      "in catchment",
+      "catchment areas",
+      "areas plant",
+      "areas fix",
+      "fix my",
+      "my city",
+      "terrestrial alien invasive",
+      "alien invasive plant",
+      "invasive plant control",
+      "plant control in"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my terrestrial alien invasive",
+      "I have terrestrial alien invasive",
+      "there is terrestrial alien invasive"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 44,
+      "original_call_type_name": "Terrestrial alien invasive plant control in green belts"
+    },
+    "call_type_code": "70070",
+    "department": "Terrestrial alien invasive plant control in green belts",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Terrestrial alien invasive plant control in green ",
+    "short_description": "Plant control in Green Belt",
+    "intent_bucket": "general",
+    "keywords": [
+      "terrestrial alien",
+      "alien invasive",
+      "invasive plant",
+      "plant control",
+      "control in",
+      "in green",
+      "green belts",
+      "belts plant",
+      "green belt",
+      "belt fix",
+      "fix my",
+      "my city",
+      "terrestrial alien invasive",
+      "alien invasive plant",
+      "invasive plant control"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my terrestrial alien invasive",
+      "I have terrestrial alien invasive",
+      "there is terrestrial alien invasive"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 45,
+      "original_call_type_name": "Aquatic alien invasive plant control in water bodies"
+    },
+    "call_type_code": "70071",
+    "department": "Aquatic alien invasive plant control in water bodies",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Aquatic alien invasive plant control in water bodi",
+    "short_description": "Aquatic alien invasive plant",
+    "intent_bucket": "water",
+    "keywords": [
+      "aquatic alien",
+      "alien invasive",
+      "invasive plant",
+      "plant control",
+      "control in",
+      "in water",
+      "water bodies",
+      "bodies aquatic",
+      "plant fix",
+      "fix my",
+      "my city",
+      "aquatic alien invasive",
+      "alien invasive plant",
+      "invasive plant control",
+      "plant control in"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my aquatic alien invasive",
+      "I have aquatic alien invasive",
+      "there is aquatic alien invasive"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JCPZ",
+      "row_number": 46,
+      "original_call_type_name": "Removal of fallen tries in rivers and streams"
+    },
+    "call_type_code": "70072",
+    "department": "Removal of fallen tries in rivers and streams",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Removal of fallen tries in rivers and streams",
+    "short_description": "Removal of fallen tries in rivers and streams",
+    "intent_bucket": "general",
+    "keywords": [
+      "removal of",
+      "of fallen",
+      "fallen tries",
+      "tries in",
+      "in rivers",
+      "rivers and",
+      "and streams",
+      "streams removal",
+      "streams fix",
+      "fix my",
+      "my city",
+      "removal of fallen",
+      "of fallen tries",
+      "fallen tries in",
+      "tries in rivers"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my removal of fallen",
+      "I have removal of fallen",
+      "there is removal of fallen"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

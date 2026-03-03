@@ -1,0 +1,100 @@
+[
+    {
+        "source_reference": {
+            "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+            "sheet_name": "City Power",
+            "row_number": 2,
+            "original_call_type_name": "CABINET / CHAMBER OPEN"
+        },
+        "call_type_code": "20001",
+        "department": "Electricity CABINET/CHAMBER OPEN",
+        "service_group": "FIX MY CITY",
+        "issue_category": "maintenance",
+        "issue_type": "Cabinet / chamber open",
+        "short_description": "CABINET OPEN",
+        "intent_bucket": "electricity",
+        "keywords": [
+            "cabinet chamber",
+            "chamber open",
+            "open cabinet",
+            "cabinet open",
+            "open fix",
+            "fix my",
+            "my city",
+            "cabinet chamber open",
+            "chamber open cabinet",
+            "open cabinet open",
+            "cabinet open fix",
+            "open fix my",
+            "fix my city",
+            "cabinet",
+            "chamber"
+        ],
+        "negative_keywords": [
+            "water",
+            "refuse",
+            "waste"
+        ],
+        "example_user_utterances": [
+            "my cabinet / chamber",
+            "I have cabinet / chamber",
+            "there is cabinet / chamber"
+        ],
+        "confidence_weight": 0.7999999999999999,
+        "min_confidence_required": 0.75
+    },
+    {
+        "source_reference": {
+            "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+            "sheet_name": "City Power",
+            "row_number": 3,
+            "original_call_type_name": "DAMAGED HIGH MAST POLE"
+        },
+        "call_type_code": "20002",
+        "department": "Electricity DAMAGED HIGH MAST POLE",
+        "service_group": "FIX MY CITY",
+        "issue_category": "damage",
+        "issue_type": "Damaged high mast pole",
+        "short_description": "DAMAGED POLE",
+        "intent_bucket": "electricity",
+        "keywords": [
+            "damaged high",
+            "high mast",
+            "mast pole",
+            "pole damaged",
+            "damaged pole",
+            "pole fix",
+            "fix my",
+            "my city",
+            "damaged high mast",
+            "high mast pole",
+            "mast pole damaged",
+            "pole damaged pole",
+            "damaged pole fix",
+            "pole fix my",
+            "fix my city"
+        ],
+        "negative_keywords": [
+            "water",
+            "refuse",
+            "waste",
+            "account",
+            "payment",
+            "bill",
+            "statement"
+        ],
+        "example_user_utterances": [
+            "my pole damage",
+            "I have pole damage",
+            "there is pole damage"
+        ],
+        "confidence_weight": 0.7999999999999999,
+        "min_confidence_required": 0.75
+    },
+    {
+        "source_reference": {
+            "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+            "sheet_name": "City Power",
+            "row_number": 4,
+            "original_call_type_name": "ELECTRICITY SURGE/SPIKE"
+        },

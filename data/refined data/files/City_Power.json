@@ -1,0 +1,1827 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 2,
+      "original_call_type_name": "CABINET / CHAMBER OPEN"
+    },
+    "call_type_code": "20001",
+    "department": "Electricity CABINET/CHAMBER OPEN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Cabinet / chamber open",
+    "short_description": "CABINET OPEN",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "cabinet chamber",
+      "chamber open",
+      "open cabinet",
+      "cabinet open",
+      "open fix",
+      "fix my",
+      "my city",
+      "cabinet chamber open",
+      "chamber open cabinet",
+      "open cabinet open",
+      "cabinet open fix",
+      "open fix my",
+      "fix my city",
+      "cabinet",
+      "chamber"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my cabinet / chamber",
+      "I have cabinet / chamber",
+      "there is cabinet / chamber"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 3,
+      "original_call_type_name": "DAMAGED HIGH MAST POLE"
+    },
+    "call_type_code": "20002",
+    "department": "Electricity DAMAGED HIGH MAST POLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Damaged high mast pole",
+    "short_description": "DAMAGED POLE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "damaged high",
+      "high mast",
+      "mast pole",
+      "pole damaged",
+      "damaged pole",
+      "pole fix",
+      "fix my",
+      "my city",
+      "damaged high mast",
+      "high mast pole",
+      "mast pole damaged",
+      "pole damaged pole",
+      "damaged pole fix",
+      "pole fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my pole damage",
+      "I have pole damage",
+      "there is pole damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 4,
+      "original_call_type_name": "ELECTRICITY SURGE/SPIKE"
+    },
+    "call_type_code": "20003",
+    "department": "Electricity SURGE / SPIKE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Electricity surge/spike",
+    "short_description": "ELECTRICITY SURGE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "electricity surge",
+      "surge spike",
+      "spike electricity",
+      "surge fix",
+      "fix my",
+      "my city",
+      "electricity surge spike",
+      "surge spike electricity",
+      "spike electricity surge",
+      "electricity surge fix",
+      "surge fix my",
+      "fix my city",
+      "electricity",
+      "surge",
+      "spike"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my electricity surge/spike electricity",
+      "I have electricity surge/spike electricity",
+      "there is electricity surge/spike electricity"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 5,
+      "original_call_type_name": "ELECTROCUTION"
+    },
+    "call_type_code": "20004",
+    "department": "ELECTROCUTION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Electrocution",
+    "short_description": "ELECTROCUTION",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "electrocution electrocution",
+      "electrocution fix",
+      "fix my",
+      "my city",
+      "electrocution electrocution fix",
+      "electrocution fix my",
+      "fix my city",
+      "electrocution",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my electrocution electrocution",
+      "I have electrocution electrocution",
+      "there is electrocution electrocution"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 6,
+      "original_call_type_name": "EXPOSED WIRES"
+    },
+    "call_type_code": "20005",
+    "department": "EXPOSED ELECTRICAL WIRES",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Exposed wires",
+    "short_description": "EXPOSED WIRES",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "exposed wires",
+      "wires exposed",
+      "wires fix",
+      "fix my",
+      "my city",
+      "exposed wires exposed",
+      "wires exposed wires",
+      "exposed wires fix",
+      "wires fix my",
+      "fix my city",
+      "exposed",
+      "wires",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my exposed wires exposed",
+      "I have exposed wires exposed",
+      "there is exposed wires exposed"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 7,
+      "original_call_type_name": "FLICKERING SUPPLY (VOLTAGE FLUCTUATION)"
+    },
+    "call_type_code": "20006",
+    "department": "FLICKERING ELECTRICITY SUPPLY (VOLTAGE FLUCTUATION)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "Flickering supply (voltage fluctuation)",
+    "short_description": "FLICKERING SUPPLY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "flickering supply",
+      "supply voltage",
+      "voltage fluctuation",
+      "fluctuation flickering",
+      "supply fix",
+      "fix my",
+      "my city",
+      "flickering supply voltage",
+      "supply voltage fluctuation",
+      "voltage fluctuation flickering",
+      "fluctuation flickering supply",
+      "flickering supply fix",
+      "supply fix my",
+      "fix my city",
+      "flickering"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my flickering supply (voltage",
+      "I have flickering supply (voltage",
+      "there is flickering supply (voltage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 8,
+      "original_call_type_name": "LINE DOWN"
+    },
+    "call_type_code": "20007",
+    "department": "Electricity LINE DOWN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Line down",
+    "short_description": "LINE DOWN",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "line down",
+      "down line",
+      "down fix",
+      "fix my",
+      "my city",
+      "line down line",
+      "down line down",
+      "line down fix",
+      "down fix my",
+      "fix my city",
+      "line",
+      "down",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my line down line",
+      "I have line down line",
+      "there is line down line"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 9,
+      "original_call_type_name": "LOW VOLTAGE"
+    },
+    "call_type_code": "20008",
+    "department": "LOW ELECTRICITY VOLTAGE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Low voltage",
+    "short_description": "LOW VOLTAGE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "low voltage",
+      "voltage low",
+      "voltage fix",
+      "fix my",
+      "my city",
+      "low voltage low",
+      "voltage low voltage",
+      "low voltage fix",
+      "voltage fix my",
+      "fix my city",
+      "low",
+      "voltage",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my low voltage low",
+      "I have low voltage low",
+      "there is low voltage low"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 10,
+      "original_call_type_name": "METER REMOVED FROM METER BOX / STOLEN"
+    },
+    "call_type_code": "20009",
+    "department": "Electricity METER REMOVED FROM METER BOX/STOLEN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Meter removed from meter box / stolen",
+    "short_description": "METER STOLEN",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "meter removed",
+      "removed from",
+      "from meter",
+      "meter box",
+      "box stolen",
+      "stolen meter",
+      "meter stolen",
+      "stolen fix",
+      "fix my",
+      "my city",
+      "meter removed from",
+      "removed from meter",
+      "from meter box",
+      "meter box stolen",
+      "box stolen meter"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my meter removed from",
+      "I have meter removed from",
+      "there is meter removed from"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 11,
+      "original_call_type_name": "POLE DOWN"
+    },
+    "call_type_code": "20010",
+    "department": "Electricity POLE DOWN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Pole down",
+    "short_description": "POLE DOWN",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "pole down",
+      "down pole",
+      "down fix",
+      "fix my",
+      "my city",
+      "pole down pole",
+      "down pole down",
+      "pole down fix",
+      "down fix my",
+      "fix my city",
+      "pole",
+      "down",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my pole down pole",
+      "I have pole down pole",
+      "there is pole down pole"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 12,
+      "original_call_type_name": "SHOCKS ON TAPS"
+    },
+    "call_type_code": "20011",
+    "department": "Electricity SHOCKS ON TAPS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Shocks on taps",
+    "short_description": "SHOCKS ON TAPS",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "shocks on",
+      "on taps",
+      "taps shocks",
+      "taps fix",
+      "fix my",
+      "my city",
+      "shocks on taps",
+      "on taps shocks",
+      "taps shocks on",
+      "on taps fix",
+      "taps fix my",
+      "fix my city",
+      "shocks",
+      "taps",
+      "fix"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my shocks on taps",
+      "I have shocks on taps",
+      "there is shocks on taps"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 13,
+      "original_call_type_name": "SPARKS AT POLE"
+    },
+    "call_type_code": "20012",
+    "department": "Electricity SPARKS AT POLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Sparks at pole",
+    "short_description": "SPARKS AT POLE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "sparks at",
+      "at pole",
+      "pole sparks",
+      "pole fix",
+      "fix my",
+      "my city",
+      "sparks at pole",
+      "at pole sparks",
+      "pole sparks at",
+      "at pole fix",
+      "pole fix my",
+      "fix my city",
+      "sparks",
+      "pole",
+      "fix"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my sparks at pole",
+      "I have sparks at pole",
+      "there is sparks at pole"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 14,
+      "original_call_type_name": "SUBSTATION BURNING"
+    },
+    "call_type_code": "20013",
+    "department": "SUBSTATION BURNING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Substation burning",
+    "short_description": "SUBSTATION BURNING",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "substation burning",
+      "burning substation",
+      "burning fix",
+      "fix my",
+      "my city",
+      "substation burning substation",
+      "burning substation burning",
+      "substation burning fix",
+      "burning fix my",
+      "fix my city",
+      "substation",
+      "burning",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my substation burning substation",
+      "I have substation burning substation",
+      "there is substation burning substation"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 15,
+      "original_call_type_name": "TREES OBSTRUCTING LINE"
+    },
+    "call_type_code": "20014",
+    "department": "TREES OBSTRUCTING ELECTRICITY LINE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Trees obstructing line",
+    "short_description": "TREES ON LINE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "trees obstructing",
+      "obstructing line",
+      "line trees",
+      "trees on",
+      "on line",
+      "line fix",
+      "fix my",
+      "my city",
+      "trees obstructing line",
+      "obstructing line trees",
+      "line trees on",
+      "trees on line",
+      "on line fix",
+      "line fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my trees obstructing line",
+      "I have trees obstructing line",
+      "there is trees obstructing line"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 16,
+      "original_call_type_name": "VANDALIZED CHAMBER"
+    },
+    "call_type_code": "20015",
+    "department": "VANDALIZED ELECTRICITY CHAMBER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Vandalized chamber",
+    "short_description": "VANDALIZED CHAMBER",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "vandalized chamber",
+      "chamber vandalized",
+      "chamber fix",
+      "fix my",
+      "my city",
+      "vandalized chamber vandalized",
+      "chamber vandalized chamber",
+      "vandalized chamber fix",
+      "chamber fix my",
+      "fix my city",
+      "vandalized",
+      "chamber",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my vandalized chamber vandalized",
+      "I have vandalized chamber vandalized",
+      "there is vandalized chamber vandalized"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 17,
+      "original_call_type_name": "WATER IN CHAMBER"
+    },
+    "call_type_code": "20016",
+    "department": "WATER IN ELECTRICITY CHAMBER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water in chamber",
+    "short_description": "WATER IN CHAMBER",
+    "intent_bucket": "water",
+    "keywords": [
+      "water in",
+      "in chamber",
+      "chamber water",
+      "chamber fix",
+      "fix my",
+      "my city",
+      "water in chamber",
+      "in chamber water",
+      "chamber water in",
+      "in chamber fix",
+      "chamber fix my",
+      "fix my city",
+      "water",
+      "chamber",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water in chamber",
+      "I have water in chamber",
+      "there is water in chamber"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 18,
+      "original_call_type_name": "ILLEGAL CONNECTION / BYPASS"
+    },
+    "call_type_code": "20017",
+    "department": "ILLEGAL ELECTRICITY CONNECTION /BYPASS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal connection / bypass",
+    "short_description": "ILLEGAL CONN.",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "illegal connection",
+      "connection bypass",
+      "bypass illegal",
+      "illegal conn",
+      "conn fix",
+      "fix my",
+      "my city",
+      "illegal connection bypass",
+      "connection bypass illegal",
+      "bypass illegal conn",
+      "illegal conn fix",
+      "conn fix my",
+      "fix my city",
+      "illegal",
+      "connection"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my illegal connection /",
+      "I have illegal connection /",
+      "there is illegal connection /"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 19,
+      "original_call_type_name": "BARRICADE TRENCH / TRENCH NOT CLOSED"
+    },
+    "call_type_code": "20018",
+    "department": "Electricity BARRICADE TRENCH / TRENCH NOT CLOSED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Barricade trench / trench not closed",
+    "short_description": "BARRICADE TRENCH",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "barricade trench",
+      "trench trench",
+      "trench not",
+      "not closed",
+      "closed barricade",
+      "trench fix",
+      "fix my",
+      "my city",
+      "barricade trench trench",
+      "trench trench not",
+      "trench not closed",
+      "not closed barricade",
+      "closed barricade trench",
+      "barricade trench fix",
+      "trench fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my barricade trench /",
+      "I have barricade trench /",
+      "there is barricade trench /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 20,
+      "original_call_type_name": "BEES IN METER BOX"
+    },
+    "call_type_code": "20019",
+    "department": "BEES IN ELECTRICITY METER BOX",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bees in meter box",
+    "short_description": "BEES-METER BOX",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "bees in",
+      "in meter",
+      "meter box",
+      "box bees",
+      "bees meter",
+      "box fix",
+      "fix my",
+      "my city",
+      "bees in meter",
+      "in meter box",
+      "meter box bees",
+      "box bees meter",
+      "bees meter box",
+      "meter box fix",
+      "box fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my bees in meter",
+      "I have bees in meter",
+      "there is bees in meter"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 21,
+      "original_call_type_name": "GRASS CUTTING: SUBSTATION"
+    },
+    "call_type_code": "20020",
+    "department": "GRASS CUTTING ELECTRICITY SUBSTATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Grass cutting: substation",
+    "short_description": "GRASS CUTTING",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "grass cutting",
+      "cutting substation",
+      "substation grass",
+      "cutting fix",
+      "fix my",
+      "my city",
+      "grass cutting substation",
+      "cutting substation grass",
+      "substation grass cutting",
+      "grass cutting fix",
+      "cutting fix my",
+      "fix my city",
+      "grass",
+      "cutting",
+      "substation"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my grass cutting: substation",
+      "I have grass cutting: substation",
+      "there is grass cutting: substation"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 22,
+      "original_call_type_name": "NO SUPPLY"
+    },
+    "call_type_code": "20021",
+    "department": "NO ELECTRICITY SUPPLY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "supply",
+    "issue_type": "No supply",
+    "short_description": "NO SUPPLY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "no supply",
+      "supply no",
+      "supply fix",
+      "fix my",
+      "my city",
+      "no supply no",
+      "supply no supply",
+      "no supply fix",
+      "supply fix my",
+      "fix my city",
+      "supply",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no supply",
+      "I have no supply",
+      "there is no supply"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 23,
+      "original_call_type_name": "NOISY SUBSTATION"
+    },
+    "call_type_code": "20024",
+    "department": "NOISY ELECTRICITY SUBSTATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Noisy substation",
+    "short_description": "NOISY SUBSTATION",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "noisy substation",
+      "substation noisy",
+      "substation fix",
+      "fix my",
+      "my city",
+      "noisy substation noisy",
+      "substation noisy substation",
+      "noisy substation fix",
+      "substation fix my",
+      "fix my city",
+      "noisy",
+      "substation",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my noisy substation noisy",
+      "I have noisy substation noisy",
+      "there is noisy substation noisy"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 24,
+      "original_call_type_name": "PHASES OFF"
+    },
+    "call_type_code": "20025",
+    "department": "Electricity PHASES OFF",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Phases off",
+    "short_description": "PHASES OFF",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "phases off",
+      "off phases",
+      "off fix",
+      "fix my",
+      "my city",
+      "phases off phases",
+      "off phases off",
+      "phases off fix",
+      "off fix my",
+      "fix my city",
+      "phases",
+      "off",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my phases off phases",
+      "I have phases off phases",
+      "there is phases off phases"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 25,
+      "original_call_type_name": "POWER OFF AFTER RESTORATION"
+    },
+    "call_type_code": "20026",
+    "department": "POWER OFF AFTER ELECTRICITY RESTORATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Power off after restoration",
+    "short_description": "POWER OFF",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "power off",
+      "off after",
+      "after restoration",
+      "restoration power",
+      "off fix",
+      "fix my",
+      "my city",
+      "power off after",
+      "off after restoration",
+      "after restoration power",
+      "restoration power off",
+      "power off fix",
+      "off fix my",
+      "fix my city",
+      "power"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my power off after",
+      "I have power off after",
+      "there is power off after"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 26,
+      "original_call_type_name": "STREET LIGHTS DIM"
+    },
+    "call_type_code": "20027",
+    "department": "STREET LIGHTS DIM",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street lights dim",
+    "short_description": "DIM LIGHTS",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "street lights",
+      "lights dim",
+      "dim dim",
+      "dim lights",
+      "lights fix",
+      "fix my",
+      "my city",
+      "street lights dim",
+      "lights dim dim",
+      "dim dim lights",
+      "dim lights fix",
+      "lights fix my",
+      "fix my city",
+      "street",
+      "lights"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my street lights dim",
+      "I have street lights dim",
+      "there is street lights dim"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 27,
+      "original_call_type_name": "STREET LIGHTS OFF - HIGHWAY / MAIN STR"
+    },
+    "call_type_code": "20028",
+    "department": "STREET LIGHTS OFF ON HIGHWAY / MAIN STR",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street lights off - highway / main str",
+    "short_description": "LIGHTS OFF-HIGHWAY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "street lights",
+      "lights off",
+      "off highway",
+      "highway main",
+      "main str",
+      "str lights",
+      "highway fix",
+      "fix my",
+      "my city",
+      "street lights off",
+      "lights off highway",
+      "off highway main",
+      "highway main str",
+      "main str lights",
+      "str lights off"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my street lights off",
+      "I have street lights off",
+      "there is street lights off"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 28,
+      "original_call_type_name": "STREET LIGHTS OFF - SECONDARY ROAD"
+    },
+    "call_type_code": "20029",
+    "department": "STREET LIGHTS OFF ON SECONDARY ROAD",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street lights off - secondary road",
+    "short_description": "LIGHTS OFF-SECONDARY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "street lights",
+      "lights off",
+      "off secondary",
+      "secondary road",
+      "road lights",
+      "secondary fix",
+      "fix my",
+      "my city",
+      "street lights off",
+      "lights off secondary",
+      "off secondary road",
+      "secondary road lights",
+      "road lights off",
+      "off secondary fix",
+      "secondary fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my street lights off",
+      "I have street lights off",
+      "there is street lights off"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 29,
+      "original_call_type_name": "STREET LIGHTS ON DURING DAY"
+    },
+    "call_type_code": "20030",
+    "department": "STREET LIGHTS ON DURING DAY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street lights on during day",
+    "short_description": "LIGHTS ON-DAYTIME",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "street lights",
+      "lights on",
+      "on during",
+      "during day",
+      "day lights",
+      "on daytime",
+      "daytime fix",
+      "fix my",
+      "my city",
+      "street lights on",
+      "lights on during",
+      "on during day",
+      "during day lights",
+      "day lights on",
+      "lights on daytime"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my street lights on",
+      "I have street lights on",
+      "there is street lights on"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 30,
+      "original_call_type_name": "STREET LIGHTS SECTION OUT"
+    },
+    "call_type_code": "20031",
+    "department": "STREET LIGHTS SECTION OUT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street lights section out",
+    "short_description": "LIGHTS OUT",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "street lights",
+      "lights section",
+      "section out",
+      "out lights",
+      "lights out",
+      "out fix",
+      "fix my",
+      "my city",
+      "street lights section",
+      "lights section out",
+      "section out lights",
+      "out lights out",
+      "lights out fix",
+      "out fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my street lights section",
+      "I have street lights section",
+      "there is street lights section"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 31,
+      "original_call_type_name": "BURNT METER"
+    },
+    "call_type_code": "20032",
+    "department": "BURNT ELECTRICITY METER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Burnt meter",
+    "short_description": "BURNT METER",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "burnt meter",
+      "meter burnt",
+      "meter fix",
+      "fix my",
+      "my city",
+      "burnt meter burnt",
+      "meter burnt meter",
+      "burnt meter fix",
+      "meter fix my",
+      "fix my city",
+      "burnt",
+      "meter",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "token",
+      "voucher",
+      "prepaid",
+      "code",
+      "units",
+      "credit",
+      "recharge",
+      "load",
+      "accepting",
+      "entered",
+      "purchased",
+      "bought"
+    ],
+    "example_user_utterances": [
+      "my burnt meter burnt",
+      "I have burnt meter burnt",
+      "there is burnt meter burnt"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 32,
+      "original_call_type_name": "METER DAMAGED"
+    },
+    "call_type_code": "20033",
+    "department": "Electricity METER DAMAGED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Meter damaged",
+    "short_description": "DAMAGED METER",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "meter damaged",
+      "damaged damaged",
+      "damaged meter",
+      "meter fix",
+      "fix my",
+      "my city",
+      "meter damaged damaged",
+      "damaged damaged meter",
+      "damaged meter fix",
+      "meter fix my",
+      "fix my city",
+      "meter",
+      "damaged",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter damage",
+      "I have meter damage",
+      "there is meter damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 33,
+      "original_call_type_name": "METER NOT WORKING"
+    },
+    "call_type_code": "20034",
+    "department": "Electricity METER NOT WORKING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Meter not working",
+    "short_description": "METER BROKEN",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "meter not",
+      "not working",
+      "working meter",
+      "meter broken",
+      "broken fix",
+      "fix my",
+      "my city",
+      "meter not working",
+      "not working meter",
+      "working meter broken",
+      "meter broken fix",
+      "broken fix my",
+      "fix my city",
+      "meter",
+      "not"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my meter not working",
+      "I have meter not working",
+      "there is meter not working"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 34,
+      "original_call_type_name": "PREPAID CUSTOMER BOUGHT UNITS WITH OLD METER"
+    },
+    "call_type_code": "20036",
+    "department": "PREPAID ELECTRICITY CUSTOMER BOUGHT UNITS WITH OLD METER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid customer bought units with old meter",
+    "short_description": "PREPAID-OLD METER",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid customer",
+      "customer bought",
+      "bought units",
+      "units with",
+      "with old",
+      "old meter",
+      "meter prepaid",
+      "prepaid old",
+      "meter fix",
+      "fix my",
+      "my city",
+      "prepaid customer bought",
+      "customer bought units",
+      "bought units with",
+      "units with old"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid customer bought",
+      "I have prepaid customer bought",
+      "there is prepaid customer bought"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 35,
+      "original_call_type_name": "PREPAID CUSTOMER CANNOT BUY VOUCHER"
+    },
+    "call_type_code": "20037",
+    "department": "PREPAID ELECTRICITY CUSTOMER CANNOT BUY VOUCHER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid customer cannot buy voucher",
+    "short_description": "PREPAID-VOUCHER ISSUE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid customer",
+      "customer cannot",
+      "cannot buy",
+      "buy voucher",
+      "voucher prepaid",
+      "prepaid voucher",
+      "voucher issue",
+      "issue fix",
+      "fix my",
+      "my city",
+      "prepaid customer cannot",
+      "customer cannot buy",
+      "cannot buy voucher",
+      "buy voucher prepaid",
+      "voucher prepaid voucher"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid customer cannot",
+      "I have prepaid customer cannot",
+      "there is prepaid customer cannot"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 36,
+      "original_call_type_name": "PREPAID METER DISPLAYS ??????"
+    },
+    "call_type_code": "20038",
+    "department": "PREPAID ELECTRICITY METER DISPLAYS ?????",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid meter displays ??????",
+    "short_description": "PREPAID-METER ERROR",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid meter",
+      "meter displays",
+      "displays prepaid",
+      "meter error",
+      "error fix",
+      "fix my",
+      "my city",
+      "prepaid meter displays",
+      "meter displays prepaid",
+      "displays prepaid meter",
+      "prepaid meter error",
+      "meter error fix",
+      "error fix my",
+      "fix my city",
+      "prepaid"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid meter displays",
+      "I have prepaid meter displays",
+      "there is prepaid meter displays"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 37,
+      "original_call_type_name": "PREPAID METER DISPLAYS SAD FACE"
+    },
+    "call_type_code": "20039",
+    "department": "PREPAID ELECTRICITY METER DISPLAYS SAD FACE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid meter displays sad face",
+    "short_description": "PREPAID-SAD FACE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid meter",
+      "meter displays",
+      "displays sad",
+      "sad face",
+      "face prepaid",
+      "prepaid sad",
+      "face fix",
+      "fix my",
+      "my city",
+      "prepaid meter displays",
+      "meter displays sad",
+      "displays sad face",
+      "sad face prepaid",
+      "face prepaid sad",
+      "prepaid sad face"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid meter displays",
+      "I have prepaid meter displays",
+      "there is prepaid meter displays"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 38,
+      "original_call_type_name": "PREPAID METER KEYPAD DAMAGED"
+    },
+    "call_type_code": "20040",
+    "department": "PREPAID ELECTRICITY METER KEYPAD DAMAGED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Prepaid meter keypad damaged",
+    "short_description": "PREPAID-KEYPAD DAMAGED",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid meter",
+      "meter keypad",
+      "keypad damaged",
+      "damaged prepaid",
+      "prepaid keypad",
+      "damaged fix",
+      "fix my",
+      "my city",
+      "prepaid meter keypad",
+      "meter keypad damaged",
+      "keypad damaged prepaid",
+      "damaged prepaid keypad",
+      "prepaid keypad damaged",
+      "keypad damaged fix",
+      "damaged fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my keypad damage",
+      "I have keypad damage",
+      "there is keypad damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 39,
+      "original_call_type_name": "PREPAID METER NOT ACCEPTING UNITS"
+    },
+    "call_type_code": "20041",
+    "department": "PREPAID ELECTRICITY METER NOT ACCEPTING UNITS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid meter not accepting units",
+    "short_description": "NO UNITS ACCEPTED",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid meter",
+      "meter not",
+      "not accepting",
+      "accepting units",
+      "units no",
+      "no units",
+      "units accepted",
+      "accepted fix",
+      "fix my",
+      "my city",
+      "prepaid meter not",
+      "meter not accepting",
+      "not accepting units",
+      "accepting units no",
+      "units no units"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my no units",
+      "I have no units",
+      "there is no units"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 40,
+      "original_call_type_name": "PREPAID TOKEN ENCRYPTION FAILED"
+    },
+    "call_type_code": "20042",
+    "department": "PREPAID ELECTRICITY TOKEN ENCRYPTION FAILED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Prepaid token encryption failed",
+    "short_description": "TOKEN FAILED",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "prepaid token",
+      "token encryption",
+      "encryption failed",
+      "failed token",
+      "token failed",
+      "failed fix",
+      "fix my",
+      "my city",
+      "prepaid token encryption",
+      "token encryption failed",
+      "encryption failed token",
+      "failed token failed",
+      "token failed fix",
+      "failed fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my prepaid token encryption",
+      "I have prepaid token encryption",
+      "there is prepaid token encryption"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 41,
+      "original_call_type_name": "VENDING MACHINE OFFLINE"
+    },
+    "call_type_code": "20043",
+    "department": "PREPAID ELECTRICITYy VENDING MACHINE OFFLINE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Vending machine offline",
+    "short_description": "VENDING OFFLINE",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "vending machine",
+      "machine offline",
+      "offline vending",
+      "vending offline",
+      "offline fix",
+      "fix my",
+      "my city",
+      "vending machine offline",
+      "machine offline vending",
+      "offline vending offline",
+      "vending offline fix",
+      "offline fix my",
+      "fix my city",
+      "vending",
+      "machine"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my vending machine offline",
+      "I have vending machine offline",
+      "there is vending machine offline"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "City Power",
+      "row_number": 42,
+      "original_call_type_name": "ILLEGAL ENTRY - CITY POWER PROPERTY"
+    },
+    "call_type_code": "20044",
+    "department": "ILLEGAL ENTRY ON CITY POWER PROPERTY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal entry - city power property",
+    "short_description": "ILLEGAL ENTRY",
+    "intent_bucket": "electricity",
+    "keywords": [
+      "illegal entry",
+      "entry city",
+      "city power",
+      "power property",
+      "property illegal",
+      "entry fix",
+      "fix my",
+      "my city",
+      "illegal entry city",
+      "entry city power",
+      "city power property",
+      "power property illegal",
+      "property illegal entry",
+      "illegal entry fix",
+      "entry fix my"
+    ],
+    "negative_keywords": [
+      "water",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my illegal entry -",
+      "I have illegal entry -",
+      "there is illegal entry -"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

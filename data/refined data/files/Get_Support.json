@@ -1,0 +1,1121 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 2,
+      "original_call_type_name": "I forgot my password"
+    },
+    "call_type_code": "1",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I forgot my password",
+    "short_description": "Forgot password",
+    "intent_bucket": "general",
+    "keywords": [
+      "i forgot",
+      "forgot my",
+      "my password",
+      "password forgot",
+      "forgot password",
+      "i forgot my",
+      "forgot my password",
+      "my password forgot",
+      "password forgot password",
+      "forgot",
+      "password"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i forgot my",
+      "I have i forgot my",
+      "there is i forgot my"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 3,
+      "original_call_type_name": "Not able to track my ticket."
+    },
+    "call_type_code": "2",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Not able to track my ticket.",
+    "short_description": "Track my submisssions",
+    "intent_bucket": "general",
+    "keywords": [
+      "not able",
+      "able to",
+      "to track",
+      "track my",
+      "my ticket",
+      "ticket track",
+      "my submisssions",
+      "not able to",
+      "able to track",
+      "to track my",
+      "track my ticket",
+      "my ticket track",
+      "ticket track my",
+      "track my submisssions",
+      "not"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my not able to",
+      "I have not able to",
+      "there is not able to"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 4,
+      "original_call_type_name": "I want to delete my account"
+    },
+    "call_type_code": "3",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "billing",
+    "issue_type": "I want to delete my account",
+    "short_description": "Deletion of account",
+    "intent_bucket": "general",
+    "keywords": [
+      "i want",
+      "want to",
+      "to delete",
+      "delete my",
+      "my account",
+      "account deletion",
+      "deletion of",
+      "of account",
+      "i want to",
+      "want to delete",
+      "to delete my",
+      "delete my account",
+      "my account deletion",
+      "account deletion of",
+      "deletion of account"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my i want to",
+      "I have i want to",
+      "there is i want to"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 5,
+      "original_call_type_name": "Statement not showing"
+    },
+    "call_type_code": "4",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "billing",
+    "issue_type": "Statement not showing",
+    "short_description": "Statement not showing",
+    "intent_bucket": "general",
+    "keywords": [
+      "statement not",
+      "not showing",
+      "showing statement",
+      "statement not showing",
+      "not showing statement",
+      "showing statement not",
+      "statement",
+      "not",
+      "showing"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my statement not showing",
+      "I have statement not showing",
+      "there is statement not showing"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 6,
+      "original_call_type_name": "Biometrics not working"
+    },
+    "call_type_code": "5",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Biometrics not working",
+    "short_description": "Biometric prolems",
+    "intent_bucket": "general",
+    "keywords": [
+      "biometrics not",
+      "not working",
+      "working biometric",
+      "biometric prolems",
+      "biometrics not working",
+      "not working biometric",
+      "working biometric prolems",
+      "biometrics",
+      "not",
+      "working",
+      "biometric",
+      "prolems"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my biometrics not working",
+      "I have biometrics not working",
+      "there is biometrics not working"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 7,
+      "original_call_type_name": "I can’t use my app offline"
+    },
+    "call_type_code": "6",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t use my app offline",
+    "short_description": "Offline app",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t use",
+      "use my",
+      "my app",
+      "app offline",
+      "offline offline",
+      "offline app",
+      "i can t",
+      "can t use",
+      "t use my",
+      "use my app",
+      "my app offline",
+      "app offline offline",
+      "offline offline app"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t use",
+      "I have i can’t use",
+      "there is i can’t use"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 8,
+      "original_call_type_name": "I do not want to receive push notifications"
+    },
+    "call_type_code": "7",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I do not want to receive push notifications",
+    "short_description": "Push Notification recipt",
+    "intent_bucket": "general",
+    "keywords": [
+      "i do",
+      "do not",
+      "not want",
+      "want to",
+      "to receive",
+      "receive push",
+      "push notifications",
+      "notifications push",
+      "push notification",
+      "notification recipt",
+      "i do not",
+      "do not want",
+      "not want to",
+      "want to receive",
+      "to receive push"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i do not",
+      "I have i do not",
+      "there is i do not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 9,
+      "original_call_type_name": "My verification is failing"
+    },
+    "call_type_code": "8",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "My verification is failing",
+    "short_description": "Verification fail",
+    "intent_bucket": "general",
+    "keywords": [
+      "my verification",
+      "verification is",
+      "is failing",
+      "failing verification",
+      "verification fail",
+      "my verification is",
+      "verification is failing",
+      "is failing verification",
+      "failing verification fail",
+      "verification",
+      "failing",
+      "fail"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my my verification is",
+      "I have my verification is",
+      "there is my verification is"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 10,
+      "original_call_type_name": "My submitted cases are not showing"
+    },
+    "call_type_code": "9",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "My submitted cases are not showing",
+    "short_description": "Show submitted cases",
+    "intent_bucket": "general",
+    "keywords": [
+      "my submitted",
+      "submitted cases",
+      "cases are",
+      "are not",
+      "not showing",
+      "showing show",
+      "show submitted",
+      "my submitted cases",
+      "submitted cases are",
+      "cases are not",
+      "are not showing",
+      "not showing show",
+      "showing show submitted",
+      "show submitted cases",
+      "submitted"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my my submitted cases",
+      "I have my submitted cases",
+      "there is my submitted cases"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 11,
+      "original_call_type_name": "CSD says, Invalid mobile/email or password"
+    },
+    "call_type_code": "10",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Csd says, invalid mobile/email or password",
+    "short_description": "Invalid email/mobile",
+    "intent_bucket": "general",
+    "keywords": [
+      "csd says",
+      "says invalid",
+      "invalid mobile",
+      "mobile email",
+      "email or",
+      "or password",
+      "password invalid",
+      "invalid email",
+      "email mobile",
+      "csd says invalid",
+      "says invalid mobile",
+      "invalid mobile email",
+      "mobile email or",
+      "email or password",
+      "or password invalid"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my csd says, invalid",
+      "I have csd says, invalid",
+      "there is csd says, invalid"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 12,
+      "original_call_type_name": "I can’t see my municipality bills"
+    },
+    "call_type_code": "11",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t see my municipality bills",
+    "short_description": "View my Bills",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t see",
+      "see my",
+      "my municipality",
+      "municipality bills",
+      "bills view",
+      "view my",
+      "my bills",
+      "i can t",
+      "can t see",
+      "t see my",
+      "see my municipality",
+      "my municipality bills",
+      "municipality bills view"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t see",
+      "I have i can’t see",
+      "there is i can’t see"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 13,
+      "original_call_type_name": "I can’t pay my municipality bills"
+    },
+    "call_type_code": "12",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t pay my municipality bills",
+    "short_description": "Pay my bills",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t pay",
+      "pay my",
+      "my municipality",
+      "municipality bills",
+      "bills pay",
+      "my bills",
+      "i can t",
+      "can t pay",
+      "t pay my",
+      "pay my municipality",
+      "my municipality bills",
+      "municipality bills pay",
+      "bills pay my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t pay",
+      "I have i can’t pay",
+      "there is i can’t pay"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 14,
+      "original_call_type_name": "I am not receiving notifications"
+    },
+    "call_type_code": "13",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I am not receiving notifications",
+    "short_description": "Notification receipt",
+    "intent_bucket": "general",
+    "keywords": [
+      "i am",
+      "am not",
+      "not receiving",
+      "receiving notifications",
+      "notifications notification",
+      "notification receipt",
+      "i am not",
+      "am not receiving",
+      "not receiving notifications",
+      "receiving notifications notification",
+      "notifications notification receipt",
+      "not",
+      "receiving",
+      "notifications",
+      "notification"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i am not",
+      "I have i am not",
+      "there is i am not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 15,
+      "original_call_type_name": "I can’t update my personal information"
+    },
+    "call_type_code": "14",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "inquiry",
+    "issue_type": "I can’t update my personal information",
+    "short_description": "Profile update",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t update",
+      "update my",
+      "my personal",
+      "personal information",
+      "information profile",
+      "profile update",
+      "i can t",
+      "can t update",
+      "t update my",
+      "update my personal",
+      "my personal information",
+      "personal information profile",
+      "information profile update"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t update",
+      "I have i can’t update",
+      "there is i can’t update"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 16,
+      "original_call_type_name": "I can’t login to the App"
+    },
+    "call_type_code": "15",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t login to the app",
+    "short_description": "Unable to login",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t login",
+      "login to",
+      "the app",
+      "app unable",
+      "unable to",
+      "to login",
+      "i can t",
+      "can t login",
+      "t login to",
+      "login to the",
+      "to the app",
+      "the app unable",
+      "app unable to"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t login",
+      "I have i can’t login",
+      "there is i can’t login"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 17,
+      "original_call_type_name": "I can’t login on a different device"
+    },
+    "call_type_code": "16",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t login on a different device",
+    "short_description": "Login failed on different device",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t login",
+      "login on",
+      "a different",
+      "different device",
+      "device login",
+      "login failed",
+      "failed on",
+      "on different",
+      "i can t",
+      "can t login",
+      "t login on",
+      "login on a",
+      "on a different"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t login",
+      "I have i can’t login",
+      "there is i can’t login"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 18,
+      "original_call_type_name": "The app says my email address already exist"
+    },
+    "call_type_code": "17",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "The app says my email address already exist",
+    "short_description": "Profile already exist",
+    "intent_bucket": "general",
+    "keywords": [
+      "the app",
+      "app says",
+      "says my",
+      "my email",
+      "email address",
+      "address already",
+      "already exist",
+      "exist profile",
+      "profile already",
+      "the app says",
+      "app says my",
+      "says my email",
+      "my email address",
+      "email address already",
+      "address already exist"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my the app says",
+      "I have the app says",
+      "there is the app says"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 19,
+      "original_call_type_name": "I’m a not receiving email bills"
+    },
+    "call_type_code": "18",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I’m a not receiving email bills",
+    "short_description": "Email bill receipt",
+    "intent_bucket": "general",
+    "keywords": [
+      "i m",
+      "m a",
+      "a not",
+      "not receiving",
+      "receiving email",
+      "email bills",
+      "bills email",
+      "email bill",
+      "bill receipt",
+      "i m a",
+      "m a not",
+      "a not receiving",
+      "not receiving email",
+      "receiving email bills",
+      "email bills email"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i’m a not",
+      "I have i’m a not",
+      "there is i’m a not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 20,
+      "original_call_type_name": "My app is freezing"
+    },
+    "call_type_code": "19",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "My app is freezing",
+    "short_description": "App is freezing",
+    "intent_bucket": "general",
+    "keywords": [
+      "my app",
+      "app is",
+      "is freezing",
+      "freezing app",
+      "my app is",
+      "app is freezing",
+      "is freezing app",
+      "freezing app is",
+      "app",
+      "freezing"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my my app is",
+      "I have my app is",
+      "there is my app is"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 21,
+      "original_call_type_name": "I changed my method of communication, but I still receive communication on my old, preferred communication."
+    },
+    "call_type_code": "20",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I changed my method of communication, but i still ",
+    "short_description": "Preffered communication",
+    "intent_bucket": "general",
+    "keywords": [
+      "i changed",
+      "changed my",
+      "my method",
+      "method of",
+      "of communication",
+      "communication but",
+      "but i",
+      "i still",
+      "still receive",
+      "receive communication",
+      "communication on",
+      "on my",
+      "my old",
+      "old preferred",
+      "preferred communication"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i changed my",
+      "I have i changed my",
+      "there is i changed my"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 22,
+      "original_call_type_name": "I am trying to create an account, but the app says the username exists."
+    },
+    "call_type_code": "21",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "billing",
+    "issue_type": "I am trying to create an account, but the app says",
+    "short_description": "Account creation",
+    "intent_bucket": "general",
+    "keywords": [
+      "i am",
+      "am trying",
+      "trying to",
+      "to create",
+      "create an",
+      "an account",
+      "account but",
+      "the app",
+      "app says",
+      "says the",
+      "the username",
+      "username exists",
+      "exists account",
+      "account creation",
+      "i am trying"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my i am trying",
+      "I have i am trying",
+      "there is i am trying"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 23,
+      "original_call_type_name": "I am not receiving an OTP on my cell phone number."
+    },
+    "call_type_code": "22",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I am not receiving an otp on my cell phone number.",
+    "short_description": "OTP reciept",
+    "intent_bucket": "general",
+    "keywords": [
+      "i am",
+      "am not",
+      "not receiving",
+      "receiving an",
+      "an otp",
+      "otp on",
+      "on my",
+      "my cell",
+      "cell phone",
+      "phone number",
+      "number otp",
+      "otp reciept",
+      "i am not",
+      "am not receiving",
+      "not receiving an"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i am not",
+      "I have i am not",
+      "there is i am not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 24,
+      "original_call_type_name": "Password reset failed, I didn’t receive the password changed OTP."
+    },
+    "call_type_code": "23",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Password reset failed, i didn’t receive the passwo",
+    "short_description": "Reset password failing",
+    "intent_bucket": "general",
+    "keywords": [
+      "password reset",
+      "reset failed",
+      "failed i",
+      "i didn",
+      "didn t",
+      "t receive",
+      "receive the",
+      "the password",
+      "password changed",
+      "changed otp",
+      "otp reset",
+      "reset password",
+      "password failing",
+      "password reset failed",
+      "reset failed i"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my password reset failed,",
+      "I have password reset failed,",
+      "there is password reset failed,"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 25,
+      "original_call_type_name": "App not populating my location/Map not showing on the App"
+    },
+    "call_type_code": "24",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "App not populating my location/map not showing on ",
+    "short_description": "Location population",
+    "intent_bucket": "general",
+    "keywords": [
+      "app not",
+      "not populating",
+      "populating my",
+      "my location",
+      "location map",
+      "map not",
+      "not showing",
+      "showing on",
+      "the app",
+      "app location",
+      "location population",
+      "app not populating",
+      "not populating my",
+      "populating my location",
+      "my location map"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my app not populating",
+      "I have app not populating",
+      "there is app not populating"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 26,
+      "original_call_type_name": "Not receiving my reference number after logging a case."
+    },
+    "call_type_code": "25",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Not receiving my reference number after logging a ",
+    "short_description": "Reference number receipt",
+    "intent_bucket": "general",
+    "keywords": [
+      "not receiving",
+      "receiving my",
+      "my reference",
+      "reference number",
+      "number after",
+      "after logging",
+      "logging a",
+      "a case",
+      "case reference",
+      "number receipt",
+      "not receiving my",
+      "receiving my reference",
+      "my reference number",
+      "reference number after",
+      "number after logging"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my not receiving my",
+      "I have not receiving my",
+      "there is not receiving my"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 27,
+      "original_call_type_name": "I can’t download my statement."
+    },
+    "call_type_code": "26",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "billing",
+    "issue_type": "I can’t download my statement.",
+    "short_description": "Statement download",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t download",
+      "download my",
+      "my statement",
+      "statement statement",
+      "statement download",
+      "i can t",
+      "can t download",
+      "t download my",
+      "download my statement",
+      "my statement statement",
+      "statement statement download",
+      "download",
+      "statement"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my i can’t download",
+      "I have i can’t download",
+      "there is i can’t download"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 28,
+      "original_call_type_name": "Call types not showing relevant departments"
+    },
+    "call_type_code": "27",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Call types not showing relevant departments",
+    "short_description": "call type departments",
+    "intent_bucket": "general",
+    "keywords": [
+      "call types",
+      "types not",
+      "not showing",
+      "showing relevant",
+      "relevant departments",
+      "departments call",
+      "call type",
+      "type departments",
+      "call types not",
+      "types not showing",
+      "not showing relevant",
+      "showing relevant departments",
+      "relevant departments call",
+      "departments call type",
+      "call type departments"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my call types not",
+      "I have call types not",
+      "there is call types not"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Get Support",
+      "row_number": 29,
+      "original_call_type_name": "I can’t see my past bills."
+    },
+    "call_type_code": "28",
+    "department": "General Contact",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "I can’t see my past bills.",
+    "short_description": "Bill presentment",
+    "intent_bucket": "general",
+    "keywords": [
+      "i can",
+      "can t",
+      "t see",
+      "see my",
+      "my past",
+      "past bills",
+      "bills bill",
+      "bill presentment",
+      "i can t",
+      "can t see",
+      "t see my",
+      "see my past",
+      "my past bills",
+      "past bills bill",
+      "bills bill presentment"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my i can’t see",
+      "I have i can’t see",
+      "there is i can’t see"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

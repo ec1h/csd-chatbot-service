@@ -1,0 +1,1729 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 2,
+      "original_call_type_name": "BLOCKED ROAD KERB INLET"
+    },
+    "call_type_code": "60001",
+    "department": "BLOCKED ROAD KERB INLET",
+    "service_group": "FIX MY CITY",
+    "issue_category": "blockage",
+    "issue_type": "Blocked road kerb inlet",
+    "short_description": "BLOCKED KERB INLET",
+    "intent_bucket": "roads",
+    "keywords": [
+      "blocked road",
+      "road kerb",
+      "kerb inlet",
+      "inlet blocked",
+      "blocked kerb",
+      "inlet fix",
+      "fix my",
+      "my city",
+      "blocked road kerb",
+      "road kerb inlet",
+      "kerb inlet blocked",
+      "inlet blocked kerb",
+      "blocked kerb inlet",
+      "kerb inlet fix",
+      "inlet fix my"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my inlet blocked",
+      "I have inlet blocked",
+      "there is inlet blocked"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 3,
+      "original_call_type_name": "EMERGENCY  GRAVEL ROADS / GRADING"
+    },
+    "call_type_code": "60003",
+    "department": "EMERGENCY  GRAVEL ROADS / GRADING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Gravel roads / grading",
+    "short_description": "Road grading",
+    "intent_bucket": "roads",
+    "keywords": [
+      "emergency gravel",
+      "gravel roads",
+      "roads grading",
+      "grading road",
+      "road grading",
+      "grading fix",
+      "fix my",
+      "my city",
+      "emergency gravel roads",
+      "gravel roads grading",
+      "roads grading road",
+      "grading road grading",
+      "road grading fix",
+      "grading fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my emergency gravel roads",
+      "I have emergency gravel roads",
+      "there is emergency gravel roads"
+    ],
+    "confidence_weight": 0.9999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 4,
+      "original_call_type_name": "EMERGENCY  RIVER BANK EROSION"
+    },
+    "call_type_code": "60004",
+    "department": "EMERGENCY  RIVER BANK EROSION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "River bank erosion",
+    "short_description": "RIVER BANK EROSION",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "emergency river",
+      "river bank",
+      "bank erosion",
+      "erosion river",
+      "erosion fix",
+      "fix my",
+      "my city",
+      "emergency river bank",
+      "river bank erosion",
+      "bank erosion river",
+      "erosion river bank",
+      "bank erosion fix",
+      "erosion fix my",
+      "fix my city",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my emergency river bank",
+      "I have emergency river bank",
+      "there is emergency river bank"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 5,
+      "original_call_type_name": "MISSING STOP SIGN"
+    },
+    "call_type_code": "60005",
+    "department": "MISSING STOP SIGN",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Missing stop sign",
+    "short_description": "MISSING STOP SIGN",
+    "intent_bucket": "general",
+    "keywords": [
+      "missing stop",
+      "stop sign",
+      "sign missing",
+      "sign fix",
+      "fix my",
+      "my city",
+      "missing stop sign",
+      "stop sign missing",
+      "sign missing stop",
+      "stop sign fix",
+      "sign fix my",
+      "fix my city",
+      "missing",
+      "stop",
+      "sign"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my missing stop sign",
+      "I have missing stop sign",
+      "there is missing stop sign"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 6,
+      "original_call_type_name": "WORK IN PROGRESS - NO PROPER BARRICADING"
+    },
+    "call_type_code": "60008",
+    "department": "WORK IN PROGRESS - NO PROPER BARRICADING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Work in progress - no proper barricading",
+    "short_description": "NO BARRICADE",
+    "intent_bucket": "general",
+    "keywords": [
+      "work in",
+      "in progress",
+      "progress no",
+      "no proper",
+      "proper barricading",
+      "barricading no",
+      "no barricade",
+      "barricade fix",
+      "fix my",
+      "my city",
+      "work in progress",
+      "in progress no",
+      "progress no proper",
+      "no proper barricading",
+      "proper barricading no"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my no proper",
+      "I have no proper",
+      "there is no proper"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 7,
+      "original_call_type_name": "TRAFFIC SIGNAL ERRATIC"
+    },
+    "call_type_code": "60009",
+    "department": "TRAFFIC SIGNAL ERRATIC",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal erratic",
+    "short_description": "ERRATIC TRAFFIC SIGNAL",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal erratic",
+      "erratic erratic",
+      "erratic traffic",
+      "signal fix",
+      "fix my",
+      "my city",
+      "traffic signal erratic",
+      "signal erratic erratic",
+      "erratic erratic traffic",
+      "erratic traffic signal",
+      "traffic signal fix",
+      "signal fix my",
+      "fix my city",
+      "traffic"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal erratic",
+      "I have traffic signal erratic",
+      "there is traffic signal erratic"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 8,
+      "original_call_type_name": "TRAFFIC SIGNAL STUCK"
+    },
+    "call_type_code": "60010",
+    "department": "TRAFFIC SIGNAL STUCK",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal stuck",
+    "short_description": "STUCK TRAFFIC SIGNAL",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal stuck",
+      "stuck stuck",
+      "stuck traffic",
+      "signal fix",
+      "fix my",
+      "my city",
+      "traffic signal stuck",
+      "signal stuck stuck",
+      "stuck stuck traffic",
+      "stuck traffic signal",
+      "traffic signal fix",
+      "signal fix my",
+      "fix my city",
+      "traffic"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal stuck",
+      "I have traffic signal stuck",
+      "there is traffic signal stuck"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 9,
+      "original_call_type_name": "REQUEST QUOTATION FOR BOLLARDS"
+    },
+    "call_type_code": "60011",
+    "department": "REQUEST QUOTATION FOR BOLLARDS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Quotation for bollards",
+    "short_description": "QUOTATION FOR BOLLARDS",
+    "intent_bucket": "general",
+    "keywords": [
+      "request quotation",
+      "quotation for",
+      "for bollards",
+      "bollards quotation",
+      "bollards fix",
+      "fix my",
+      "my city",
+      "request quotation for",
+      "quotation for bollards",
+      "for bollards quotation",
+      "bollards quotation for",
+      "for bollards fix",
+      "bollards fix my",
+      "fix my city",
+      "request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request quotation for",
+      "I have request quotation for",
+      "there is request quotation for"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 10,
+      "original_call_type_name": "MAINTENANCE OF STORMWATER CHANNEL"
+    },
+    "call_type_code": "60012",
+    "department": "MAINTENANCE OF STORMWATER CHANNEL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Maintenance of stormwater channel",
+    "short_description": "STORMWATER MAINTENANCE",
+    "intent_bucket": "water",
+    "keywords": [
+      "maintenance of",
+      "of stormwater",
+      "stormwater channel",
+      "channel stormwater",
+      "stormwater maintenance",
+      "maintenance fix",
+      "fix my",
+      "my city",
+      "maintenance of stormwater",
+      "of stormwater channel",
+      "stormwater channel stormwater",
+      "channel stormwater maintenance",
+      "stormwater maintenance fix",
+      "maintenance fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my maintenance of stormwater",
+      "I have maintenance of stormwater",
+      "there is maintenance of stormwater"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 11,
+      "original_call_type_name": "MANHOLE COVER MISSING"
+    },
+    "call_type_code": "60013",
+    "department": "MANHOLE COVER MISSING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Manhole cover missing",
+    "short_description": "MISSING MANHOLE COVER",
+    "intent_bucket": "general",
+    "keywords": [
+      "manhole cover",
+      "cover missing",
+      "missing missing",
+      "missing manhole",
+      "cover fix",
+      "fix my",
+      "my city",
+      "manhole cover missing",
+      "cover missing missing",
+      "missing missing manhole",
+      "missing manhole cover",
+      "manhole cover fix",
+      "cover fix my",
+      "fix my city",
+      "manhole"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my manhole cover missing",
+      "I have manhole cover missing",
+      "there is manhole cover missing"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 12,
+      "original_call_type_name": "ROAD VANDALISM"
+    },
+    "call_type_code": "60014",
+    "department": "ROAD VANDALISM",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Road vandalism",
+    "short_description": "ROAD VANDALISM",
+    "intent_bucket": "roads",
+    "keywords": [
+      "road vandalism",
+      "vandalism road",
+      "vandalism fix",
+      "fix my",
+      "my city",
+      "road vandalism road",
+      "vandalism road vandalism",
+      "road vandalism fix",
+      "vandalism fix my",
+      "fix my city",
+      "road",
+      "vandalism",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my road vandalism road",
+      "I have road vandalism road",
+      "there is road vandalism road"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 13,
+      "original_call_type_name": "ROAD INFRASTRUCTURE THEFT"
+    },
+    "call_type_code": "60015",
+    "department": "ROAD INFRASTRUCTURE THEFT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Road infrastructure theft",
+    "short_description": "ROAD THEFT",
+    "intent_bucket": "roads",
+    "keywords": [
+      "road infrastructure",
+      "infrastructure theft",
+      "theft road",
+      "road theft",
+      "theft fix",
+      "fix my",
+      "my city",
+      "road infrastructure theft",
+      "infrastructure theft road",
+      "theft road theft",
+      "road theft fix",
+      "theft fix my",
+      "fix my city",
+      "road",
+      "infrastructure"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my road infrastructure theft",
+      "I have road infrastructure theft",
+      "there is road infrastructure theft"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 14,
+      "original_call_type_name": "ALL OUT - ALL LAMPS / PHASE"
+    },
+    "call_type_code": "60016",
+    "department": "ALL OUT - ALL LAMPS / PHASE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "All out - all lamps / phase",
+    "short_description": "ALL LAMPS OUT",
+    "intent_bucket": "general",
+    "keywords": [
+      "all out",
+      "out all",
+      "all lamps",
+      "lamps phase",
+      "phase all",
+      "lamps out",
+      "out fix",
+      "fix my",
+      "my city",
+      "all out all",
+      "out all lamps",
+      "all lamps phase",
+      "lamps phase all",
+      "phase all lamps",
+      "all lamps out"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my all out -",
+      "I have all out -",
+      "there is all out -"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 15,
+      "original_call_type_name": "REQUEST REPAIRS - POLE OVER"
+    },
+    "call_type_code": "60017",
+    "department": "REQUEST REPAIRS - POLE OVER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Repairs - pole over",
+    "short_description": "POLE REPAIRS",
+    "intent_bucket": "general",
+    "keywords": [
+      "request repairs",
+      "repairs pole",
+      "pole over",
+      "over pole",
+      "pole repairs",
+      "repairs fix",
+      "fix my",
+      "my city",
+      "request repairs pole",
+      "repairs pole over",
+      "pole over pole",
+      "over pole repairs",
+      "pole repairs fix",
+      "repairs fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request repairs -",
+      "I have request repairs -",
+      "there is request repairs -"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 16,
+      "original_call_type_name": "TRAFFIC SIGNAL - TIMING"
+    },
+    "call_type_code": "60018",
+    "department": "TRAFFIC SIGNAL - TIMING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal - timing",
+    "short_description": "TRAFFIC SIGNAL TIMING",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal timing",
+      "timing traffic",
+      "timing fix",
+      "fix my",
+      "my city",
+      "traffic signal timing",
+      "signal timing traffic",
+      "timing traffic signal",
+      "signal timing fix",
+      "timing fix my",
+      "fix my city",
+      "traffic",
+      "signal",
+      "timing"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal -",
+      "I have traffic signal -",
+      "there is traffic signal -"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 17,
+      "original_call_type_name": "TRAFFIC SIGNAL ALL OUT - POLE OVER"
+    },
+    "call_type_code": "60019",
+    "department": "TRAFFIC SIGNAL ALL OUT - POLE OVER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal all out - pole over",
+    "short_description": "ALL SIGNALS OUT",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal all",
+      "all out",
+      "out pole",
+      "pole over",
+      "over all",
+      "all signals",
+      "signals out",
+      "out fix",
+      "fix my",
+      "my city",
+      "traffic signal all",
+      "signal all out",
+      "all out pole",
+      "out pole over"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal all",
+      "I have traffic signal all",
+      "there is traffic signal all"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 18,
+      "original_call_type_name": "TRAFFIC SIGNAL FLASHING"
+    },
+    "call_type_code": "60020",
+    "department": "TRAFFIC SIGNAL FLASHING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal flashing",
+    "short_description": "FLASHING TRAFFIC SIGNAL",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal flashing",
+      "flashing flashing",
+      "flashing traffic",
+      "signal fix",
+      "fix my",
+      "my city",
+      "traffic signal flashing",
+      "signal flashing flashing",
+      "flashing flashing traffic",
+      "flashing traffic signal",
+      "traffic signal fix",
+      "signal fix my",
+      "fix my city",
+      "traffic"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal flashing",
+      "I have traffic signal flashing",
+      "there is traffic signal flashing"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 19,
+      "original_call_type_name": "DISLODGED / BROKEN KERB INLET SLAB"
+    },
+    "call_type_code": "60021",
+    "department": "DISLODGED / BROKEN KERB INLET SLAB",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Dislodged / broken kerb inlet slab",
+    "short_description": "BROKEN KERB SLAB",
+    "intent_bucket": "general",
+    "keywords": [
+      "dislodged broken",
+      "broken kerb",
+      "kerb inlet",
+      "inlet slab",
+      "slab broken",
+      "kerb slab",
+      "slab fix",
+      "fix my",
+      "my city",
+      "dislodged broken kerb",
+      "broken kerb inlet",
+      "kerb inlet slab",
+      "inlet slab broken",
+      "slab broken kerb",
+      "broken kerb slab"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my dislodged / broken",
+      "I have dislodged / broken",
+      "there is dislodged / broken"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 20,
+      "original_call_type_name": "REQUEST TO SPRAY WEEDS / SKOFFELLING"
+    },
+    "call_type_code": "60022",
+    "department": "REQUEST TO SPRAY WEEDS / SKOFFELLING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To spray weeds / skoffelling",
+    "short_description": "WEED SPRAY REQUEST",
+    "intent_bucket": "general",
+    "keywords": [
+      "request to",
+      "to spray",
+      "spray weeds",
+      "weeds skoffelling",
+      "skoffelling weed",
+      "weed spray",
+      "spray request",
+      "request fix",
+      "fix my",
+      "my city",
+      "request to spray",
+      "to spray weeds",
+      "spray weeds skoffelling",
+      "weeds skoffelling weed",
+      "skoffelling weed spray"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to spray",
+      "I have request to spray",
+      "there is request to spray"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 21,
+      "original_call_type_name": "REQUEST TO SWEEP ROAD (SILT / GRAVEL)"
+    },
+    "call_type_code": "60023",
+    "department": "REQUEST TO SWEEP ROAD (SILT / GRAVEL)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To sweep road (silt / gravel)",
+    "short_description": "SWEEP ROAD REQUEST",
+    "intent_bucket": "roads",
+    "keywords": [
+      "request to",
+      "to sweep",
+      "sweep road",
+      "road silt",
+      "silt gravel",
+      "gravel sweep",
+      "road request",
+      "request fix",
+      "fix my",
+      "my city",
+      "request to sweep",
+      "to sweep road",
+      "sweep road silt",
+      "road silt gravel",
+      "silt gravel sweep"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to sweep",
+      "I have request to sweep",
+      "there is request to sweep"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 22,
+      "original_call_type_name": "NEW FOOTWAY OR KERB LINE REQUIRED"
+    },
+    "call_type_code": "60024",
+    "department": "NEW FOOTWAY OR KERB LINE REQUIRED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "New footway or kerb line required",
+    "short_description": "New footway/kerb line",
+    "intent_bucket": "general",
+    "keywords": [
+      "new footway",
+      "footway or",
+      "or kerb",
+      "kerb line",
+      "line required",
+      "required new",
+      "footway kerb",
+      "line fix",
+      "fix my",
+      "my city",
+      "new footway or",
+      "footway or kerb",
+      "or kerb line",
+      "kerb line required",
+      "line required new"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my new footway or",
+      "I have new footway or",
+      "there is new footway or"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 23,
+      "original_call_type_name": "REQUEST CROSS PAVEMENT PIPE (DRAINAGE)"
+    },
+    "call_type_code": "60025",
+    "department": "REQUEST CROSS PAVEMENT PIPE (DRAINAGE)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Cross pavement pipe (drainage)",
+    "short_description": "Cross pavement pipe request",
+    "intent_bucket": "general",
+    "keywords": [
+      "request cross",
+      "cross pavement",
+      "pavement pipe",
+      "pipe drainage",
+      "drainage cross",
+      "pipe request",
+      "request fix",
+      "fix my",
+      "my city",
+      "request cross pavement",
+      "cross pavement pipe",
+      "pavement pipe drainage",
+      "pipe drainage cross",
+      "drainage cross pavement",
+      "pavement pipe request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request cross pavement",
+      "I have request cross pavement",
+      "there is request cross pavement"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 24,
+      "original_call_type_name": "REQUEST TO LOWER VEHICLE ENTRANCE"
+    },
+    "call_type_code": "60026",
+    "department": "REQUEST TO LOWER VEHICLE ENTRANCE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To lower vehicle entrance",
+    "short_description": "LOWER VEHICLE ENTRANCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "request to",
+      "to lower",
+      "lower vehicle",
+      "vehicle entrance",
+      "entrance lower",
+      "entrance fix",
+      "fix my",
+      "my city",
+      "request to lower",
+      "to lower vehicle",
+      "lower vehicle entrance",
+      "vehicle entrance lower",
+      "entrance lower vehicle",
+      "vehicle entrance fix",
+      "entrance fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to lower",
+      "I have request to lower",
+      "there is request to lower"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 25,
+      "original_call_type_name": "REPAIR ROAD / EXCAVATIONS"
+    },
+    "call_type_code": "60027",
+    "department": "REPAIR ROAD TRENCHES / EXCAVATIONS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Repair road trenches / excavations",
+    "short_description": "REPAIR ROAD TRENCHES",
+    "intent_bucket": "roads",
+    "keywords": [
+      "repair road",
+      "road trenches",
+      "trenches excavations",
+      "excavations repair",
+      "trenches fix",
+      "fix my",
+      "my city",
+      "repair road trenches",
+      "road trenches excavations",
+      "trenches excavations repair",
+      "excavations repair road",
+      "road trenches fix",
+      "trenches fix my",
+      "fix my city",
+      "repair"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my repair road trenches",
+      "I have repair road trenches",
+      "there is repair road trenches"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 26,
+      "original_call_type_name": "REQUEST TO REMOVE SPOIL AND RUBBLE"
+    },
+    "call_type_code": "60028",
+    "department": "REQUEST TO REMOVE SPOIL AND RUBBLE",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To remove spoil and rubble",
+    "short_description": "REMOVAL OF SPOIL AND RUBBLE",
+    "intent_bucket": "general",
+    "keywords": [
+      "request to",
+      "to remove",
+      "remove spoil",
+      "spoil and",
+      "and rubble",
+      "rubble removal",
+      "removal of",
+      "of spoil",
+      "rubble fix",
+      "fix my",
+      "my city",
+      "request to remove",
+      "to remove spoil",
+      "remove spoil and",
+      "spoil and rubble"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to remove",
+      "I have request to remove",
+      "there is request to remove"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 27,
+      "original_call_type_name": "TRENCH ACROSS ROAD / REINSTATEMENT"
+    },
+    "call_type_code": "60029",
+    "department": "TRENCH ACROSS ROAD / REINSTATEMENT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "billing",
+    "issue_type": "Trench across road / reinstatement",
+    "short_description": "ROAD TRENCH REINSTATEMENT",
+    "intent_bucket": "roads",
+    "keywords": [
+      "trench across",
+      "across road",
+      "road reinstatement",
+      "reinstatement road",
+      "road trench",
+      "trench reinstatement",
+      "reinstatement fix",
+      "fix my",
+      "my city",
+      "trench across road",
+      "across road reinstatement",
+      "road reinstatement road",
+      "reinstatement road trench",
+      "road trench reinstatement",
+      "trench reinstatement fix"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my trench across road",
+      "I have trench across road",
+      "there is trench across road"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 28,
+      "original_call_type_name": "REINSTATEMENT OF FOOTWAY"
+    },
+    "call_type_code": "60030",
+    "department": "REINSTATEMENT OF FOOTWAY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "billing",
+    "issue_type": "Reinstatement of footway",
+    "short_description": "FOOTWAY REINSTATEMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "reinstatement of",
+      "of footway",
+      "footway footway",
+      "footway reinstatement",
+      "reinstatement fix",
+      "fix my",
+      "my city",
+      "reinstatement of footway",
+      "of footway footway",
+      "footway footway reinstatement",
+      "footway reinstatement fix",
+      "reinstatement fix my",
+      "fix my city",
+      "reinstatement",
+      "footway"
+    ],
+    "negative_keywords": [
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my reinstatement of footway",
+      "I have reinstatement of footway",
+      "there is reinstatement of footway"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 29,
+      "original_call_type_name": "MISSING / DAMAGED KERB OR GUTTER"
+    },
+    "call_type_code": "60031",
+    "department": "MISSING / DAMAGED KERB OR GUTTER",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Missing / damaged kerb or gutter",
+    "short_description": "MISSING KERB/GUTTER",
+    "intent_bucket": "general",
+    "keywords": [
+      "missing damaged",
+      "damaged kerb",
+      "kerb or",
+      "or gutter",
+      "gutter missing",
+      "missing kerb",
+      "kerb gutter",
+      "gutter fix",
+      "fix my",
+      "my city",
+      "missing damaged kerb",
+      "damaged kerb or",
+      "kerb or gutter",
+      "or gutter missing",
+      "gutter missing kerb"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my missing / damaged",
+      "I have missing / damaged",
+      "there is missing / damaged"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 30,
+      "original_call_type_name": "MISSING TRAFFIC SIGNS / DAMAGED BOARDS"
+    },
+    "call_type_code": "60032",
+    "department": "MISSING TRAFFIC SIGNS / DAMAGED BOARDS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Missing traffic signs / damaged boards",
+    "short_description": "MISSING TRAFFIC SIGNS",
+    "intent_bucket": "roads",
+    "keywords": [
+      "missing traffic",
+      "traffic signs",
+      "signs damaged",
+      "damaged boards",
+      "boards missing",
+      "signs fix",
+      "fix my",
+      "my city",
+      "missing traffic signs",
+      "traffic signs damaged",
+      "signs damaged boards",
+      "damaged boards missing",
+      "boards missing traffic",
+      "traffic signs fix",
+      "signs fix my"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my missing traffic signs",
+      "I have missing traffic signs",
+      "there is missing traffic signs"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 31,
+      "original_call_type_name": "MUNICIPAL BOLLARD REPAIR"
+    },
+    "call_type_code": "60033",
+    "department": "MUNICIPAL BOLLARD REPAIR",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Municipal bollard repair",
+    "short_description": "MUNICIPAL BOLLARD REPAIR",
+    "intent_bucket": "general",
+    "keywords": [
+      "municipal bollard",
+      "bollard repair",
+      "repair municipal",
+      "repair fix",
+      "fix my",
+      "my city",
+      "municipal bollard repair",
+      "bollard repair municipal",
+      "repair municipal bollard",
+      "bollard repair fix",
+      "repair fix my",
+      "fix my city",
+      "municipal",
+      "bollard",
+      "repair"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my municipal bollard repair",
+      "I have municipal bollard repair",
+      "there is municipal bollard repair"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 32,
+      "original_call_type_name": "POTHOLE IN ROAD / FOOTWAY"
+    },
+    "call_type_code": "60034",
+    "department": "POTHOLE IN ROAD / FOOTWAY",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Pothole in road / footway",
+    "short_description": "POTHOLE IN ROAD",
+    "intent_bucket": "roads",
+    "keywords": [
+      "pothole in",
+      "in road",
+      "road footway",
+      "footway pothole",
+      "road fix",
+      "fix my",
+      "my city",
+      "pothole in road",
+      "in road footway",
+      "road footway pothole",
+      "footway pothole in",
+      "in road fix",
+      "road fix my",
+      "fix my city",
+      "pothole"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pothole in road",
+      "I have pothole in road",
+      "there is pothole in road"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 33,
+      "original_call_type_name": "REQUEST TO CORRECT STREET NAME SPELLING"
+    },
+    "call_type_code": "60035",
+    "department": "REQUEST TO CORRECT STREET NAME SPELLING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To correct street name spelling",
+    "short_description": "CORRECT STREET NAME",
+    "intent_bucket": "general",
+    "keywords": [
+      "request to",
+      "to correct",
+      "correct street",
+      "street name",
+      "name spelling",
+      "spelling correct",
+      "name fix",
+      "fix my",
+      "my city",
+      "request to correct",
+      "to correct street",
+      "correct street name",
+      "street name spelling",
+      "name spelling correct",
+      "spelling correct street"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to correct",
+      "I have request to correct",
+      "there is request to correct"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 34,
+      "original_call_type_name": "ROAD MARKING FADED / MISSING / PAINT"
+    },
+    "call_type_code": "60036",
+    "department": "ROAD MARKING FADED / MISSING / PAINT",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Road marking faded / missing / paint",
+    "short_description": "FADED ROAD MARKING",
+    "intent_bucket": "roads",
+    "keywords": [
+      "road marking",
+      "marking faded",
+      "faded missing",
+      "missing paint",
+      "paint faded",
+      "faded road",
+      "marking fix",
+      "fix my",
+      "my city",
+      "road marking faded",
+      "marking faded missing",
+      "faded missing paint",
+      "missing paint faded",
+      "paint faded road",
+      "faded road marking"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my road marking faded",
+      "I have road marking faded",
+      "there is road marking faded"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 35,
+      "original_call_type_name": "BOLLARDS REQUIRED"
+    },
+    "call_type_code": "60037",
+    "department": "BOLLARDS REQUIRED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bollards required",
+    "short_description": "BOLLARDS REQUIRED",
+    "intent_bucket": "general",
+    "keywords": [
+      "bollards required",
+      "required bollards",
+      "required fix",
+      "fix my",
+      "my city",
+      "bollards required bollards",
+      "required bollards required",
+      "bollards required fix",
+      "required fix my",
+      "fix my city",
+      "bollards",
+      "required",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my bollards required bollards",
+      "I have bollards required bollards",
+      "there is bollards required bollards"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 36,
+      "original_call_type_name": "REPAIR TO ARMCO BARRIERS / GUARD RAILS"
+    },
+    "call_type_code": "60038",
+    "department": "REPAIR TO ARMCO BARRIERS / GUARD RAILS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Repair to armco barriers / guard rails",
+    "short_description": "BARRIERS/GUARD RAIL REPAIR",
+    "intent_bucket": "general",
+    "keywords": [
+      "repair to",
+      "to armco",
+      "armco barriers",
+      "barriers guard",
+      "guard rails",
+      "rails barriers",
+      "guard rail",
+      "rail repair",
+      "repair fix",
+      "fix my",
+      "my city",
+      "repair to armco",
+      "to armco barriers",
+      "armco barriers guard",
+      "barriers guard rails"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my repair to armco",
+      "I have repair to armco",
+      "there is repair to armco"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 37,
+      "original_call_type_name": "TRAFFIC SIGNAL - SYNCHRONISATION"
+    },
+    "call_type_code": "60039",
+    "department": "TRAFFIC SIGNAL - SYNCHRONISATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic signal - synchronisation",
+    "short_description": "TRAFFIC SIGNAL SYNC ISSUES",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic signal",
+      "signal synchronisation",
+      "synchronisation traffic",
+      "signal sync",
+      "sync issues",
+      "issues fix",
+      "fix my",
+      "my city",
+      "traffic signal synchronisation",
+      "signal synchronisation traffic",
+      "synchronisation traffic signal",
+      "traffic signal sync",
+      "signal sync issues",
+      "sync issues fix",
+      "issues fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic signal -",
+      "I have traffic signal -",
+      "there is traffic signal -"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 38,
+      "original_call_type_name": "BRIDGE STRUCTURAL DETERIORATION"
+    },
+    "call_type_code": "60040",
+    "department": "BRIDGE STRUCTURAL DETERIORATION",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bridge structural deterioration",
+    "short_description": "BRIDGE DETERIORATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "bridge structural",
+      "structural deterioration",
+      "deterioration bridge",
+      "bridge deterioration",
+      "deterioration fix",
+      "fix my",
+      "my city",
+      "bridge structural deterioration",
+      "structural deterioration bridge",
+      "deterioration bridge deterioration",
+      "bridge deterioration fix",
+      "deterioration fix my",
+      "fix my city",
+      "bridge",
+      "structural"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my bridge structural deterioration",
+      "I have bridge structural deterioration",
+      "there is bridge structural deterioration"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 39,
+      "original_call_type_name": "REQUEST NEW ARMCO BARRIERS / GUARD RAILS"
+    },
+    "call_type_code": "60041",
+    "department": "REQUEST NEW ARMCO BARRIERS / GUARD RAILS",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "New armco barriers / guard rails",
+    "short_description": "NEW BARRIERS/GUARD RAILS",
+    "intent_bucket": "general",
+    "keywords": [
+      "request new",
+      "new armco",
+      "armco barriers",
+      "barriers guard",
+      "guard rails",
+      "rails new",
+      "new barriers",
+      "rails fix",
+      "fix my",
+      "my city",
+      "request new armco",
+      "new armco barriers",
+      "armco barriers guard",
+      "barriers guard rails",
+      "guard rails new"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request new armco",
+      "I have request new armco",
+      "there is request new armco"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 40,
+      "original_call_type_name": "ROAD SUBSIDING"
+    },
+    "call_type_code": "60042",
+    "department": "ROAD SUBSIDING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Road subsiding",
+    "short_description": "ROAD SUBSIDING",
+    "intent_bucket": "roads",
+    "keywords": [
+      "road subsiding",
+      "subsiding road",
+      "subsiding fix",
+      "fix my",
+      "my city",
+      "road subsiding road",
+      "subsiding road subsiding",
+      "road subsiding fix",
+      "subsiding fix my",
+      "fix my city",
+      "road",
+      "subsiding",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my road subsiding road",
+      "I have road subsiding road",
+      "there is road subsiding road"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 41,
+      "original_call_type_name": "INVESTIGATE INST NEW STORM WATER SYSTEM"
+    },
+    "call_type_code": "60043",
+    "department": "INVESTIGATE INST NEW STORM WATER SYSTEM",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate inst new storm water system",
+    "short_description": "STORMWATER SYSTEM INVESTIGATION",
+    "intent_bucket": "water",
+    "keywords": [
+      "investigate inst",
+      "inst new",
+      "new storm",
+      "storm water",
+      "water system",
+      "system stormwater",
+      "stormwater system",
+      "system investigation",
+      "investigation fix",
+      "fix my",
+      "my city",
+      "investigate inst new",
+      "inst new storm",
+      "new storm water",
+      "storm water system"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my investigate inst new",
+      "I have investigate inst new",
+      "there is investigate inst new"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 42,
+      "original_call_type_name": "TRAFFIC CONTROL REQUESTS / CALMING"
+    },
+    "call_type_code": "60044",
+    "department": "TRAFFIC CONTROL REQUESTS / CALMING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Traffic control requests / calming",
+    "short_description": "TRAFFIC CONTROL",
+    "intent_bucket": "roads",
+    "keywords": [
+      "traffic control",
+      "control requests",
+      "requests calming",
+      "calming traffic",
+      "control fix",
+      "fix my",
+      "my city",
+      "traffic control requests",
+      "control requests calming",
+      "requests calming traffic",
+      "calming traffic control",
+      "traffic control fix",
+      "control fix my",
+      "fix my city",
+      "traffic"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my traffic control requests",
+      "I have traffic control requests",
+      "there is traffic control requests"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "JRA",
+      "row_number": 43,
+      "original_call_type_name": "INVESTIGATE REQUEST FOR ROAD WIDENING"
+    },
+    "call_type_code": "60045",
+    "department": "INVESTIGATE REQUEST FOR ROAD WIDENING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate request for road widening",
+    "short_description": "ROAD WIDENING REQUEST",
+    "intent_bucket": "roads",
+    "keywords": [
+      "investigate request",
+      "request for",
+      "for road",
+      "road widening",
+      "widening road",
+      "widening request",
+      "request fix",
+      "fix my",
+      "my city",
+      "investigate request for",
+      "request for road",
+      "for road widening",
+      "road widening road",
+      "widening road widening",
+      "road widening request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my investigate request for",
+      "I have investigate request for",
+      "there is investigate request for"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  }
+]

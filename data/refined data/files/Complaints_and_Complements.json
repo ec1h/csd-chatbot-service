@@ -1,0 +1,4578 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 2,
+      "original_call_type_name": "ARTS INFRASTRUCTURE"
+    },
+    "call_type_code": "15001",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Arts infrastructure",
+    "short_description": "ARTS INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts infrastructure",
+      "infrastructure arts",
+      "arts infrastructure arts",
+      "infrastructure arts infrastructure",
+      "arts",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts infrastructure arts",
+      "I have arts infrastructure arts",
+      "there is arts infrastructure arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 3,
+      "original_call_type_name": "ARTS PERSONNEL"
+    },
+    "call_type_code": "15002",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Arts personnel",
+    "short_description": "ARTS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts personnel",
+      "personnel arts",
+      "arts personnel arts",
+      "personnel arts personnel",
+      "arts",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts personnel arts",
+      "I have arts personnel arts",
+      "there is arts personnel arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 4,
+      "original_call_type_name": "ARTS PERSONNEL"
+    },
+    "call_type_code": "15003",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Arts personnel",
+    "short_description": "ARTS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts personnel",
+      "personnel arts",
+      "arts personnel arts",
+      "personnel arts personnel",
+      "arts",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts personnel arts",
+      "I have arts personnel arts",
+      "there is arts personnel arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 5,
+      "original_call_type_name": "ARTS PROCEDURE"
+    },
+    "call_type_code": "15004",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Arts procedure",
+    "short_description": "ARTS PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts procedure",
+      "procedure arts",
+      "arts procedure arts",
+      "procedure arts procedure",
+      "arts",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts procedure arts",
+      "I have arts procedure arts",
+      "there is arts procedure arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 6,
+      "original_call_type_name": "ARTS SERVICE"
+    },
+    "call_type_code": "15005",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Arts service",
+    "short_description": "ARTS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts service",
+      "service arts",
+      "arts service arts",
+      "service arts service",
+      "arts",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts service arts",
+      "I have arts service arts",
+      "there is arts service arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 7,
+      "original_call_type_name": "ARTS SERVICE"
+    },
+    "call_type_code": "15006",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Arts service",
+    "short_description": "ARTS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "arts service",
+      "service arts",
+      "arts service arts",
+      "service arts service",
+      "arts",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my arts service arts",
+      "I have arts service arts",
+      "there is arts service arts"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 8,
+      "original_call_type_name": "BUILDING CONTROL INFRASTRUCTURE"
+    },
+    "call_type_code": "15007",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Building control infrastructure",
+    "short_description": "BUILDING CONTROL INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control infrastructure",
+      "infrastructure building",
+      "building control infrastructure",
+      "control infrastructure building",
+      "infrastructure building control",
+      "building",
+      "control",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control infrastructure",
+      "I have building control infrastructure",
+      "there is building control infrastructure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 9,
+      "original_call_type_name": "BUILDING CONTROL PERSONNEL"
+    },
+    "call_type_code": "15008",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Building control personnel",
+    "short_description": "BUILDING CONTROL PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control personnel",
+      "personnel building",
+      "building control personnel",
+      "control personnel building",
+      "personnel building control",
+      "building",
+      "control",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control personnel",
+      "I have building control personnel",
+      "there is building control personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 10,
+      "original_call_type_name": "BUILDING CONTROL PERSONNEL"
+    },
+    "call_type_code": "15009",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Building control personnel",
+    "short_description": "BUILDING CONTROL PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control personnel",
+      "personnel building",
+      "building control personnel",
+      "control personnel building",
+      "personnel building control",
+      "building",
+      "control",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control personnel",
+      "I have building control personnel",
+      "there is building control personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 11,
+      "original_call_type_name": "BUILDING CONTROL PROCEDURE"
+    },
+    "call_type_code": "15010",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Building control procedure",
+    "short_description": "BUILDING CONTROL PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control procedure",
+      "procedure building",
+      "building control procedure",
+      "control procedure building",
+      "procedure building control",
+      "building",
+      "control",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control procedure",
+      "I have building control procedure",
+      "there is building control procedure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 12,
+      "original_call_type_name": "BUILDING CONTROL SERVICE"
+    },
+    "call_type_code": "15011",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Building control service",
+    "short_description": "BUILDING CONTROL SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control service",
+      "service building",
+      "building control service",
+      "control service building",
+      "service building control",
+      "building",
+      "control",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control service",
+      "I have building control service",
+      "there is building control service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 13,
+      "original_call_type_name": "BUILDING CONTROL SERVICE"
+    },
+    "call_type_code": "15012",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Building control service",
+    "short_description": "BUILDING CONTROL SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "building control",
+      "control service",
+      "service building",
+      "building control service",
+      "control service building",
+      "service building control",
+      "building",
+      "control",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building control service",
+      "I have building control service",
+      "there is building control service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 14,
+      "original_call_type_name": "PARKS INFRASTRUCTURE"
+    },
+    "call_type_code": "15013",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Parks infrastructure",
+    "short_description": "PARKS INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks infrastructure",
+      "infrastructure parks",
+      "parks infrastructure parks",
+      "infrastructure parks infrastructure",
+      "parks",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks infrastructure parks",
+      "I have parks infrastructure parks",
+      "there is parks infrastructure parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 15,
+      "original_call_type_name": "PARKS PERSONNEL"
+    },
+    "call_type_code": "15014",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Parks personnel",
+    "short_description": "PARKS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks personnel",
+      "personnel parks",
+      "parks personnel parks",
+      "personnel parks personnel",
+      "parks",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks personnel parks",
+      "I have parks personnel parks",
+      "there is parks personnel parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 16,
+      "original_call_type_name": "PARKS PROCEDURE"
+    },
+    "call_type_code": "15015",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Parks procedure",
+    "short_description": "PARKS PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks procedure",
+      "procedure parks",
+      "parks procedure parks",
+      "procedure parks procedure",
+      "parks",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks procedure parks",
+      "I have parks procedure parks",
+      "there is parks procedure parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 17,
+      "original_call_type_name": "PARKS SERVICE"
+    },
+    "call_type_code": "15016",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Parks service",
+    "short_description": "PARKS SERVICES",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks service",
+      "service parks",
+      "parks services",
+      "parks service parks",
+      "service parks services",
+      "parks",
+      "service",
+      "services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks service parks",
+      "I have parks service parks",
+      "there is parks service parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 18,
+      "original_call_type_name": "PARKS PERSONNEL"
+    },
+    "call_type_code": "15017",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Parks personnel",
+    "short_description": "PARKS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks personnel",
+      "personnel parks",
+      "parks personnel parks",
+      "personnel parks personnel",
+      "parks",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks personnel parks",
+      "I have parks personnel parks",
+      "there is parks personnel parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 19,
+      "original_call_type_name": "PARKS SERVICE"
+    },
+    "call_type_code": "15018",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Parks service",
+    "short_description": "PARKS SERVICES",
+    "intent_bucket": "general",
+    "keywords": [
+      "parks service",
+      "service parks",
+      "parks services",
+      "parks service parks",
+      "service parks services",
+      "parks",
+      "service",
+      "services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my parks service parks",
+      "I have parks service parks",
+      "there is parks service parks"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 20,
+      "original_call_type_name": "POWER INFRASTRUCTURE"
+    },
+    "call_type_code": "15019",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Power infrastructure",
+    "short_description": "POWER INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "power infrastructure",
+      "infrastructure power",
+      "power infrastructure power",
+      "infrastructure power infrastructure",
+      "power",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power infrastructure power",
+      "I have power infrastructure power",
+      "there is power infrastructure power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 21,
+      "original_call_type_name": "POWER PERSONNEL"
+    },
+    "call_type_code": "15020",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Power personnel",
+    "short_description": "POWER PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "power personnel",
+      "personnel power",
+      "power personnel power",
+      "personnel power personnel",
+      "power",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power personnel power",
+      "I have power personnel power",
+      "there is power personnel power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 22,
+      "original_call_type_name": "POWER PERSONNEL"
+    },
+    "call_type_code": "15021",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Power personnel",
+    "short_description": "POWER PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "power personnel",
+      "personnel power",
+      "power personnel power",
+      "personnel power personnel",
+      "power",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power personnel power",
+      "I have power personnel power",
+      "there is power personnel power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 23,
+      "original_call_type_name": "POWER PROCEDURE"
+    },
+    "call_type_code": "15022",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Power procedure",
+    "short_description": "POWER PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "power procedure",
+      "procedure power",
+      "power procedure power",
+      "procedure power procedure",
+      "power",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power procedure power",
+      "I have power procedure power",
+      "there is power procedure power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 24,
+      "original_call_type_name": "POWER SERVICE"
+    },
+    "call_type_code": "15023",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Power service",
+    "short_description": "POWER SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "power service",
+      "service power",
+      "power service power",
+      "service power service",
+      "power",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power service power",
+      "I have power service power",
+      "there is power service power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 25,
+      "original_call_type_name": "POWER SERVICE"
+    },
+    "call_type_code": "15024",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Power service",
+    "short_description": "POWER SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "power service",
+      "service power",
+      "power service power",
+      "service power service",
+      "power",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my power service power",
+      "I have power service power",
+      "there is power service power"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 26,
+      "original_call_type_name": "BUILDING INSPECTOR NOT ARRIVING"
+    },
+    "call_type_code": "15025",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Building inspector not arriving",
+    "short_description": "BUILDING INSPECTOR ABSENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "building inspector",
+      "inspector not",
+      "not arriving",
+      "arriving building",
+      "inspector absent",
+      "building inspector not",
+      "inspector not arriving",
+      "not arriving building",
+      "arriving building inspector",
+      "building inspector absent",
+      "building",
+      "inspector",
+      "not",
+      "arriving",
+      "absent"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my building inspector not",
+      "I have building inspector not",
+      "there is building inspector not"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 27,
+      "original_call_type_name": "COMPLAINT: PROCESS TAKING TOO LONG"
+    },
+    "call_type_code": "15026",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "complaint",
+    "issue_type": "Complaint: process taking too long",
+    "short_description": "LONG PROCESS",
+    "intent_bucket": "general",
+    "keywords": [
+      "complaint process",
+      "process taking",
+      "taking too",
+      "too long",
+      "long long",
+      "long process",
+      "complaint process taking",
+      "process taking too",
+      "taking too long",
+      "too long long",
+      "long long process",
+      "complaint",
+      "process",
+      "taking",
+      "too"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my complaint: process taking",
+      "I have complaint: process taking",
+      "there is complaint: process taking"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 28,
+      "original_call_type_name": "DISTURBANCE - BUILDING AFTER HOURS"
+    },
+    "call_type_code": "15027",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Disturbance - building after hours",
+    "short_description": "AFTER-HOUR BUILDING DISTURBANCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "disturbance building",
+      "building after",
+      "after hours",
+      "hours after",
+      "after hour",
+      "hour building",
+      "building disturbance",
+      "disturbance building after",
+      "building after hours",
+      "after hours after",
+      "hours after hour",
+      "after hour building",
+      "hour building disturbance",
+      "disturbance",
+      "building"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my disturbance - building",
+      "I have disturbance - building",
+      "there is disturbance - building"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 29,
+      "original_call_type_name": "LOST BUILDING PLAN FILE"
+    },
+    "call_type_code": "15028",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Lost building plan file",
+    "short_description": "LOST BUILDING PLAN FILE",
+    "intent_bucket": "general",
+    "keywords": [
+      "lost building",
+      "building plan",
+      "plan file",
+      "file lost",
+      "lost building plan",
+      "building plan file",
+      "plan file lost",
+      "file lost building",
+      "lost",
+      "building",
+      "plan",
+      "file"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my lost building plan",
+      "I have lost building plan",
+      "there is lost building plan"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 30,
+      "original_call_type_name": "PROCESS IS TAKING TOO LONG"
+    },
+    "call_type_code": "15029",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Process is taking too long",
+    "short_description": "LONG PROCESSING TIME",
+    "intent_bucket": "general",
+    "keywords": [
+      "process is",
+      "is taking",
+      "taking too",
+      "too long",
+      "long long",
+      "long processing",
+      "processing time",
+      "process is taking",
+      "is taking too",
+      "taking too long",
+      "too long long",
+      "long long processing",
+      "long processing time",
+      "process",
+      "taking"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my process is taking",
+      "I have process is taking",
+      "there is process is taking"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 31,
+      "original_call_type_name": "RUBBLE ON SIDEWALK AT CONSTRUCTION SITE"
+    },
+    "call_type_code": "15030",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Rubble on sidewalk at construction site",
+    "short_description": "RUBBLE ON SIDEWAY",
+    "intent_bucket": "general",
+    "keywords": [
+      "rubble on",
+      "on sidewalk",
+      "sidewalk at",
+      "at construction",
+      "construction site",
+      "site rubble",
+      "on sideway",
+      "rubble on sidewalk",
+      "on sidewalk at",
+      "sidewalk at construction",
+      "at construction site",
+      "construction site rubble",
+      "site rubble on",
+      "rubble on sideway",
+      "rubble"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my rubble on sidewalk",
+      "I have rubble on sidewalk",
+      "there is rubble on sidewalk"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 32,
+      "original_call_type_name": "ENVIRONMENT INFRASTRUCTURE"
+    },
+    "call_type_code": "15031",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Environment infrastructure",
+    "short_description": "ENVIRONMENT INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment infrastructure",
+      "infrastructure environment",
+      "environment infrastructure environment",
+      "infrastructure environment infrastructure",
+      "environment",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment infrastructure environment",
+      "I have environment infrastructure environment",
+      "there is environment infrastructure environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 33,
+      "original_call_type_name": "ENVIRONMENT PERSONNEL"
+    },
+    "call_type_code": "15032",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Environment personnel",
+    "short_description": "ENVIRONMENT PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment personnel",
+      "personnel environment",
+      "environment personnel environment",
+      "personnel environment personnel",
+      "environment",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment personnel environment",
+      "I have environment personnel environment",
+      "there is environment personnel environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 34,
+      "original_call_type_name": "ENVIRONMENT PERSONNEL"
+    },
+    "call_type_code": "15033",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Environment personnel",
+    "short_description": "ENVIRONMENT PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment personnel",
+      "personnel environment",
+      "environment personnel environment",
+      "personnel environment personnel",
+      "environment",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment personnel environment",
+      "I have environment personnel environment",
+      "there is environment personnel environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 35,
+      "original_call_type_name": "ENVIRONMENT PROCEDURE"
+    },
+    "call_type_code": "15034",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Environment procedure",
+    "short_description": "ENVIRONMENT PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment procedure",
+      "procedure environment",
+      "environment procedure environment",
+      "procedure environment procedure",
+      "environment",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment procedure environment",
+      "I have environment procedure environment",
+      "there is environment procedure environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 36,
+      "original_call_type_name": "ENVIRONMENT SERVICE"
+    },
+    "call_type_code": "15035",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Environment service",
+    "short_description": "ENVIRONMENT SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment service",
+      "service environment",
+      "environment service environment",
+      "service environment service",
+      "environment",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment service environment",
+      "I have environment service environment",
+      "there is environment service environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 37,
+      "original_call_type_name": "ENVIRONMENT SERVICE"
+    },
+    "call_type_code": "15036",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Environment service",
+    "short_description": "ENVIRONMENT SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "environment service",
+      "service environment",
+      "environment service environment",
+      "service environment service",
+      "environment",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my environment service environment",
+      "I have environment service environment",
+      "there is environment service environment"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 38,
+      "original_call_type_name": "HEALTH INFRASTRUCTURE"
+    },
+    "call_type_code": "15037",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Health infrastructure",
+    "short_description": "HEALTH INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "health infrastructure",
+      "infrastructure health",
+      "health infrastructure health",
+      "infrastructure health infrastructure",
+      "health",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health infrastructure health",
+      "I have health infrastructure health",
+      "there is health infrastructure health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 39,
+      "original_call_type_name": "HEALTH PERSONNEL"
+    },
+    "call_type_code": "15038",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Health personnel",
+    "short_description": "HEALTH PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "health personnel",
+      "personnel health",
+      "health personnel health",
+      "personnel health personnel",
+      "health",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health personnel health",
+      "I have health personnel health",
+      "there is health personnel health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 40,
+      "original_call_type_name": "HEALTH PERSONNEL"
+    },
+    "call_type_code": "15039",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Health personnel",
+    "short_description": "HEALTH PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "health personnel",
+      "personnel health",
+      "health personnel health",
+      "personnel health personnel",
+      "health",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health personnel health",
+      "I have health personnel health",
+      "there is health personnel health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 41,
+      "original_call_type_name": "HEALTH PROCEDURE"
+    },
+    "call_type_code": "15040",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Health procedure",
+    "short_description": "HEALTH PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "health procedure",
+      "procedure health",
+      "health procedure health",
+      "procedure health procedure",
+      "health",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health procedure health",
+      "I have health procedure health",
+      "there is health procedure health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 42,
+      "original_call_type_name": "HEALTH SERVICE"
+    },
+    "call_type_code": "15041",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Health service",
+    "short_description": "HEALTH SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "health service",
+      "service health",
+      "health service health",
+      "service health service",
+      "health",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health service health",
+      "I have health service health",
+      "there is health service health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 43,
+      "original_call_type_name": "HEALTH SERVICE"
+    },
+    "call_type_code": "15042",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Health service",
+    "short_description": "HEALTH SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "health service",
+      "service health",
+      "health service health",
+      "service health service",
+      "health",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my health service health",
+      "I have health service health",
+      "there is health service health"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 44,
+      "original_call_type_name": "WATER INFRASTRUCTURE"
+    },
+    "call_type_code": "15043",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Water infrastructure",
+    "short_description": "WATER INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "water infrastructure",
+      "infrastructure water",
+      "water infrastructure water",
+      "infrastructure water infrastructure",
+      "water",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water infrastructure water",
+      "I have water infrastructure water",
+      "there is water infrastructure water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 45,
+      "original_call_type_name": "WATER PERSONNEL"
+    },
+    "call_type_code": "15044",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Water personnel",
+    "short_description": "WATER PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "water personnel",
+      "personnel water",
+      "water personnel water",
+      "personnel water personnel",
+      "water",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water personnel water",
+      "I have water personnel water",
+      "there is water personnel water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 46,
+      "original_call_type_name": "WATER PERSONNEL"
+    },
+    "call_type_code": "15045",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Water personnel",
+    "short_description": "WATER PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "water personnel",
+      "personnel water",
+      "water personnel water",
+      "personnel water personnel",
+      "water",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water personnel water",
+      "I have water personnel water",
+      "there is water personnel water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 47,
+      "original_call_type_name": "WATER PROCEDURE"
+    },
+    "call_type_code": "15046",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Water procedure",
+    "short_description": "WATER PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "water procedure",
+      "procedure water",
+      "water procedure water",
+      "procedure water procedure",
+      "water",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water procedure water",
+      "I have water procedure water",
+      "there is water procedure water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 48,
+      "original_call_type_name": "WATER QUALITY OF SERVICE PROVIDE"
+    },
+    "call_type_code": "15047",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "quality",
+    "issue_type": "Water quality of service provide",
+    "short_description": "WATER QUALITY SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "water quality",
+      "quality of",
+      "of service",
+      "service provide",
+      "provide water",
+      "quality service",
+      "water quality of",
+      "quality of service",
+      "of service provide",
+      "service provide water",
+      "provide water quality",
+      "water quality service",
+      "water",
+      "quality",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water quality of",
+      "I have water quality of",
+      "there is water quality of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 49,
+      "original_call_type_name": "WATER SERVICE"
+    },
+    "call_type_code": "15048",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Water service",
+    "short_description": "WATER SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "water service",
+      "service water",
+      "water service water",
+      "service water service",
+      "water",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my water service water",
+      "I have water service water",
+      "there is water service water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 50,
+      "original_call_type_name": "JMPD INFRASTRUCTURE"
+    },
+    "call_type_code": "15049",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jmpd infrastructure",
+    "short_description": "JMPD INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd infrastructure",
+      "infrastructure jmpd",
+      "jmpd infrastructure jmpd",
+      "infrastructure jmpd infrastructure",
+      "jmpd",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd infrastructure jmpd",
+      "I have jmpd infrastructure jmpd",
+      "there is jmpd infrastructure jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 51,
+      "original_call_type_name": "JMPD PERSONNEL"
+    },
+    "call_type_code": "15050",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jmpd personnel",
+    "short_description": "JMPD PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd personnel",
+      "personnel jmpd",
+      "jmpd personnel jmpd",
+      "personnel jmpd personnel",
+      "jmpd",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd personnel jmpd",
+      "I have jmpd personnel jmpd",
+      "there is jmpd personnel jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 52,
+      "original_call_type_name": "JMPD PERSONNEL"
+    },
+    "call_type_code": "15051",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jmpd personnel",
+    "short_description": "JMPD PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd personnel",
+      "personnel jmpd",
+      "jmpd personnel jmpd",
+      "personnel jmpd personnel",
+      "jmpd",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd personnel jmpd",
+      "I have jmpd personnel jmpd",
+      "there is jmpd personnel jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 53,
+      "original_call_type_name": "JMPD PROCEDURE"
+    },
+    "call_type_code": "15052",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jmpd procedure",
+    "short_description": "JMPD PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd procedure",
+      "procedure jmpd",
+      "jmpd procedure jmpd",
+      "procedure jmpd procedure",
+      "jmpd",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd procedure jmpd",
+      "I have jmpd procedure jmpd",
+      "there is jmpd procedure jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 54,
+      "original_call_type_name": "JMPD SERVICE"
+    },
+    "call_type_code": "15053",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Jmpd service",
+    "short_description": "JMPD SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd service",
+      "service jmpd",
+      "jmpd service jmpd",
+      "service jmpd service",
+      "jmpd",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd service jmpd",
+      "I have jmpd service jmpd",
+      "there is jmpd service jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 55,
+      "original_call_type_name": "JMPD SERVICE"
+    },
+    "call_type_code": "15054",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Jmpd service",
+    "short_description": "JMPD SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jmpd service",
+      "service jmpd",
+      "jmpd service jmpd",
+      "service jmpd service",
+      "jmpd",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jmpd service jmpd",
+      "I have jmpd service jmpd",
+      "there is jmpd service jmpd"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 56,
+      "original_call_type_name": "JRA INFRASTRUCTURE"
+    },
+    "call_type_code": "15055",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jra infrastructure",
+    "short_description": "JRA INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra infrastructure",
+      "infrastructure jra",
+      "jra infrastructure jra",
+      "infrastructure jra infrastructure",
+      "jra",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra infrastructure jra",
+      "I have jra infrastructure jra",
+      "there is jra infrastructure jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 57,
+      "original_call_type_name": "JRA PERSONNEL"
+    },
+    "call_type_code": "15056",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jra personnel",
+    "short_description": "JRA PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra personnel",
+      "personnel jra",
+      "jra personnel jra",
+      "personnel jra personnel",
+      "jra",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra personnel jra",
+      "I have jra personnel jra",
+      "there is jra personnel jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 58,
+      "original_call_type_name": "JRA PERSONNEL"
+    },
+    "call_type_code": "15057",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jra personnel",
+    "short_description": "JRA PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra personnel",
+      "personnel jra",
+      "jra personnel jra",
+      "personnel jra personnel",
+      "jra",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra personnel jra",
+      "I have jra personnel jra",
+      "there is jra personnel jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 59,
+      "original_call_type_name": "JRA PROCEDURE"
+    },
+    "call_type_code": "15058",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Jra procedure",
+    "short_description": "JRA PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra procedure",
+      "procedure jra",
+      "jra procedure jra",
+      "procedure jra procedure",
+      "jra",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra procedure jra",
+      "I have jra procedure jra",
+      "there is jra procedure jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 60,
+      "original_call_type_name": "JRA SERVICE"
+    },
+    "call_type_code": "15059",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Jra service",
+    "short_description": "JRA SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra service",
+      "service jra",
+      "jra service jra",
+      "service jra service",
+      "jra",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra service jra",
+      "I have jra service jra",
+      "there is jra service jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 61,
+      "original_call_type_name": "JRA SERVICE"
+    },
+    "call_type_code": "15060",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Jra service",
+    "short_description": "JRA SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "jra service",
+      "service jra",
+      "jra service jra",
+      "service jra service",
+      "jra",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my jra service jra",
+      "I have jra service jra",
+      "there is jra service jra"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 62,
+      "original_call_type_name": "LIBRARY INFRASTRUCTURE"
+    },
+    "call_type_code": "15061",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Library infrastructure",
+    "short_description": "LIBRARY INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "library infrastructure",
+      "infrastructure library",
+      "library infrastructure library",
+      "infrastructure library infrastructure",
+      "library",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library infrastructure library",
+      "I have library infrastructure library",
+      "there is library infrastructure library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 63,
+      "original_call_type_name": "LIBRARY PERSONNEL"
+    },
+    "call_type_code": "15062",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Library personnel",
+    "short_description": "LIBRARY PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "library personnel",
+      "personnel library",
+      "library personnel library",
+      "personnel library personnel",
+      "library",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library personnel library",
+      "I have library personnel library",
+      "there is library personnel library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 64,
+      "original_call_type_name": "LIBRARY PERSONNEL"
+    },
+    "call_type_code": "15063",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Library personnel",
+    "short_description": "LIBRARY PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "library personnel",
+      "personnel library",
+      "library personnel library",
+      "personnel library personnel",
+      "library",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library personnel library",
+      "I have library personnel library",
+      "there is library personnel library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 65,
+      "original_call_type_name": "LIBRARY PROCEDURE"
+    },
+    "call_type_code": "15064",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Library procedure",
+    "short_description": "LIBRARY PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "library procedure",
+      "procedure library",
+      "library procedure library",
+      "procedure library procedure",
+      "library",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library procedure library",
+      "I have library procedure library",
+      "there is library procedure library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 66,
+      "original_call_type_name": "LIBRARY SERVICE"
+    },
+    "call_type_code": "15065",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Library service",
+    "short_description": "LIBRARY SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "library service",
+      "service library",
+      "library service library",
+      "service library service",
+      "library",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library service library",
+      "I have library service library",
+      "there is library service library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 67,
+      "original_call_type_name": "LIBRARY SERVICES"
+    },
+    "call_type_code": "15066",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Library services",
+    "short_description": "LIBRARY SERVICES",
+    "intent_bucket": "general",
+    "keywords": [
+      "library services",
+      "services library",
+      "library services library",
+      "services library services",
+      "library",
+      "services"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my library services library",
+      "I have library services library",
+      "there is library services library"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 68,
+      "original_call_type_name": "METRO BUS INFRASTRUCTURE"
+    },
+    "call_type_code": "15067",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Metro bus infrastructure",
+    "short_description": "METRO BUS INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus infrastructure",
+      "infrastructure metro",
+      "metro bus infrastructure",
+      "bus infrastructure metro",
+      "infrastructure metro bus",
+      "metro",
+      "bus",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus infrastructure",
+      "I have metro bus infrastructure",
+      "there is metro bus infrastructure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 69,
+      "original_call_type_name": "METRO BUS PERSONNEL"
+    },
+    "call_type_code": "15068",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Metro bus personnel",
+    "short_description": "METRO BUS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus personnel",
+      "personnel metro",
+      "metro bus personnel",
+      "bus personnel metro",
+      "personnel metro bus",
+      "metro",
+      "bus",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus personnel",
+      "I have metro bus personnel",
+      "there is metro bus personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 70,
+      "original_call_type_name": "METRO BUS PERSONNEL"
+    },
+    "call_type_code": "15069",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Metro bus personnel",
+    "short_description": "METRO BUS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus personnel",
+      "personnel metro",
+      "metro bus personnel",
+      "bus personnel metro",
+      "personnel metro bus",
+      "metro",
+      "bus",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus personnel",
+      "I have metro bus personnel",
+      "there is metro bus personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 71,
+      "original_call_type_name": "METRO BUS PROCEDURE"
+    },
+    "call_type_code": "15070",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Metro bus procedure",
+    "short_description": "METRO BUS PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus procedure",
+      "procedure metro",
+      "metro bus procedure",
+      "bus procedure metro",
+      "procedure metro bus",
+      "metro",
+      "bus",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus procedure",
+      "I have metro bus procedure",
+      "there is metro bus procedure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 72,
+      "original_call_type_name": "METRO BUS SERVICE"
+    },
+    "call_type_code": "15071",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Metro bus service",
+    "short_description": "METRO BUS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus service",
+      "service metro",
+      "metro bus service",
+      "bus service metro",
+      "service metro bus",
+      "metro",
+      "bus",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus service",
+      "I have metro bus service",
+      "there is metro bus service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 73,
+      "original_call_type_name": "METRO BUS SERVICE"
+    },
+    "call_type_code": "15072",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Metro bus service",
+    "short_description": "METRO BUS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "metro bus",
+      "bus service",
+      "service metro",
+      "metro bus service",
+      "bus service metro",
+      "service metro bus",
+      "metro",
+      "bus",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my metro bus service",
+      "I have metro bus service",
+      "there is metro bus service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 74,
+      "original_call_type_name": "COLLECTIONS NOT PICKED UP"
+    },
+    "call_type_code": "15073",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Collections not picked up",
+    "short_description": "MISSED COLLECTIONS",
+    "intent_bucket": "general",
+    "keywords": [
+      "collections not",
+      "not picked",
+      "picked up",
+      "up missed",
+      "missed collections",
+      "collections not picked",
+      "not picked up",
+      "picked up missed",
+      "up missed collections",
+      "collections",
+      "not",
+      "picked",
+      "missed"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my collections not picked",
+      "I have collections not picked",
+      "there is collections not picked"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 75,
+      "original_call_type_name": "PIKITUP CHRISTMAS BOX"
+    },
+    "call_type_code": "15074",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup christmas box",
+    "short_description": "CHRISTMAS BOX",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup christmas",
+      "christmas box",
+      "box christmas",
+      "pikitup christmas box",
+      "christmas box christmas",
+      "box christmas box",
+      "pikitup",
+      "christmas",
+      "box"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup christmas box",
+      "I have pikitup christmas box",
+      "there is pikitup christmas box"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 76,
+      "original_call_type_name": "PIKITUP DAMAGE TO PROPERTY"
+    },
+    "call_type_code": "15075",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "damage",
+    "issue_type": "Pikitup damage to property",
+    "short_description": "PIKITUP DAMAGE",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup damage",
+      "damage to",
+      "to property",
+      "property pikitup",
+      "pikitup damage to",
+      "damage to property",
+      "to property pikitup",
+      "property pikitup damage",
+      "pikitup",
+      "damage",
+      "property"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my pikitup damage",
+      "I have pikitup damage",
+      "there is pikitup damage"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 77,
+      "original_call_type_name": "Pikitup Dead Animals"
+    },
+    "call_type_code": "15076",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup dead animals",
+    "short_description": "DEAD ANIMALS",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup dead",
+      "dead animals",
+      "animals dead",
+      "pikitup dead animals",
+      "dead animals dead",
+      "animals dead animals",
+      "pikitup",
+      "dead",
+      "animals"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup dead animals",
+      "I have pikitup dead animals",
+      "there is pikitup dead animals"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 78,
+      "original_call_type_name": "PIKITUP GARDEN SITES"
+    },
+    "call_type_code": "15077",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup garden sites",
+    "short_description": "GARDEN SITES",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup garden",
+      "garden sites",
+      "sites garden",
+      "pikitup garden sites",
+      "garden sites garden",
+      "sites garden sites",
+      "pikitup",
+      "garden",
+      "sites"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup garden sites",
+      "I have pikitup garden sites",
+      "there is pikitup garden sites"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 79,
+      "original_call_type_name": "Pikitup Illegal Dumping"
+    },
+    "call_type_code": "15078",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup illegal dumping",
+    "short_description": "ILLEGAL DUMPING",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup illegal",
+      "illegal dumping",
+      "dumping illegal",
+      "pikitup illegal dumping",
+      "illegal dumping illegal",
+      "dumping illegal dumping",
+      "pikitup",
+      "illegal",
+      "dumping"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup illegal dumping",
+      "I have pikitup illegal dumping",
+      "there is pikitup illegal dumping"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 80,
+      "original_call_type_name": "PIKITUP LANDFILL SITES"
+    },
+    "call_type_code": "15079",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup landfill sites",
+    "short_description": "PIKITUP LANDFILL SITES",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup landfill",
+      "landfill sites",
+      "sites pikitup",
+      "pikitup landfill sites",
+      "landfill sites pikitup",
+      "sites pikitup landfill",
+      "pikitup",
+      "landfill",
+      "sites"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup landfill sites",
+      "I have pikitup landfill sites",
+      "there is pikitup landfill sites"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 81,
+      "original_call_type_name": "PIKITUP STAFF"
+    },
+    "call_type_code": "15080",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup staff",
+    "short_description": "PIKITUP STAFF",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup staff",
+      "staff pikitup",
+      "pikitup staff pikitup",
+      "staff pikitup staff",
+      "pikitup",
+      "staff"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup staff pikitup",
+      "I have pikitup staff pikitup",
+      "there is pikitup staff pikitup"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 82,
+      "original_call_type_name": "Pikitup Street Cleaning"
+    },
+    "call_type_code": "15081",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Pikitup street cleaning",
+    "short_description": "STREET CLEANING",
+    "intent_bucket": "general",
+    "keywords": [
+      "pikitup street",
+      "street cleaning",
+      "cleaning street",
+      "pikitup street cleaning",
+      "street cleaning street",
+      "cleaning street cleaning",
+      "pikitup",
+      "street",
+      "cleaning"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my pikitup street cleaning",
+      "I have pikitup street cleaning",
+      "there is pikitup street cleaning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 83,
+      "original_call_type_name": "REFUSE PERSONNEL"
+    },
+    "call_type_code": "15082",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Refuse personnel",
+    "short_description": "REFUSE PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "refuse personnel",
+      "personnel refuse",
+      "refuse personnel refuse",
+      "personnel refuse personnel",
+      "refuse",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my refuse personnel refuse",
+      "I have refuse personnel refuse",
+      "there is refuse personnel refuse"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 84,
+      "original_call_type_name": "REFUSE SERVICE"
+    },
+    "call_type_code": "15083",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Refuse service",
+    "short_description": "REFUSE SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "refuse service",
+      "service refuse",
+      "refuse service refuse",
+      "service refuse service",
+      "refuse",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my refuse service refuse",
+      "I have refuse service refuse",
+      "there is refuse service refuse"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 85,
+      "original_call_type_name": "PLANNING INFRASTRUCTURE"
+    },
+    "call_type_code": "15084",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Planning infrastructure",
+    "short_description": "PLANNING INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning infrastructure",
+      "infrastructure planning",
+      "planning infrastructure planning",
+      "infrastructure planning infrastructure",
+      "planning",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning infrastructure planning",
+      "I have planning infrastructure planning",
+      "there is planning infrastructure planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 86,
+      "original_call_type_name": "PLANNING PERSONNEL"
+    },
+    "call_type_code": "15085",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Planning personnel",
+    "short_description": "PLANNING PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning personnel",
+      "personnel planning",
+      "planning personnel planning",
+      "personnel planning personnel",
+      "planning",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning personnel planning",
+      "I have planning personnel planning",
+      "there is planning personnel planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 87,
+      "original_call_type_name": "PLANNING PERSONNEL"
+    },
+    "call_type_code": "15086",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Planning personnel",
+    "short_description": "PLANNING PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning personnel",
+      "personnel planning",
+      "planning personnel planning",
+      "personnel planning personnel",
+      "planning",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning personnel planning",
+      "I have planning personnel planning",
+      "there is planning personnel planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 88,
+      "original_call_type_name": "PLANNING PROCEDURE"
+    },
+    "call_type_code": "15087",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Planning procedure",
+    "short_description": "PLANNING PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning procedure",
+      "procedure planning",
+      "planning procedure planning",
+      "procedure planning procedure",
+      "planning",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning procedure planning",
+      "I have planning procedure planning",
+      "there is planning procedure planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 89,
+      "original_call_type_name": "PLANNING SERVICE"
+    },
+    "call_type_code": "15088",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Planning service",
+    "short_description": "PLANNING SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning service",
+      "service planning",
+      "planning service planning",
+      "service planning service",
+      "planning",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning service planning",
+      "I have planning service planning",
+      "there is planning service planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 90,
+      "original_call_type_name": "PLANNING SERVICE"
+    },
+    "call_type_code": "15089",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Planning service",
+    "short_description": "PLANNING SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning service",
+      "service planning",
+      "planning service planning",
+      "service planning service",
+      "planning",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning service planning",
+      "I have planning service planning",
+      "there is planning service planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 91,
+      "original_call_type_name": "PLANNING INFRASTRUCTURE"
+    },
+    "call_type_code": "15090",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Planning infrastructure",
+    "short_description": "PLANNING INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "planning infrastructure",
+      "infrastructure planning",
+      "planning infrastructure planning",
+      "infrastructure planning infrastructure",
+      "planning",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my planning infrastructure planning",
+      "I have planning infrastructure planning",
+      "there is planning infrastructure planning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 92,
+      "original_call_type_name": "PROPERTY PERSONNEL"
+    },
+    "call_type_code": "15091",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Property personnel",
+    "short_description": "PROPERTY PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "property personnel",
+      "personnel property",
+      "property personnel property",
+      "personnel property personnel",
+      "property",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my property personnel property",
+      "I have property personnel property",
+      "there is property personnel property"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 93,
+      "original_call_type_name": "PROPERTY PERSONNEL"
+    },
+    "call_type_code": "15092",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Property personnel",
+    "short_description": "PROPERTY PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "property personnel",
+      "personnel property",
+      "property personnel property",
+      "personnel property personnel",
+      "property",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my property personnel property",
+      "I have property personnel property",
+      "there is property personnel property"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 94,
+      "original_call_type_name": "PROPERTY PROCEDURE"
+    },
+    "call_type_code": "15093",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Property procedure",
+    "short_description": "PROPERTY PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "property procedure",
+      "procedure property",
+      "property procedure property",
+      "procedure property procedure",
+      "property",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my property procedure property",
+      "I have property procedure property",
+      "there is property procedure property"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 95,
+      "original_call_type_name": "PROPERTY SERVICE"
+    },
+    "call_type_code": "15094",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Property service",
+    "short_description": "PROPERTY SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "property service",
+      "service property",
+      "property service property",
+      "service property service",
+      "property",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my property service property",
+      "I have property service property",
+      "there is property service property"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 96,
+      "original_call_type_name": "PROPERTY SERVICE"
+    },
+    "call_type_code": "15095",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Property service",
+    "short_description": "PROPERTY SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "property service",
+      "service property",
+      "property service property",
+      "service property service",
+      "property",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my property service property",
+      "I have property service property",
+      "there is property service property"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 97,
+      "original_call_type_name": "REPORT TAXI ILLEGAL PARKING / PICKUP"
+    },
+    "call_type_code": "15096",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxi illegal parking / pickup",
+    "short_description": "ILLEGAL PARKING",
+    "intent_bucket": "general",
+    "keywords": [
+      "report taxi",
+      "taxi illegal",
+      "illegal parking",
+      "parking pickup",
+      "pickup illegal",
+      "report taxi illegal",
+      "taxi illegal parking",
+      "illegal parking pickup",
+      "parking pickup illegal",
+      "pickup illegal parking",
+      "report",
+      "taxi",
+      "illegal",
+      "parking",
+      "pickup"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report taxi illegal",
+      "I have report taxi illegal",
+      "there is report taxi illegal"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 98,
+      "original_call_type_name": "REPORT TAXI ROUTE VIOLATION"
+    },
+    "call_type_code": "15097",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxi route violation",
+    "short_description": "TAXI ROUTE VIOLATION",
+    "intent_bucket": "general",
+    "keywords": [
+      "report taxi",
+      "taxi route",
+      "route violation",
+      "violation taxi",
+      "report taxi route",
+      "taxi route violation",
+      "route violation taxi",
+      "violation taxi route",
+      "report",
+      "taxi",
+      "route",
+      "violation"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report taxi route",
+      "I have report taxi route",
+      "there is report taxi route"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 99,
+      "original_call_type_name": "REPORT TAXI VIOLENCE"
+    },
+    "call_type_code": "15098",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxi violence",
+    "short_description": "TAXI VIOLENCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "report taxi",
+      "taxi violence",
+      "violence taxi",
+      "report taxi violence",
+      "taxi violence taxi",
+      "violence taxi violence",
+      "report",
+      "taxi",
+      "violence"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report taxi violence",
+      "I have report taxi violence",
+      "there is report taxi violence"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 100,
+      "original_call_type_name": "TAXI ILLEGAL PARKING"
+    },
+    "call_type_code": "15099",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxi illegal parking",
+    "short_description": "TAXI ILLEGAL PARKING",
+    "intent_bucket": "general",
+    "keywords": [
+      "taxi illegal",
+      "illegal parking",
+      "parking taxi",
+      "taxi illegal parking",
+      "illegal parking taxi",
+      "parking taxi illegal",
+      "taxi",
+      "illegal",
+      "parking"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my taxi illegal parking",
+      "I have taxi illegal parking",
+      "there is taxi illegal parking"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 101,
+      "original_call_type_name": "TAXI VIOLENCE"
+    },
+    "call_type_code": "15100",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxi violence",
+    "short_description": "TAXI VIOLENCE",
+    "intent_bucket": "general",
+    "keywords": [
+      "taxi violence",
+      "violence taxi",
+      "taxi violence taxi",
+      "violence taxi violence",
+      "taxi",
+      "violence"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my taxi violence taxi",
+      "I have taxi violence taxi",
+      "there is taxi violence taxi"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 102,
+      "original_call_type_name": "TAXIS IMPACTING TRAFFIC"
+    },
+    "call_type_code": "15101",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Taxis impacting traffic",
+    "short_description": "TRAFFIC IMPACT",
+    "intent_bucket": "general",
+    "keywords": [
+      "taxis impacting",
+      "impacting traffic",
+      "traffic traffic",
+      "traffic impact",
+      "taxis impacting traffic",
+      "impacting traffic traffic",
+      "traffic traffic impact",
+      "taxis",
+      "impacting",
+      "traffic",
+      "impact"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my taxis impacting traffic",
+      "I have taxis impacting traffic",
+      "there is taxis impacting traffic"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 103,
+      "original_call_type_name": "RESEARCH INFRASTRUCTURE"
+    },
+    "call_type_code": "15102",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Research infrastructure",
+    "short_description": "RESEARCH INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "research infrastructure",
+      "infrastructure research",
+      "research infrastructure research",
+      "infrastructure research infrastructure",
+      "research",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research infrastructure research",
+      "I have research infrastructure research",
+      "there is research infrastructure research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 104,
+      "original_call_type_name": "RESEARCH PERSONNEL"
+    },
+    "call_type_code": "15103",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Research personnel",
+    "short_description": "RESEARCH PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "research personnel",
+      "personnel research",
+      "research personnel research",
+      "personnel research personnel",
+      "research",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research personnel research",
+      "I have research personnel research",
+      "there is research personnel research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 105,
+      "original_call_type_name": "RESEARCH PERSONNEL"
+    },
+    "call_type_code": "15104",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Research personnel",
+    "short_description": "RESEARCH PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "research personnel",
+      "personnel research",
+      "research personnel research",
+      "personnel research personnel",
+      "research",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research personnel research",
+      "I have research personnel research",
+      "there is research personnel research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 106,
+      "original_call_type_name": "RESEARCH PROCEDURE"
+    },
+    "call_type_code": "15105",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Research procedure",
+    "short_description": "RESEARCH PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "research procedure",
+      "procedure research",
+      "research procedure research",
+      "procedure research procedure",
+      "research",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research procedure research",
+      "I have research procedure research",
+      "there is research procedure research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 107,
+      "original_call_type_name": "RESEARCH SERVICE"
+    },
+    "call_type_code": "15106",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Research service",
+    "short_description": "RESEARCH SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "research service",
+      "service research",
+      "research service research",
+      "service research service",
+      "research",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research service research",
+      "I have research service research",
+      "there is research service research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 108,
+      "original_call_type_name": "RESEARCH SERVICE"
+    },
+    "call_type_code": "15107",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Research service",
+    "short_description": "RESEARCH SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "research service",
+      "service research",
+      "research service research",
+      "service research service",
+      "research",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my research service research",
+      "I have research service research",
+      "there is research service research"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 109,
+      "original_call_type_name": "PERSONNEL"
+    },
+    "call_type_code": "15108",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Personnel",
+    "short_description": "PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "personnel personnel",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my personnel personnel",
+      "I have personnel personnel",
+      "there is personnel personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 110,
+      "original_call_type_name": "PERSONNEL"
+    },
+    "call_type_code": "15109",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Personnel",
+    "short_description": "PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "personnel personnel",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my personnel personnel",
+      "I have personnel personnel",
+      "there is personnel personnel"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 111,
+      "original_call_type_name": "PROCEDURE"
+    },
+    "call_type_code": "15110",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Procedure",
+    "short_description": "PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "procedure procedure",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my procedure procedure",
+      "I have procedure procedure",
+      "there is procedure procedure"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 112,
+      "original_call_type_name": "SERVICE"
+    },
+    "call_type_code": "15111",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Service",
+    "short_description": "SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "service service",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my service service",
+      "I have service service",
+      "there is service service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 113,
+      "original_call_type_name": "SERVICE"
+    },
+    "call_type_code": "15112",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Service",
+    "short_description": "SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "service service",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my service service",
+      "I have service service",
+      "there is service service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 114,
+      "original_call_type_name": "SOCIAL INFRASTRUCTURE"
+    },
+    "call_type_code": "15113",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Social infrastructure",
+    "short_description": "SOCIAL INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "social infrastructure",
+      "infrastructure social",
+      "social infrastructure social",
+      "infrastructure social infrastructure",
+      "social",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social infrastructure social",
+      "I have social infrastructure social",
+      "there is social infrastructure social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 115,
+      "original_call_type_name": "SOCIAL PERSONNEL"
+    },
+    "call_type_code": "15114",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Social personnel",
+    "short_description": "SOCIAL PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "social personnel",
+      "personnel social",
+      "social personnel social",
+      "personnel social personnel",
+      "social",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social personnel social",
+      "I have social personnel social",
+      "there is social personnel social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 116,
+      "original_call_type_name": "SOCIAL PERSONNEL"
+    },
+    "call_type_code": "15115",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Social personnel",
+    "short_description": "SOCIAL PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "social personnel",
+      "personnel social",
+      "social personnel social",
+      "personnel social personnel",
+      "social",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social personnel social",
+      "I have social personnel social",
+      "there is social personnel social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 117,
+      "original_call_type_name": "SOCIAL PROCEDURE"
+    },
+    "call_type_code": "15116",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Social procedure",
+    "short_description": "SOCIAL PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "social procedure",
+      "procedure social",
+      "social procedure social",
+      "procedure social procedure",
+      "social",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social procedure social",
+      "I have social procedure social",
+      "there is social procedure social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 118,
+      "original_call_type_name": "SOCIAL SERVICE"
+    },
+    "call_type_code": "15117",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Social service",
+    "short_description": "SOCIAL SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "social service",
+      "service social",
+      "social service social",
+      "service social service",
+      "social",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social service social",
+      "I have social service social",
+      "there is social service social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 119,
+      "original_call_type_name": "SOCIAL SERVICE"
+    },
+    "call_type_code": "15118",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Social service",
+    "short_description": "SOCIAL SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "social service",
+      "service social",
+      "social service social",
+      "service social service",
+      "social",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my social service social",
+      "I have social service social",
+      "there is social service social"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 120,
+      "original_call_type_name": "SPORTS INFRASTRUCTURE"
+    },
+    "call_type_code": "15119",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Sports infrastructure",
+    "short_description": "SPORTS INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports infrastructure",
+      "infrastructure sports",
+      "sports infrastructure sports",
+      "infrastructure sports infrastructure",
+      "sports",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports infrastructure sports",
+      "I have sports infrastructure sports",
+      "there is sports infrastructure sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 121,
+      "original_call_type_name": "SPORTS INFRASTRUCTURE"
+    },
+    "call_type_code": "15120",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Sports infrastructure",
+    "short_description": "SPORTS INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports infrastructure",
+      "infrastructure sports",
+      "sports infrastructure sports",
+      "infrastructure sports infrastructure",
+      "sports",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports infrastructure sports",
+      "I have sports infrastructure sports",
+      "there is sports infrastructure sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 122,
+      "original_call_type_name": "SPORTS PERSONNEL"
+    },
+    "call_type_code": "15121",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Sports personnel",
+    "short_description": "SPORTS PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports personnel",
+      "personnel sports",
+      "sports personnel sports",
+      "personnel sports personnel",
+      "sports",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports personnel sports",
+      "I have sports personnel sports",
+      "there is sports personnel sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 123,
+      "original_call_type_name": "SPORTS PROCEDURE"
+    },
+    "call_type_code": "15122",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Sports procedure",
+    "short_description": "SPORTS PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports procedure",
+      "procedure sports",
+      "sports procedure sports",
+      "procedure sports procedure",
+      "sports",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports procedure sports",
+      "I have sports procedure sports",
+      "there is sports procedure sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 124,
+      "original_call_type_name": "SPORTS SERVICE"
+    },
+    "call_type_code": "15123",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Sports service",
+    "short_description": "SPORTS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports service",
+      "service sports",
+      "sports service sports",
+      "service sports service",
+      "sports",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports service sports",
+      "I have sports service sports",
+      "there is sports service sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 125,
+      "original_call_type_name": "SPORTS SERVICE"
+    },
+    "call_type_code": "15124",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Sports service",
+    "short_description": "SPORTS SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "sports service",
+      "service sports",
+      "sports service sports",
+      "service sports service",
+      "sports",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my sports service sports",
+      "I have sports service sports",
+      "there is sports service sports"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 126,
+      "original_call_type_name": "THEATRE INFRASTRUCTURE"
+    },
+    "call_type_code": "15125",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Theatre infrastructure",
+    "short_description": "THEATRE INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre infrastructure",
+      "infrastructure theatre",
+      "theatre infrastructure theatre",
+      "infrastructure theatre infrastructure",
+      "theatre",
+      "infrastructure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre infrastructure theatre",
+      "I have theatre infrastructure theatre",
+      "there is theatre infrastructure theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 127,
+      "original_call_type_name": "THEATRE PERSONNEL"
+    },
+    "call_type_code": "15126",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Theatre personnel",
+    "short_description": "THEATRE PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre personnel",
+      "personnel theatre",
+      "theatre personnel theatre",
+      "personnel theatre personnel",
+      "theatre",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre personnel theatre",
+      "I have theatre personnel theatre",
+      "there is theatre personnel theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 128,
+      "original_call_type_name": "THEATRE PERSONNEL"
+    },
+    "call_type_code": "15127",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Theatre personnel",
+    "short_description": "THEATRE PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre personnel",
+      "personnel theatre",
+      "theatre personnel theatre",
+      "personnel theatre personnel",
+      "theatre",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre personnel theatre",
+      "I have theatre personnel theatre",
+      "there is theatre personnel theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 129,
+      "original_call_type_name": "THEATRE PROCEDURE"
+    },
+    "call_type_code": "15128",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Theatre procedure",
+    "short_description": "THEATRE PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre procedure",
+      "procedure theatre",
+      "theatre procedure theatre",
+      "procedure theatre procedure",
+      "theatre",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre procedure theatre",
+      "I have theatre procedure theatre",
+      "there is theatre procedure theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 130,
+      "original_call_type_name": "THEATRE SERVICE"
+    },
+    "call_type_code": "15129",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Theatre service",
+    "short_description": "THEATRE SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre service",
+      "service theatre",
+      "theatre service theatre",
+      "service theatre service",
+      "theatre",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre service theatre",
+      "I have theatre service theatre",
+      "there is theatre service theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 131,
+      "original_call_type_name": "THEATRE SERVICE"
+    },
+    "call_type_code": "15130",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Theatre service",
+    "short_description": "THEATRE SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre service",
+      "service theatre",
+      "theatre service theatre",
+      "service theatre service",
+      "theatre",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre service theatre",
+      "I have theatre service theatre",
+      "there is theatre service theatre"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 132,
+      "original_call_type_name": "THEATRE INFRASTRUCTURE"
+    },
+    "call_type_code": "15131",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Theatre infrastructure",
+    "short_description": "TOURISM INFRASTRUCTURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "theatre infrastructure",
+      "infrastructure tourism",
+      "tourism infrastructure",
+      "theatre infrastructure tourism",
+      "infrastructure tourism infrastructure",
+      "theatre",
+      "infrastructure",
+      "tourism"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my theatre infrastructure tourism",
+      "I have theatre infrastructure tourism",
+      "there is theatre infrastructure tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 133,
+      "original_call_type_name": "TOURISM PERSONNEL"
+    },
+    "call_type_code": "15132",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Tourism personnel",
+    "short_description": "TOURISM PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "tourism personnel",
+      "personnel tourism",
+      "tourism personnel tourism",
+      "personnel tourism personnel",
+      "tourism",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tourism personnel tourism",
+      "I have tourism personnel tourism",
+      "there is tourism personnel tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 134,
+      "original_call_type_name": "TOURISM PERSONNEL"
+    },
+    "call_type_code": "15133",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Tourism personnel",
+    "short_description": "TOURISM PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "tourism personnel",
+      "personnel tourism",
+      "tourism personnel tourism",
+      "personnel tourism personnel",
+      "tourism",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tourism personnel tourism",
+      "I have tourism personnel tourism",
+      "there is tourism personnel tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 135,
+      "original_call_type_name": "TOURISM PROCEDURE"
+    },
+    "call_type_code": "15134",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Tourism procedure",
+    "short_description": "TOURISM PROCEDURE",
+    "intent_bucket": "general",
+    "keywords": [
+      "tourism procedure",
+      "procedure tourism",
+      "tourism procedure tourism",
+      "procedure tourism procedure",
+      "tourism",
+      "procedure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tourism procedure tourism",
+      "I have tourism procedure tourism",
+      "there is tourism procedure tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 136,
+      "original_call_type_name": "TOURISM SERVICE"
+    },
+    "call_type_code": "15135",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Tourism service",
+    "short_description": "TOURISM SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "tourism service",
+      "service tourism",
+      "tourism service tourism",
+      "service tourism service",
+      "tourism",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tourism service tourism",
+      "I have tourism service tourism",
+      "there is tourism service tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 137,
+      "original_call_type_name": "TOURISM SERVICE"
+    },
+    "call_type_code": "15136",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Tourism service",
+    "short_description": "TOURISM SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "tourism service",
+      "service tourism",
+      "tourism service tourism",
+      "service tourism service",
+      "tourism",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my tourism service tourism",
+      "I have tourism service tourism",
+      "there is tourism service tourism"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 138,
+      "original_call_type_name": "ZOO ANIMALS"
+    },
+    "call_type_code": "15137",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Zoo animals",
+    "short_description": "ZOO ANIMALS",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo animals",
+      "animals zoo",
+      "zoo animals zoo",
+      "animals zoo animals",
+      "zoo",
+      "animals"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo animals zoo",
+      "I have zoo animals zoo",
+      "there is zoo animals zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 139,
+      "original_call_type_name": "ZOO ENVIRONMENT"
+    },
+    "call_type_code": "15138",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Zoo environment",
+    "short_description": "ZOO ENVIRONMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo environment",
+      "environment zoo",
+      "zoo environment zoo",
+      "environment zoo environment",
+      "zoo",
+      "environment"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo environment zoo",
+      "I have zoo environment zoo",
+      "there is zoo environment zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 140,
+      "original_call_type_name": "ZOO ENVIRONMENT"
+    },
+    "call_type_code": "15139",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Zoo environment",
+    "short_description": "ZOO ENVIRONMENT",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo environment",
+      "environment zoo",
+      "zoo environment zoo",
+      "environment zoo environment",
+      "zoo",
+      "environment"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo environment zoo",
+      "I have zoo environment zoo",
+      "there is zoo environment zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 141,
+      "original_call_type_name": "ZOO PERSONNEL"
+    },
+    "call_type_code": "15140",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Zoo personnel",
+    "short_description": "ZOO PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo personnel",
+      "personnel zoo",
+      "zoo personnel zoo",
+      "personnel zoo personnel",
+      "zoo",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo personnel zoo",
+      "I have zoo personnel zoo",
+      "there is zoo personnel zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 142,
+      "original_call_type_name": "ZOO PERSONNEL"
+    },
+    "call_type_code": "15141",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "general",
+    "issue_type": "Zoo personnel",
+    "short_description": "ZOO PERSONNEL",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo personnel",
+      "personnel zoo",
+      "zoo personnel zoo",
+      "personnel zoo personnel",
+      "zoo",
+      "personnel"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo personnel zoo",
+      "I have zoo personnel zoo",
+      "there is zoo personnel zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 143,
+      "original_call_type_name": "ZOO SERVICE"
+    },
+    "call_type_code": "15142",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Zoo service",
+    "short_description": "ZOO SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo service",
+      "service zoo",
+      "zoo service zoo",
+      "service zoo service",
+      "zoo",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo service zoo",
+      "I have zoo service zoo",
+      "there is zoo service zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Complaints and Complements",
+      "row_number": 144,
+      "original_call_type_name": "ZOO SERVICE"
+    },
+    "call_type_code": "15143",
+    "department": "Complaints and Compliments",
+    "service_group": "General",
+    "issue_category": "maintenance",
+    "issue_type": "Zoo service",
+    "short_description": "ZOO SERVICE",
+    "intent_bucket": "general",
+    "keywords": [
+      "zoo service",
+      "service zoo",
+      "zoo service zoo",
+      "service zoo service",
+      "zoo",
+      "service"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my zoo service zoo",
+      "I have zoo service zoo",
+      "there is zoo service zoo"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

@@ -1,0 +1,68 @@
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: csd_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-YourSecurePassword123}
+      POSTGRES_DB: ec1
+    ports:
+      - "5434:5432"  # Using 5434 on host to avoid conflict with existing PostgreSQL
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d ec1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - csd_network
+
+  # CSD Chatbot API
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile.local
+    container_name: csd_chatbot
+    environment:
+      # PostgreSQL Connection
+      POSTGRES_URI: postgresql://postgres:${POSTGRES_PASSWORD:-YourSecurePassword123}@postgres:5432/ec1
+
+      # Azure OpenAI (from .env file)
+      AZURE_OPENAI_API_KEY: ${AZURE_OPENAI_API_KEY}
+      AZURE_OPENAI_ENDPOINT: ${AZURE_OPENAI_ENDPOINT}
+      AZURE_OPENAI_DEPLOYMENT: ${AZURE_OPENAI_DEPLOYMENT}
+      AZURE_OPENAI_API_VERSION: ${AZURE_OPENAI_API_VERSION}
+      AZURE_OPENAI_MODEL_NAME: ${AZURE_OPENAI_MODEL_NAME}
+    ports:
+      - "8001:8001"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/data
+      - ./src:/app/src
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - csd_network
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  csd_network:
+    driver: bridge

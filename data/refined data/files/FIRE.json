@@ -1,0 +1,216 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 2,
+      "original_call_type_name": "Structural Fire (House/Building)"
+    },
+    "call_type_code": "80001",
+    "department": "Structural (House/Building)",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Structural fire (house/building)",
+    "short_description": "Structural Fire (House/Building)",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "structural fire",
+      "fire house",
+      "house building",
+      "building emergency",
+      "structural fire house",
+      "fire house building",
+      "house building emergency",
+      "structural",
+      "fire",
+      "house",
+      "building",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my structural fire (house/building)",
+      "I have structural fire (house/building)",
+      "there is structural fire (house/building)"
+    ],
+    "confidence_weight": 0.7,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 3,
+      "original_call_type_name": "Vehicle Fire"
+    },
+    "call_type_code": "80002",
+    "department": "Vehicle Fire",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Vehicle fire",
+    "short_description": "Vehicle Fire",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "vehicle fire",
+      "fire emergency",
+      "vehicle fire emergency",
+      "vehicle",
+      "fire",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my vehicle fire",
+      "I have vehicle fire",
+      "there is vehicle fire"
+    ],
+    "confidence_weight": 0.7,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 4,
+      "original_call_type_name": "Wildfire/Grassfire"
+    },
+    "call_type_code": "80003",
+    "department": "Wildfire/Grassfire",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Wildfire/grassfire",
+    "short_description": "Wildfire/Grassfire",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "wildfire grassfire",
+      "grassfire emergency",
+      "wildfire grassfire emergency",
+      "wildfire",
+      "grassfire",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my wildfire/grassfire",
+      "I have wildfire/grassfire",
+      "there is wildfire/grassfire"
+    ],
+    "confidence_weight": 0.7,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 5,
+      "original_call_type_name": "Hazardous Material Spill"
+    },
+    "call_type_code": "80004",
+    "department": "Hazardous Material Spill",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Hazardous material spill",
+    "short_description": "Hazardous Material Spill",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "hazardous material",
+      "material spill",
+      "spill emergency",
+      "hazardous material spill",
+      "material spill emergency",
+      "hazardous",
+      "material",
+      "spill",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my hazardous material spill",
+      "I have hazardous material spill",
+      "there is hazardous material spill"
+    ],
+    "confidence_weight": 0.7,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 6,
+      "original_call_type_name": "Gas Leak or Explosion"
+    },
+    "call_type_code": "80005",
+    "department": "Gas Leak or Explosion",
+    "service_group": "Emergency",
+    "issue_category": "leak",
+    "issue_type": "Gas leak or explosion",
+    "short_description": "Gas Leak or Explosion",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "gas leak",
+      "leak or",
+      "or explosion",
+      "explosion emergency",
+      "gas leak or",
+      "leak or explosion",
+      "or explosion emergency",
+      "gas",
+      "leak",
+      "explosion",
+      "emergency"
+    ],
+    "negative_keywords": [
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my gas leak",
+      "I have gas leak",
+      "there is gas leak"
+    ],
+    "confidence_weight": 0.7,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "FIRE",
+      "row_number": 7,
+      "original_call_type_name": "Rescue (Trapped in Vehicle or Structure)"
+    },
+    "call_type_code": "80006",
+    "department": "FIRE Rescue (Trapped in Vehicle or Structure)",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Rescue (trapped in vehicle or structure)",
+    "short_description": "Rescue (Trapped in Vehicle or Structure)",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "rescue trapped",
+      "trapped in",
+      "in vehicle",
+      "vehicle or",
+      "or structure",
+      "structure emergency",
+      "rescue trapped in",
+      "trapped in vehicle",
+      "in vehicle or",
+      "vehicle or structure",
+      "or structure emergency",
+      "rescue",
+      "trapped",
+      "vehicle",
+      "structure"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my rescue (trapped in",
+      "I have rescue (trapped in",
+      "there is rescue (trapped in"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "transport": {
+    "base_terms": ["bus", "taxi", "train", "metro", "minibus", "metrobus", "rea vaya", "transit"],
+    "issue_types": {
+      "driver_behaviour": [
+        "rude driver", "rude", "attitude", "unprofessional", "shouting", "aggressive",
+        "disrespectful", "driver behaviour", "driver conduct", "bad driver", "driver attitude",
+        "driver abuse", "driver shouted", "abusive driver", "insulting driver",
+        "driver was rude", "driver has attitude", "bad behaviour"
+      ],
+      "non_arrival": [
+        "didn't arrive", "never came", "missed bus", "late bus", "delayed", "no show",
+        "waiting long", "bus not coming", "bus didn't come", "bus late", "bus missed",
+        "no bus", "bus never arrived", "still waiting", "bus not arrived"
+      ],
+      "damage": [
+        "broken window", "seat damaged", "vandalism", "graffiti", "bus crashed",
+        "damaged bus", "bus damage", "broken seat", "bus broken", "vehicle damaged",
+        "bus vandalized", "smashed window"
+      ],
+      "stop": [
+        "bus stop missing", "stop not serviced", "bus bypass", "didn't stop",
+        "skipped stop", "no stop", "bus passed", "bus didn't stop"
+      ],
+      "schedule": [
+        "not on time", "early departure", "late arrival", "schedule wrong",
+        "timetable wrong", "bus schedule", "wrong time"
+      ],
+      "fare": [
+        "wrong fare", "overcharged", "fare problem", "tap card", "card not working",
+        "refund", "incorrect fare", "charged too much", "payment issue"
+      ],
+      "safety": [
+        "reckless driving", "dangerous driving", "speeding bus", "unsafe driver",
+        "accident", "bus accident", "injury on bus", "overloading", "overcrowded bus"
+      ],
+      "cleanliness": [
+        "dirty bus", "filthy bus", "trash on bus", "rubbish on bus", "smelly bus",
+        "bus not clean", "unhygienic bus"
+      ],
+      "inspector": [
+        "inspector rude", "inspector complaint", "inspector behaviour",
+        "ticket inspector", "bus inspector"
+      ],
+      "lost_property": [
+        "lost bag", "lost item", "left on bus", "property lost on bus",
+        "forgot on bus", "lost property"
+      ]
+    }
+  },
+
+  "water": {
+    "base_terms": ["water", "tap", "pipe", "sewer", "drain", "sewage", "sewerage"],
+    "issue_types": {
+      "no_supply": [
+        "no water", "water cut", "dry tap", "no water supply", "water off",
+        "water not coming", "water outage", "no water at home", "water disconnected",
+        "no running water"
+      ],
+      "leak": [
+        "water leak", "leaking pipe", "burst pipe", "water dripping", "pipe burst",
+        "water running", "water flowing", "leaking tap", "water gushing",
+        "pipe leaking", "water main break"
+      ],
+      "quality": [
+        "dirty water", "brown water", "smelly water", "bad taste water",
+        "discoloured water", "contaminated water", "water smell", "murky water",
+        "water not clean", "unsafe water"
+      ],
+      "pressure": [
+        "low water pressure", "weak water flow", "trickle", "slow water",
+        "no pressure", "water pressure low"
+      ],
+      "sewer": [
+        "blocked sewer", "sewer smell", "sewage overflow", "drain blocked",
+        "sewer blocked", "sewer overflowing", "sewage in street", "manhole overflow",
+        "sewage smell", "blocked drain"
+      ],
+      "meter": [
+        "water meter broken", "meter not working", "meter faulty", "meter reading",
+        "meter damaged", "wrong meter reading"
+      ]
+    }
+  },
+
+  "electricity": {
+    "base_terms": ["power", "electricity", "electric", "light", "grid", "meter", "eskom", "city power"],
+    "issue_types": {
+      "outage": [
+        "power outage", "no power", "blackout", "lights off", "electricity off",
+        "power cut", "no electricity", "load shedding", "power failure",
+        "no power at home", "electricity out"
+      ],
+      "street_light": [
+        "street light not working", "street light broken", "lamp not working",
+        "light pole", "broken street light", "dark street", "street lamp",
+        "traffic light out", "robot not working", "robot broken"
+      ],
+      "surge": [
+        "power surge", "fluctuating power", "voltage problem", "lights flickering",
+        "power fluctuation", "electric surge"
+      ],
+      "connection": [
+        "no connection", "electricity disconnected", "reconnect electricity",
+        "new connection", "illegal connection", "meter bypassed"
+      ],
+      "billing": [
+        "electricity bill", "meter reading wrong", "prepaid electricity",
+        "vending token", "incorrect billing", "electricity account"
+      ],
+      "safety": [
+        "sparking wire", "electrical fire", "burning smell electricity",
+        "exposed wire", "live wire", "electrical fault", "electrical hazard"
+      ]
+    }
+  },
+
+  "roads": {
+    "base_terms": ["road", "street", "pavement", "sidewalk", "highway", "traffic"],
+    "issue_types": {
+      "pothole": [
+        "pothole", "hole in road", "road crater", "road damage", "damaged road",
+        "road broken", "big pothole", "deep hole road"
+      ],
+      "signage": [
+        "road sign missing", "traffic sign damaged", "sign stolen", "sign broken",
+        "missing sign", "no sign", "speed sign"
+      ],
+      "traffic_light": [
+        "traffic light not working", "robot broken", "robot out", "traffic light out",
+        "stop light broken", "traffic signal", "light not working"
+      ],
+      "pavement": [
+        "broken pavement", "sidewalk damage", "uneven pavement", "pavement cracked",
+        "pavement damaged", "footpath broken"
+      ],
+      "drainage": [
+        "road flooding", "water on road", "drain blocked road", "stormwater",
+        "flood road", "road waterlogged"
+      ],
+      "illegal": [
+        "illegal parking", "cars blocking", "obstruction road", "illegal dumping road"
+      ]
+    }
+  },
+
+  "waste": {
+    "base_terms": ["waste", "rubbish", "trash", "garbage", "refuse", "bin", "litter", "dump"],
+    "issue_types": {
+      "collection": [
+        "bin not collected", "rubbish not collected", "missed collection",
+        "bin not emptied", "collection skipped", "no collection", "rubbish not picked up",
+        "waste not collected", "garbage not removed"
+      ],
+      "illegal_dumping": [
+        "illegal dumping", "fly tipping", "rubbish dumped", "waste dumped",
+        "garbage dumped", "dumping site", "litter dumped", "dumped illegally",
+        "skip dumping"
+      ],
+      "bin_damage": [
+        "broken bin", "damaged bin", "bin missing", "bin stolen", "no bin",
+        "bin vandalised"
+      ],
+      "recycling": [
+        "recycling not collected", "recycling bin", "recycle missed", "green bin"
+      ],
+      "bulky": [
+        "furniture dumped", "appliance dumped", "bulky waste", "old furniture",
+        "old appliance", "couch dumped", "fridge dumped"
+      ]
+    }
+  },
+
+  "health": {
+    "base_terms": ["health", "clinic", "hospital", "medical", "doctor", "nurse", "patient"],
+    "issue_types": {
+      "service": [
+        "clinic closed", "no doctor", "long queue", "refused treatment",
+        "medicine not available", "clinic not open", "medical service"
+      ],
+      "staff": [
+        "rude nurse", "rude doctor", "staff attitude", "unprofessional staff",
+        "health worker rude"
+      ],
+      "facility": [
+        "clinic dirty", "broken equipment", "no equipment", "clinic maintenance"
+      ]
+    }
+  },
+
+  "billing": {
+    "base_terms": ["bill", "account", "rates", "invoice", "statement", "payment", "charge"],
+    "issue_types": {
+      "incorrect": [
+        "wrong bill", "incorrect charge", "overcharged", "billing error",
+        "wrong amount", "incorrect account", "dispute bill"
+      ],
+      "statement": [
+        "no statement", "statement not received", "account statement",
+        "billing statement"
+      ],
+      "payment": [
+        "payment not reflecting", "payment not processed", "paid but still owing",
+        "payment arrangement", "payment plan"
+      ]
+    }
+  },
+
+  "emergency": {
+    "base_terms": ["emergency", "urgent", "danger", "hazard", "fire", "accident"],
+    "issue_types": {
+      "fire": [
+        "fire", "burning", "fire hazard", "house fire", "veld fire", "flames"
+      ],
+      "accident": [
+        "accident", "car accident", "vehicle accident", "crash", "collision"
+      ],
+      "hazard": [
+        "danger", "hazard", "unsafe", "dangerous", "public safety", "risk"
+      ]
+    }
+  }
+}

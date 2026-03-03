@@ -1,0 +1,1189 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 2,
+      "original_call_type_name": "DISPOSAL OF THE DEAD(HUMAN)"
+    },
+    "call_type_code": "40047",
+    "department": "Routine Sampling Request",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Disposal of the dead(human)",
+    "short_description": "Sampling Request",
+    "intent_bucket": "health",
+    "keywords": [
+      "disposal of",
+      "the dead",
+      "dead human",
+      "human sampling",
+      "sampling request",
+      "request fix",
+      "fix my",
+      "my city",
+      "disposal of the",
+      "of the dead",
+      "the dead human",
+      "dead human sampling",
+      "human sampling request",
+      "sampling request fix",
+      "request fix my"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my disposal of the",
+      "I have disposal of the",
+      "there is disposal of the"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 3,
+      "original_call_type_name": "CERTIFICATE OF ACCEPTABILITY"
+    },
+    "call_type_code": "40048",
+    "department": "Contamination Complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Certificate of acceptability",
+    "short_description": "Contamination Complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "certificate of",
+      "of acceptability",
+      "acceptability contamination",
+      "contamination complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "certificate of acceptability",
+      "of acceptability contamination",
+      "acceptability contamination complaint",
+      "contamination complaint fix",
+      "complaint fix my",
+      "fix my city",
+      "certificate",
+      "acceptability"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my certificate of acceptability",
+      "I have certificate of acceptability",
+      "there is certificate of acceptability"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 4,
+      "original_call_type_name": "WATER SAMPLING"
+    },
+    "call_type_code": "40049",
+    "department": "Water Source Inspection",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Water sampling",
+    "short_description": "Water Inspection",
+    "intent_bucket": "water",
+    "keywords": [
+      "water sampling",
+      "sampling water",
+      "water inspection",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "water sampling water",
+      "sampling water inspection",
+      "water inspection fix",
+      "inspection fix my",
+      "fix my city",
+      "water",
+      "sampling",
+      "inspection",
+      "fix"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my water sampling water",
+      "I have water sampling water",
+      "there is water sampling water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 5,
+      "original_call_type_name": "FOOD SAMPLING"
+    },
+    "call_type_code": "40050",
+    "department": "Water Quality Incident",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Food sampling",
+    "short_description": "Water Quality",
+    "intent_bucket": "water",
+    "keywords": [
+      "food sampling",
+      "sampling water",
+      "water quality",
+      "quality fix",
+      "fix my",
+      "my city",
+      "food sampling water",
+      "sampling water quality",
+      "water quality fix",
+      "quality fix my",
+      "fix my city",
+      "food",
+      "sampling",
+      "water",
+      "quality"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my food sampling water",
+      "I have food sampling water",
+      "there is food sampling water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 6,
+      "original_call_type_name": "FOOD LABELING"
+    },
+    "call_type_code": "40051",
+    "department": "Training request on water quality",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Food labeling",
+    "short_description": "Water quality training",
+    "intent_bucket": "water",
+    "keywords": [
+      "food labeling",
+      "labeling water",
+      "water quality",
+      "quality training",
+      "training fix",
+      "fix my",
+      "my city",
+      "food labeling water",
+      "labeling water quality",
+      "water quality training",
+      "quality training fix",
+      "training fix my",
+      "fix my city",
+      "food",
+      "labeling"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste"
+    ],
+    "example_user_utterances": [
+      "my food labeling water",
+      "I have food labeling water",
+      "there is food labeling water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 7,
+      "original_call_type_name": "FOOD EXPORT PERMIT"
+    },
+    "call_type_code": "40052",
+    "department": "Food Premises Inspection",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Food export permit",
+    "short_description": "Food Inspection",
+    "intent_bucket": "health",
+    "keywords": [
+      "food export",
+      "export permit",
+      "permit food",
+      "food inspection",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "food export permit",
+      "export permit food",
+      "permit food inspection",
+      "food inspection fix",
+      "inspection fix my",
+      "fix my city",
+      "food",
+      "export"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my food export permit",
+      "I have food export permit",
+      "there is food export permit"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 8,
+      "original_call_type_name": "HAZARDOUS / MEDICAL WASTE"
+    },
+    "call_type_code": "40053",
+    "department": "Foodborne Illness Complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Hazardous / medical waste",
+    "short_description": "Foodborne Illness",
+    "intent_bucket": "health",
+    "keywords": [
+      "hazardous medical",
+      "medical waste",
+      "waste foodborne",
+      "foodborne illness",
+      "illness fix",
+      "fix my",
+      "my city",
+      "hazardous medical waste",
+      "medical waste foodborne",
+      "waste foodborne illness",
+      "foodborne illness fix",
+      "illness fix my",
+      "fix my city",
+      "hazardous",
+      "medical"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my hazardous / medical",
+      "I have hazardous / medical",
+      "there is hazardous / medical"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 9,
+      "original_call_type_name": "INVESTIGATE DISPOSAL / SPILLAGE OF WASTE"
+    },
+    "call_type_code": "40054",
+    "department": "Expired/Unsafe Food Report",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate disposal / spillage of waste",
+    "short_description": "Food Report",
+    "intent_bucket": "health",
+    "keywords": [
+      "investigate disposal",
+      "disposal spillage",
+      "spillage of",
+      "of waste",
+      "waste food",
+      "food report",
+      "report fix",
+      "fix my",
+      "my city",
+      "investigate disposal spillage",
+      "disposal spillage of",
+      "spillage of waste",
+      "of waste food",
+      "waste food report",
+      "food report fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my investigate disposal /",
+      "I have investigate disposal /",
+      "there is investigate disposal /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 10,
+      "original_call_type_name": "INVESTIGATE SPILLAGE OF CHEMICAL WASTE"
+    },
+    "call_type_code": "40055",
+    "department": "Food Vendor Licensing Request",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigate spillage of chemical waste",
+    "short_description": "Vendor Licensing",
+    "intent_bucket": "health",
+    "keywords": [
+      "investigate spillage",
+      "spillage of",
+      "of chemical",
+      "chemical waste",
+      "waste vendor",
+      "vendor licensing",
+      "licensing fix",
+      "fix my",
+      "my city",
+      "investigate spillage of",
+      "spillage of chemical",
+      "of chemical waste",
+      "chemical waste vendor",
+      "waste vendor licensing",
+      "vendor licensing fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my investigate spillage of",
+      "I have investigate spillage of",
+      "there is investigate spillage of"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 11,
+      "original_call_type_name": "FOOD PREMISES / VEHICLE INSPECTION"
+    },
+    "call_type_code": "40056",
+    "department": "Food Recall",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Food premises / vehicle inspection",
+    "short_description": "Food Recall",
+    "intent_bucket": "health",
+    "keywords": [
+      "food premises",
+      "premises vehicle",
+      "vehicle inspection",
+      "inspection food",
+      "food recall",
+      "recall fix",
+      "fix my",
+      "my city",
+      "food premises vehicle",
+      "premises vehicle inspection",
+      "vehicle inspection food",
+      "inspection food recall",
+      "food recall fix",
+      "recall fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my food premises /",
+      "I have food premises /",
+      "there is food premises /"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 12,
+      "original_call_type_name": "INFORMAL FOOD TRADERS"
+    },
+    "call_type_code": "40057",
+    "department": "Training request on food control",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Informal food traders",
+    "short_description": "Food control training",
+    "intent_bucket": "health",
+    "keywords": [
+      "informal food",
+      "food traders",
+      "traders food",
+      "food control",
+      "control training",
+      "training fix",
+      "fix my",
+      "my city",
+      "informal food traders",
+      "food traders food",
+      "traders food control",
+      "food control training",
+      "control training fix",
+      "training fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my informal food traders",
+      "I have informal food traders",
+      "there is informal food traders"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 13,
+      "original_call_type_name": "REFUSE AREA ISSUE"
+    },
+    "call_type_code": "40058",
+    "department": "Illegal Dumping Report",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Refuse area issue",
+    "short_description": "Env. Health Illegal Dumping",
+    "intent_bucket": "health",
+    "keywords": [
+      "refuse area",
+      "area issue",
+      "issue env",
+      "env health",
+      "health illegal",
+      "illegal dumping",
+      "dumping fix",
+      "fix my",
+      "my city",
+      "refuse area issue",
+      "area issue env",
+      "issue env health",
+      "env health illegal",
+      "health illegal dumping",
+      "illegal dumping fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my refuse area issue",
+      "I have refuse area issue",
+      "there is refuse area issue"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 14,
+      "original_call_type_name": "REQUEST TRAINING - ENVIRONMENTAL HEALTH"
+    },
+    "call_type_code": "40059",
+    "department": "Hazardous Waste Disposal incident",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Training - environmental health",
+    "short_description": "Waste Disposal",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request training",
+      "training environmental",
+      "environmental health",
+      "health waste",
+      "waste disposal",
+      "disposal fix",
+      "fix my",
+      "my city",
+      "request training environmental",
+      "training environmental health",
+      "environmental health waste",
+      "health waste disposal",
+      "waste disposal fix",
+      "disposal fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request training -",
+      "I have request training -",
+      "there is request training -"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 15,
+      "original_call_type_name": "CONTRAVENTIONS OF TOBACCO CONTROL ACT"
+    },
+    "call_type_code": "40060",
+    "department": "Waste Facility Inspection",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Contraventions of tobacco control act",
+    "short_description": "Facility Inspection",
+    "intent_bucket": "waste",
+    "keywords": [
+      "contraventions of",
+      "of tobacco",
+      "tobacco control",
+      "control act",
+      "act facility",
+      "facility inspection",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "contraventions of tobacco",
+      "of tobacco control",
+      "tobacco control act",
+      "control act facility",
+      "act facility inspection",
+      "facility inspection fix"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my contraventions of tobacco",
+      "I have contraventions of tobacco",
+      "there is contraventions of tobacco"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 16,
+      "original_call_type_name": "POOR AIR QUALITY"
+    },
+    "call_type_code": "40061",
+    "department": "Recycling complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "Poor air quality",
+    "short_description": "Recycling complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "poor air",
+      "air quality",
+      "quality recycling",
+      "recycling complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "poor air quality",
+      "air quality recycling",
+      "quality recycling complaint",
+      "recycling complaint fix",
+      "complaint fix my",
+      "fix my city",
+      "poor",
+      "air"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my poor air quality",
+      "I have poor air quality",
+      "there is poor air quality"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 17,
+      "original_call_type_name": "SUSPECTED FOOD POISONING"
+    },
+    "call_type_code": "40062",
+    "department": "Training request on waste management",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Suspected food poisoning",
+    "short_description": "Waste management training",
+    "intent_bucket": "waste",
+    "keywords": [
+      "suspected food",
+      "food poisoning",
+      "poisoning waste",
+      "waste management",
+      "management training",
+      "training fix",
+      "fix my",
+      "my city",
+      "suspected food poisoning",
+      "food poisoning waste",
+      "poisoning waste management",
+      "waste management training",
+      "management training fix",
+      "training fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my suspected food poisoning",
+      "I have suspected food poisoning",
+      "there is suspected food poisoning"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 18,
+      "original_call_type_name": "REPORT OUTBREAK (CHOLERA, DIARRHEA ETC)"
+    },
+    "call_type_code": "40063",
+    "department": "General Premises Health Inspection",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Outbreak (cholera, diarrhea etc)",
+    "short_description": "Premises Health Inspection",
+    "intent_bucket": "health",
+    "keywords": [
+      "report outbreak",
+      "outbreak cholera",
+      "cholera diarrhea",
+      "diarrhea etc",
+      "etc premises",
+      "premises health",
+      "health inspection",
+      "inspection fix",
+      "fix my",
+      "my city",
+      "report outbreak cholera",
+      "outbreak cholera diarrhea",
+      "cholera diarrhea etc",
+      "diarrhea etc premises",
+      "etc premises health"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my report outbreak (cholera,",
+      "I have report outbreak (cholera,",
+      "there is report outbreak (cholera,"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 19,
+      "original_call_type_name": "BOREHOLE WATER ISSUES"
+    },
+    "call_type_code": "40064",
+    "department": "Overcrowding Complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Borehole water issues",
+    "short_description": "Overcrowding Complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "borehole water",
+      "water issues",
+      "issues overcrowding",
+      "overcrowding complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "borehole water issues",
+      "water issues overcrowding",
+      "issues overcrowding complaint",
+      "overcrowding complaint fix",
+      "complaint fix my",
+      "fix my city",
+      "borehole",
+      "water"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my borehole water issues",
+      "I have borehole water issues",
+      "there is borehole water issues"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 20,
+      "original_call_type_name": "CHEMICAL POISONING"
+    },
+    "call_type_code": "40065",
+    "department": "Unhygienic Conditions complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Chemical poisoning",
+    "short_description": "Unhygienic Conditions",
+    "intent_bucket": "health",
+    "keywords": [
+      "chemical poisoning",
+      "poisoning unhygienic",
+      "unhygienic conditions",
+      "conditions fix",
+      "fix my",
+      "my city",
+      "chemical poisoning unhygienic",
+      "poisoning unhygienic conditions",
+      "unhygienic conditions fix",
+      "conditions fix my",
+      "fix my city",
+      "chemical",
+      "poisoning",
+      "unhygienic",
+      "conditions"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my chemical poisoning unhygienic",
+      "I have chemical poisoning unhygienic",
+      "there is chemical poisoning unhygienic"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 21,
+      "original_call_type_name": "REQUEST TO INSPECT WASTE SITE"
+    },
+    "call_type_code": "40066",
+    "department": "Business Licensing",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "To inspect waste site",
+    "short_description": "Business Licensing",
+    "intent_bucket": "transport",
+    "keywords": [
+      "request to",
+      "to inspect",
+      "inspect waste",
+      "waste site",
+      "site business",
+      "business licensing",
+      "licensing fix",
+      "fix my",
+      "my city",
+      "request to inspect",
+      "to inspect waste",
+      "inspect waste site",
+      "waste site business",
+      "site business licensing",
+      "business licensing fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request to inspect",
+      "I have request to inspect",
+      "there is request to inspect"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 22,
+      "original_call_type_name": "REQUEST INSPECTION OF PREMISES"
+    },
+    "call_type_code": "40067",
+    "department": "Non-compliant premise to public health by-laws",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Inspection of premises",
+    "short_description": "Non-compliant premise",
+    "intent_bucket": "health",
+    "keywords": [
+      "request inspection",
+      "inspection of",
+      "of premises",
+      "premises non",
+      "non compliant",
+      "compliant premise",
+      "premise fix",
+      "fix my",
+      "my city",
+      "request inspection of",
+      "inspection of premises",
+      "of premises non",
+      "premises non compliant",
+      "non compliant premise",
+      "compliant premise fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request inspection of",
+      "I have request inspection of",
+      "there is request inspection of"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 23,
+      "original_call_type_name": "REQUEST INVESTIGATION OF PESTS"
+    },
+    "call_type_code": "40068",
+    "department": "Training request on compliance to Environmental Health legislation",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation of pests",
+    "short_description": "Environmental Health legislation",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation of",
+      "of pests",
+      "pests environmental",
+      "environmental health",
+      "health legislation",
+      "legislation fix",
+      "fix my",
+      "my city",
+      "request investigation of",
+      "investigation of pests",
+      "of pests environmental",
+      "pests environmental health",
+      "environmental health legislation",
+      "health legislation fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation of",
+      "I have request investigation of",
+      "there is request investigation of"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 24,
+      "original_call_type_name": "REQUEST INVESTIGATION AIR POLLUTION"
+    },
+    "call_type_code": "40069",
+    "department": "Rodent Infestation Complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation air pollution",
+    "short_description": "Rats/Mice complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation air",
+      "air pollution",
+      "pollution rats",
+      "rats mice",
+      "mice complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "request investigation air",
+      "investigation air pollution",
+      "air pollution rats",
+      "pollution rats mice",
+      "rats mice complaint",
+      "mice complaint fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation air",
+      "I have request investigation air",
+      "there is request investigation air"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 25,
+      "original_call_type_name": "REQUEST INVESTIGATION LAND POLLUTION"
+    },
+    "call_type_code": "40070",
+    "department": "Vector Surveillance Request",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation land pollution",
+    "short_description": "Biting insect complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation land",
+      "land pollution",
+      "pollution biting",
+      "biting insect",
+      "insect complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "request investigation land",
+      "investigation land pollution",
+      "land pollution biting",
+      "pollution biting insect",
+      "biting insect complaint",
+      "insect complaint fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation land",
+      "I have request investigation land",
+      "there is request investigation land"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 26,
+      "original_call_type_name": "REQUEST INVESTIGATION SOIL POLLUTION"
+    },
+    "call_type_code": "40071",
+    "department": "Pest Control information Request",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation soil pollution",
+    "short_description": "Information request",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation soil",
+      "soil pollution",
+      "pollution information",
+      "information request",
+      "request fix",
+      "fix my",
+      "my city",
+      "request investigation soil",
+      "investigation soil pollution",
+      "soil pollution information",
+      "pollution information request",
+      "information request fix",
+      "request fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation soil",
+      "I have request investigation soil",
+      "there is request investigation soil"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 27,
+      "original_call_type_name": "REQUEST INVESTIGATION WATER POLLUTION"
+    },
+    "call_type_code": "40072",
+    "department": "Other pest infestation complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation water pollution",
+    "short_description": "Pest infestation complaint",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation water",
+      "water pollution",
+      "pollution pest",
+      "pest infestation",
+      "infestation complaint",
+      "complaint fix",
+      "fix my",
+      "my city",
+      "request investigation water",
+      "investigation water pollution",
+      "water pollution pest",
+      "pollution pest infestation",
+      "pest infestation complaint",
+      "infestation complaint fix"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation water",
+      "I have request investigation water",
+      "there is request investigation water"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 28,
+      "original_call_type_name": "ILLEGAL DUMPING"
+    },
+    "call_type_code": "40073",
+    "department": "Training request on Vector control",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal dumping",
+    "short_description": "Vector control training",
+    "intent_bucket": "health",
+    "keywords": [
+      "illegal dumping",
+      "dumping vector",
+      "vector control",
+      "control training",
+      "training fix",
+      "fix my",
+      "my city",
+      "illegal dumping vector",
+      "dumping vector control",
+      "vector control training",
+      "control training fix",
+      "training fix my",
+      "fix my city",
+      "illegal",
+      "dumping"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my illegal dumping vector",
+      "I have illegal dumping vector",
+      "there is illegal dumping vector"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 29,
+      "original_call_type_name": "REQUEST FOR BUSINESS LICENCES"
+    },
+    "call_type_code": "40074",
+    "department": "Air Quality Complaint",
+    "service_group": "FIX MY CITY",
+    "issue_category": "quality",
+    "issue_type": "For business licences",
+    "short_description": "Air Quality",
+    "intent_bucket": "health",
+    "keywords": [
+      "request for",
+      "for business",
+      "business licences",
+      "licences air",
+      "air quality",
+      "quality fix",
+      "fix my",
+      "my city",
+      "request for business",
+      "for business licences",
+      "business licences air",
+      "licences air quality",
+      "air quality fix",
+      "quality fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request for business",
+      "I have request for business",
+      "there is request for business"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Environmental Health",
+      "row_number": 30,
+      "original_call_type_name": "REQUEST INVESTIGATION NOISE POLLUTION"
+    },
+    "call_type_code": "40075",
+    "department": "Noise Pollution Report",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Investigation noise pollution",
+    "short_description": "Noise Pollution",
+    "intent_bucket": "health",
+    "keywords": [
+      "request investigation",
+      "investigation noise",
+      "noise pollution",
+      "pollution noise",
+      "pollution fix",
+      "fix my",
+      "my city",
+      "request investigation noise",
+      "investigation noise pollution",
+      "noise pollution noise",
+      "pollution noise pollution",
+      "noise pollution fix",
+      "pollution fix my",
+      "fix my city",
+      "request"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my request investigation noise",
+      "I have request investigation noise",
+      "there is request investigation noise"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

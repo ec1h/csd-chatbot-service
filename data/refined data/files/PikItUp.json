@@ -1,0 +1,937 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 2,
+      "original_call_type_name": "DAILIES  NOT COLLECTED"
+    },
+    "call_type_code": "30002",
+    "department": "DAILIES  NOT COLLECTED",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Dailies  not collected",
+    "short_description": "DAILIES COLLECTION",
+    "intent_bucket": "waste",
+    "keywords": [
+      "dailies not",
+      "not collected",
+      "collected dailies",
+      "dailies collection",
+      "collection joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "dailies not collected",
+      "not collected dailies",
+      "collected dailies collection",
+      "dailies collection joburg",
+      "collection joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my dailies not collected",
+      "I have dailies not collected",
+      "there is dailies not collected"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 3,
+      "original_call_type_name": "INCREASE IN SERVICE"
+    },
+    "call_type_code": "30003",
+    "department": "INCREASE IN SERVICE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Increase in service",
+    "short_description": "SERVICE INCREASE",
+    "intent_bucket": "waste",
+    "keywords": [
+      "increase in",
+      "in service",
+      "service service",
+      "service increase",
+      "increase joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "increase in service",
+      "in service service",
+      "service service increase",
+      "service increase joburg",
+      "increase joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my increase in service",
+      "I have increase in service",
+      "there is increase in service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 4,
+      "original_call_type_name": "NO REFUSE CHARGE: COMMERCIAL"
+    },
+    "call_type_code": "30004",
+    "department": "NO REFUSE CHARGE: COMMERCIAL",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "No refuse charge: commercial",
+    "short_description": "NO REFUSE CHARGE(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "no refuse",
+      "refuse charge",
+      "charge commercial",
+      "commercial no",
+      "charge comm",
+      "comm joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "no refuse charge",
+      "refuse charge commercial",
+      "charge commercial no",
+      "commercial no refuse",
+      "refuse charge comm",
+      "charge comm joburg"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my no refuse",
+      "I have no refuse",
+      "there is no refuse"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 5,
+      "original_call_type_name": "QUERY BIN CHARGE: COMMERCIAL"
+    },
+    "call_type_code": "30005",
+    "department": "QUERY BIN CHARGE: COMMERCIAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Query bin charge: commercial",
+    "short_description": "BIN CHARGE QUERY(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "query bin",
+      "bin charge",
+      "charge commercial",
+      "commercial bin",
+      "charge query",
+      "query comm",
+      "comm fix",
+      "fix my",
+      "my city",
+      "query bin charge",
+      "bin charge commercial",
+      "charge commercial bin",
+      "commercial bin charge",
+      "bin charge query",
+      "charge query comm"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my query bin charge:",
+      "I have query bin charge:",
+      "there is query bin charge:"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 6,
+      "original_call_type_name": "PIKITUP DEAD ANIMALS"
+    },
+    "call_type_code": "30006",
+    "department": "PIKITUP DEAD ANIMALS REMOVAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Pikitup dead animals",
+    "short_description": "DEAD ANIMAL REMOVAL",
+    "intent_bucket": "waste",
+    "keywords": [
+      "pikitup dead",
+      "dead animals",
+      "animals dead",
+      "dead animal",
+      "animal removal",
+      "removal fix",
+      "fix my",
+      "my city",
+      "pikitup dead animals",
+      "dead animals dead",
+      "animals dead animal",
+      "dead animal removal",
+      "animal removal fix",
+      "removal fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my pikitup dead animals",
+      "I have pikitup dead animals",
+      "there is pikitup dead animals"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 7,
+      "original_call_type_name": "REPLACEMENT OF STOLEN 240L BIN- COMM"
+    },
+    "call_type_code": "30007",
+    "department": "REPLACEMENT OF STOLEN 240L BIN COMMERCIAL",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Replacement of stolen 240l bin- comm",
+    "short_description": "REPLACE BIN(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "replacement of",
+      "of stolen",
+      "stolen 240l",
+      "240l bin",
+      "bin comm",
+      "comm replace",
+      "replace bin",
+      "comm joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "replacement of stolen",
+      "of stolen 240l",
+      "stolen 240l bin",
+      "240l bin comm"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my replacement of stolen",
+      "I have replacement of stolen",
+      "there is replacement of stolen"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 8,
+      "original_call_type_name": "REPORT DAMAGED 240L BIN - COMMERCIAL"
+    },
+    "call_type_code": "30008",
+    "department": "REPORT DAMAGED 240L BIN COMMERCIAL",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Damaged 240l bin - commercial",
+    "short_description": "DAMAGED BIN(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "report damaged",
+      "damaged 240l",
+      "240l bin",
+      "bin commercial",
+      "commercial damaged",
+      "damaged bin",
+      "bin comm",
+      "comm fix",
+      "fix my",
+      "my city",
+      "report damaged 240l",
+      "damaged 240l bin",
+      "240l bin commercial",
+      "bin commercial damaged",
+      "commercial damaged bin"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my report damage",
+      "I have report damage",
+      "there is report damage"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 9,
+      "original_call_type_name": "REQUEST 240L BIN:  NEW SERVICE (COMMERCIAL)"
+    },
+    "call_type_code": "30009",
+    "department": "REQUEST 240L BIN : NEW SERVICE (COMMERCIAL)",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "240l bin:  new service (commercial)",
+    "short_description": "NEW BIN(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request 240l",
+      "240l bin",
+      "bin new",
+      "new service",
+      "service commercial",
+      "commercial new",
+      "new bin",
+      "bin comm",
+      "comm joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request 240l bin",
+      "240l bin new",
+      "bin new service"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request 240l bin:",
+      "I have request 240l bin:",
+      "there is request 240l bin:"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 10,
+      "original_call_type_name": "REQUEST ADDITIONAL 240L BIN:COMMERCIAL"
+    },
+    "call_type_code": "30010",
+    "department": "REQUEST ADDITIONAL 240L BIN - COMMERCIAL",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Additional 240l bin:commercial",
+    "short_description": "ADDITIONAL BIN(COMM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request additional",
+      "additional 240l",
+      "240l bin",
+      "bin commercial",
+      "commercial additional",
+      "additional bin",
+      "bin comm",
+      "comm joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request additional 240l",
+      "additional 240l bin",
+      "240l bin commercial",
+      "bin commercial additional"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request additional 240l",
+      "I have request additional 240l",
+      "there is request additional 240l"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 11,
+      "original_call_type_name": "REPLACEMENT OF STOLEN 240L BIN-DOMESTIC"
+    },
+    "call_type_code": "30011",
+    "department": "REPLACEMENT OF STOLEN 240L BIN-DOMESTIC",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Replacement of stolen 240l bin-domestic",
+    "short_description": "REPLACEMENT OF STOLEN 240L BIN-DOMESTIC",
+    "intent_bucket": "waste",
+    "keywords": [
+      "replacement of",
+      "of stolen",
+      "stolen 240l",
+      "240l bin",
+      "bin domestic",
+      "domestic replacement",
+      "domestic joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "replacement of stolen",
+      "of stolen 240l",
+      "stolen 240l bin",
+      "240l bin domestic",
+      "bin domestic replacement"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my replacement of stolen",
+      "I have replacement of stolen",
+      "there is replacement of stolen"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 12,
+      "original_call_type_name": "REPORT DAMAGED 240L BIN - DOMESTIC"
+    },
+    "call_type_code": "30012",
+    "department": "REPORT DAMAGED 240L BIN- DOMESTIC",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "damage",
+    "issue_type": "Damaged 240l bin - domestic",
+    "short_description": "DAMAGED BIN(DOM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "report damaged",
+      "damaged 240l",
+      "240l bin",
+      "bin domestic",
+      "domestic damaged",
+      "damaged bin",
+      "bin dom",
+      "dom joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "report damaged 240l",
+      "damaged 240l bin",
+      "240l bin domestic",
+      "bin domestic damaged"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my report damage",
+      "I have report damage",
+      "there is report damage"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 13,
+      "original_call_type_name": "REQUEST 240L BIN: NEW SERVICE (DOMESTIC)"
+    },
+    "call_type_code": "30013",
+    "department": "REQUEST 240L BIN : NEW SERVICE (DOMESTIC)",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "240l bin: new service (domestic)",
+    "short_description": "NEW BIN(DOM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request 240l",
+      "240l bin",
+      "bin new",
+      "new service",
+      "service domestic",
+      "domestic new",
+      "new bin",
+      "bin dom",
+      "dom joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request 240l bin",
+      "240l bin new",
+      "bin new service"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request 240l bin:",
+      "I have request 240l bin:",
+      "there is request 240l bin:"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 14,
+      "original_call_type_name": "REQUEST ADDITIONAL 240L BIN: DOMESTIC"
+    },
+    "call_type_code": "30014",
+    "department": "REQUEST ADDITIONAL 240L BIN - DOMESTIC",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Additional 240l bin: domestic",
+    "short_description": "ADDITIONAL BIN(DOM)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request additional",
+      "additional 240l",
+      "240l bin",
+      "bin domestic",
+      "domestic additional",
+      "additional bin",
+      "bin dom",
+      "dom joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request additional 240l",
+      "additional 240l bin",
+      "240l bin domestic",
+      "bin domestic additional"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request additional 240l",
+      "I have request additional 240l",
+      "there is request additional 240l"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 15,
+      "original_call_type_name": "BULK CONTAINER TO BE EMPTIED"
+    },
+    "call_type_code": "30015",
+    "department": "BULK CONTAINER TO BE EMPTIED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bulk container to be emptied",
+    "short_description": "EMPTY CONTAINER",
+    "intent_bucket": "waste",
+    "keywords": [
+      "bulk container",
+      "container to",
+      "to be",
+      "be emptied",
+      "emptied empty",
+      "empty container",
+      "container fix",
+      "fix my",
+      "my city",
+      "bulk container to",
+      "container to be",
+      "to be emptied",
+      "be emptied empty",
+      "emptied empty container",
+      "empty container fix"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my bulk container to",
+      "I have bulk container to",
+      "there is bulk container to"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 16,
+      "original_call_type_name": "STREET NOT CLEANED"
+    },
+    "call_type_code": "30016",
+    "department": "STREET NOT CLEANED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Street not cleaned",
+    "short_description": "STREET CLEANING",
+    "intent_bucket": "waste",
+    "keywords": [
+      "street not",
+      "not cleaned",
+      "cleaned street",
+      "street cleaning",
+      "cleaning fix",
+      "fix my",
+      "my city",
+      "street not cleaned",
+      "not cleaned street",
+      "cleaned street cleaning",
+      "street cleaning fix",
+      "cleaning fix my",
+      "fix my city",
+      "street",
+      "not"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my street not cleaned",
+      "I have street not cleaned",
+      "there is street not cleaned"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 17,
+      "original_call_type_name": "CANCELLATION IN SERVICE"
+    },
+    "call_type_code": "30017",
+    "department": "CANCELATION IN SERVICE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Cancellation in service",
+    "short_description": "CANCEL SERVICE",
+    "intent_bucket": "waste",
+    "keywords": [
+      "cancellation in",
+      "in service",
+      "service cancel",
+      "cancel service",
+      "service joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "cancellation in service",
+      "in service cancel",
+      "service cancel service",
+      "cancel service joburg",
+      "service joburg services",
+      "joburg services service",
+      "services service request"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my cancellation in service",
+      "I have cancellation in service",
+      "there is cancellation in service"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 18,
+      "original_call_type_name": "REQUEST BULK CONTAINER - NEW SERVICE"
+    },
+    "call_type_code": "30018",
+    "department": "REQUEST BULK CONTAINER - NEW SERVICE",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "maintenance",
+    "issue_type": "Bulk container - new service",
+    "short_description": "NEW CONTAINER",
+    "intent_bucket": "waste",
+    "keywords": [
+      "request bulk",
+      "bulk container",
+      "container new",
+      "new service",
+      "service new",
+      "new container",
+      "container joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "request bulk container",
+      "bulk container new",
+      "container new service",
+      "new service new",
+      "service new container"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my request bulk container",
+      "I have request bulk container",
+      "there is request bulk container"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 19,
+      "original_call_type_name": "COLLECTIONS NOT PICKED UP"
+    },
+    "call_type_code": "30019",
+    "department": "COLLECTIONS NOT PICKED UP",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Collections not picked up",
+    "short_description": "MISSED COLLECTION",
+    "intent_bucket": "waste",
+    "keywords": [
+      "collections not",
+      "not picked",
+      "picked up",
+      "up missed",
+      "missed collection",
+      "collection fix",
+      "fix my",
+      "my city",
+      "collections not picked",
+      "not picked up",
+      "picked up missed",
+      "up missed collection",
+      "missed collection fix",
+      "collection fix my",
+      "fix my city"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my collections not picked",
+      "I have collections not picked",
+      "there is collections not picked"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 20,
+      "original_call_type_name": "BIN NOT COLLECTED"
+    },
+    "call_type_code": "30024",
+    "department": "BIN NOT COLLECTED",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Bin not collected",
+    "short_description": "BIN NOT COLLECTED",
+    "intent_bucket": "waste",
+    "keywords": [
+      "bin not",
+      "not collected",
+      "collected bin",
+      "collected fix",
+      "fix my",
+      "my city",
+      "bin not collected",
+      "not collected bin",
+      "collected bin not",
+      "not collected fix",
+      "collected fix my",
+      "fix my city",
+      "bin",
+      "not",
+      "collected"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my bin not collected",
+      "I have bin not collected",
+      "there is bin not collected"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 21,
+      "original_call_type_name": "PIKITUP DAMAGE TO PROPERTY (DOMESTIC)"
+    },
+    "call_type_code": "30020",
+    "department": "PIKITUP DAMAGE TO PROPERTY (DOMESTIC)",
+    "service_group": "FIX MY CITY",
+    "issue_category": "damage",
+    "issue_type": "Pikitup damage to property (domestic)",
+    "short_description": "PROPERTY DAMAGED(PICKITUP) (DOMESTIC)",
+    "intent_bucket": "waste",
+    "keywords": [
+      "pikitup damage",
+      "damage to",
+      "to property",
+      "property domestic",
+      "domestic property",
+      "property damaged",
+      "damaged pickitup",
+      "pickitup domestic",
+      "domestic fix",
+      "fix my",
+      "my city",
+      "pikitup damage to",
+      "damage to property",
+      "to property domestic",
+      "property domestic property"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power",
+      "account",
+      "payment",
+      "bill",
+      "statement"
+    ],
+    "example_user_utterances": [
+      "my pikitup damage",
+      "I have pikitup damage",
+      "there is pikitup damage"
+    ],
+    "confidence_weight": 0.8999999999999999,
+    "min_confidence_required": 0.65
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "PikItUp",
+      "row_number": 22,
+      "original_call_type_name": "ILLEGAL DUMPING"
+    },
+    "call_type_code": "30021",
+    "department": "PIKITUP ILLEGAL DUMPING",
+    "service_group": "FIX MY CITY",
+    "issue_category": "maintenance",
+    "issue_type": "Illegal dumping",
+    "short_description": "ILLEGAL DUMPING",
+    "intent_bucket": "waste",
+    "keywords": [
+      "illegal dumping",
+      "dumping illegal",
+      "dumping fix",
+      "fix my",
+      "my city",
+      "illegal dumping illegal",
+      "dumping illegal dumping",
+      "illegal dumping fix",
+      "dumping fix my",
+      "fix my city",
+      "illegal",
+      "dumping",
+      "fix",
+      "city"
+    ],
+    "negative_keywords": [
+      "water",
+      "electricity",
+      "power"
+    ],
+    "example_user_utterances": [
+      "my illegal dumping illegal",
+      "I have illegal dumping illegal",
+      "there is illegal dumping illegal"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

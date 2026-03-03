@@ -1,0 +1,201 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 2,
+      "original_call_type_name": "Fire"
+    },
+    "call_type_code": "90001",
+    "department": "FIRE",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Fire",
+    "short_description": "FIRE",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "fire fire",
+      "fire emergency",
+      "fire fire emergency",
+      "fire",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my fire fire",
+      "I have fire fire",
+      "there is fire fire"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 3,
+      "original_call_type_name": "Flooding"
+    },
+    "call_type_code": "90002",
+    "department": "FLOODING",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Flooding",
+    "short_description": "FLOODING",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "flooding flooding",
+      "flooding emergency",
+      "flooding flooding emergency",
+      "flooding",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my flooding flooding",
+      "I have flooding flooding",
+      "there is flooding flooding"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 4,
+      "original_call_type_name": "Vehicle Accident (Motor Vehicle)"
+    },
+    "call_type_code": "90003",
+    "department": "VEHICLE ACCIDENT (MOTOR VEHICLE)",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Vehicle accident (motor vehicle)",
+    "short_description": "VEHICLE ACCIDENT (MOTOR VEHICLE)",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "vehicle accident",
+      "accident motor",
+      "motor vehicle",
+      "vehicle vehicle",
+      "vehicle emergency",
+      "vehicle accident motor",
+      "accident motor vehicle",
+      "motor vehicle vehicle",
+      "vehicle vehicle accident",
+      "motor vehicle emergency",
+      "vehicle",
+      "accident",
+      "motor",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my vehicle accident (motor",
+      "I have vehicle accident (motor",
+      "there is vehicle accident (motor"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 5,
+      "original_call_type_name": "Crime"
+    },
+    "call_type_code": "90004",
+    "department": "CRIME",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "Crime",
+    "short_description": "CRIME",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "crime crime",
+      "crime emergency",
+      "crime crime emergency",
+      "crime",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my crime crime",
+      "I have crime crime",
+      "there is crime crime"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 6,
+      "original_call_type_name": "Noise complaints"
+    },
+    "call_type_code": "90005",
+    "department": "NOISE COMPLAINTS",
+    "service_group": "Emergency",
+    "issue_category": "complaint",
+    "issue_type": "Noise complaints",
+    "short_description": "NOISE COMPLAINTS",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "noise complaints",
+      "complaints noise",
+      "complaints emergency",
+      "noise complaints noise",
+      "complaints noise complaints",
+      "noise complaints emergency",
+      "noise",
+      "complaints",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my noise complaints noise",
+      "I have noise complaints noise",
+      "there is noise complaints noise"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  },
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "EMS",
+      "row_number": 7,
+      "original_call_type_name": "By-Law violation"
+    },
+    "call_type_code": "90006",
+    "department": "BY-LAW VIOLATION",
+    "service_group": "Emergency",
+    "issue_category": "emergency",
+    "issue_type": "By-law violation",
+    "short_description": "BY-LAW VIOLATION",
+    "intent_bucket": "emergency",
+    "keywords": [
+      "by law",
+      "law violation",
+      "violation by",
+      "violation emergency",
+      "by law violation",
+      "law violation by",
+      "violation by law",
+      "law violation emergency",
+      "law",
+      "violation",
+      "emergency"
+    ],
+    "negative_keywords": [],
+    "example_user_utterances": [
+      "my by-law violation by-law",
+      "I have by-law violation by-law",
+      "there is by-law violation by-law"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]

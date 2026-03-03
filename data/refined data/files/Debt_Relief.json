@@ -1,0 +1,51 @@
+[
+  {
+    "source_reference": {
+      "file_name": "Copy_of_Copy_of_CRM_Call_Types_-_SERVICE_CATALOGUE_ServiceCategories_07_January_2026__V1_9.xlsx",
+      "sheet_name": "Debt Relief",
+      "row_number": 2,
+      "original_call_type_name": "Debt Relief"
+    },
+    "call_type_code": "101",
+    "department": "Debt Relief",
+    "service_group": "JOBURG SERVICES (Service Request)",
+    "issue_category": "billing",
+    "issue_type": "Debt relief",
+    "short_description": "Debt Relief",
+    "intent_bucket": "water",
+    "keywords": [
+      "debt relief",
+      "relief debt",
+      "relief joburg",
+      "joburg services",
+      "services service",
+      "service request",
+      "debt relief debt",
+      "relief debt relief",
+      "debt relief joburg",
+      "relief joburg services",
+      "joburg services service",
+      "services service request",
+      "debt",
+      "relief",
+      "joburg"
+    ],
+    "negative_keywords": [
+      "electricity",
+      "power",
+      "refuse",
+      "waste",
+      "broken",
+      "leak",
+      "burst",
+      "damage"
+    ],
+    "example_user_utterances": [
+      "my debt relief debt",
+      "I have debt relief debt",
+      "there is debt relief debt"
+    ],
+    "confidence_weight": 0.7999999999999999,
+    "min_confidence_required": 0.75
+  }
+]
