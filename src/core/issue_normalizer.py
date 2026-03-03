@@ -146,7 +146,7 @@ def normalize_issue_description(
         - If result is empty: returns original user_message
     """
     # Build conversation history context
-    # Accept either a CaseMemory/ContextMemory object or a plain list of messages
+    # Accept either a CaseMemory object or a plain list of messages
     conversation_history = ""
     if memory is None:
         messages = []

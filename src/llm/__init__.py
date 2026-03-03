@@ -1,1 +1,1 @@
-# LLM layer: retrieval and context analysis
+# LLM layer: retrieval (TF-IDF + optional embeddings) for scripts and tooling

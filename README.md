@@ -25,16 +25,16 @@ All request/response payloads are JSON. Authentication is via API key (header or
 **Core components:**
 
 - **API (`src/api/`)**: Route handlers (`endpoints.py`), API key verification (`dependencies.py`), middleware (CORS, request size limits, error handling), optional monitoring routes.
-- **Core (`src/core/`)**: Active orchestrator (`orchestrator.py`), enhanced LLM-driven orchestrator (`enhanced_orchestrator.py`), session manager, DSPy pipeline initialization, issue normalization, domain logic, slot/clarification logic.
-- **Classification (`src/classification/`)**: `SmartClassifier` with `direct_pattern_match` and TF-IDF semantic retrieval, optimized network-based classifier, embeddings, classifier service.
-- **LLM (`src/llm/`)**: `ContextAnalyzer` — retrieval-augmented LLM analysis with structured JSON output, location stripping before retrieval, prompt templates (`prompts/context_analyzer.txt`). `CallTypeRetriever` — TF-IDF-based candidate retrieval.
-- **Conversation (`src/conversation/`)**: State machine (`conversation_state.py`, `decision_engine.py`), `CaseMemory` (active orchestrator), `ContextMemory` (enhanced orchestrator), response generator, issue summary builder, domain/intent detection, frontend signal helpers.
+- **Core (`src/core/`)**: Orchestrator (`orchestrator.py`), session manager, DSPy pipeline, issue normalization, domain logic, slot/clarification logic.
+- **Classification (`src/classification/`)**: `SmartClassifier` (direct pattern match + TF-IDF/semantic), optimized network classifier, embeddings, classifier service.
+- **LLM (`src/llm/`)**: `CallTypeRetriever` (TF-IDF) in `retrieval.py` for scripts; main app uses classification pipeline and `dspy_pipeline` for LLM calls.
+- **Conversation (`src/conversation/`)**: State machine, `CaseMemory`, decision engine, response generator, domain/intent detection, frontend signals.
 - **Data (`src/database/`)**: PostgreSQL connection pool with retry logic and per-query statement timeouts.
 - **Config / Security / Utils (`src/config/`, `src/security/`, `src/utils/`)**: Settings, rate limiting, input sanitization, data loaders, helpers, analytics.
 
 **Conversation states:** `OPEN` → `ISSUE_BUILDING` → `AWAITING_CLARIFICATION` | `NEEDS_LOCATION` → `CONFIRMING` → `SUBMITTED`. The decision engine does not leave `SUBMITTED` and caps clarification turns to prevent infinite loops.
 
-**Location rule:** Location has exactly one source — the frontend map/address popup triggered when `needs_location: true` is returned. The `ContextAnalyzer` strips location phrases (e.g. "on the road", "near the park", "at 123 Main St") from user messages before classification so they never influence call-type matching or appear in `issue_summary`. The orchestrator never extracts or stores location from message text; all `memory.location` assignments come exclusively from `body.location` (the frontend popup payload).
+**Location rule:** Location has exactly one source — the frontend map/address popup triggered when `needs_location: true` is returned. The orchestrator never extracts or stores location from message text; all `memory.location` assignments come exclusively from `body.location` (the frontend popup payload).
 
 **Data flow:**
 
@@ -42,7 +42,7 @@ All request/response payloads are JSON. Authentication is via API key (header or
 User message → API (auth, sanitize) → session load
   → process_user_message (orchestrator.py)
       → SmartClassifier (direct_pattern_match → TF-IDF → LLM fallback)
-      → ContextAnalyzer (strip location → retrieve candidates → LLM → structured JSON)
+      → classification (pattern + keyword/semantic + optional LLM)
       → decision engine / state transition
   → session save → clean JSON response
 ```
@@ -91,7 +91,6 @@ Copy `.env.example` to `.env` and set the following variables.
 | Variable | Default | Description |
 |---|---|---|
 | `USE_OPTIMIZED_PIPELINE` | `true` | Use the network-based classifier. Set `false` for the legacy embedding pipeline. |
-| `USE_ENHANCED_ORCHESTRATOR` | `false` | Use the pure-LLM `EnhancedOrchestrator`. Default is the existing `orchestrator.py`. |
 | `MAX_CLARIFICATION_TURNS` | `3` | Maximum clarification exchanges before forcing state progression. |
 | `SESSION_TIMEOUT_MINUTES` | `30` | Session inactivity timeout. |
 | `LOG_LEVEL` | `INFO` | Logging verbosity. |
@@ -274,11 +273,6 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 ├── Dockerfile                     # Lambda/serverless build
 ├── Dockerfile.local               # Local / Docker Compose build
 ├── .gitignore
-├── memory-bank/                   # Project state tracking
-│   ├── current-state.txt          # Canonical state of all changes and golden rules
-│   ├── decisions.log
-│   ├── completed-steps.txt
-│   └── pending-steps.txt
 ├── data/
 │   ├── call-types-city-power.csv
 │   ├── call-types-joburg-water.csv
@@ -309,7 +303,6 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 │   │   ├── call_type_matcher.py
 │   │   ├── call_type_network.py
 │   │   ├── optimized_classifier.py
-│   │   ├── hierarchical_filter.py
 │   │   ├── domain_detector.py
 │   │   ├── semantic_concepts.py
 │   │   ├── embeddings.py
@@ -318,16 +311,13 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 │   ├── conversation/
 │   │   ├── conversation_state.py  # ConversationState enum
 │   │   ├── decision_engine.py     # State-transition rules
-│   │   ├── case_memory.py         # Session memory (active orchestrator)
-│   │   ├── context_memory.py      # Session memory (enhanced orchestrator)
+│   │   ├── case_memory.py         # Session memory
 │   │   ├── response_generator.py
-│   │   ├── issue_summary_builder.py
 │   │   ├── domain_detector.py
 │   │   ├── frontend_signals.py
 │   │   └── intent_detector.py
 │   ├── core/
-│   │   ├── orchestrator.py        # Active: messages → state machine
-│   │   ├── enhanced_orchestrator.py   # LLM-only path (USE_ENHANCED_ORCHESTRATOR=true)
+│   │   ├── orchestrator.py        # Messages → state machine
 │   │   ├── session_manager.py
 │   │   ├── domain_logic.py
 │   │   ├── issue_normalizer.py
@@ -338,18 +328,13 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 │   │   ├── intent_extraction.py
 │   │   └── circuit_breaker.py
 │   ├── llm/
-│   │   ├── context_analyzer.py    # Location stripping + retrieval + LLM analysis
-│   │   ├── retrieval.py           # CallTypeRetriever (TF-IDF cosine similarity)
-│   │   └── prompts/
-│   │       └── context_analyzer.txt
+│   │   └── retrieval.py           # CallTypeRetriever (TF-IDF), used by scripts
 │   ├── models/
 │   │   └── schemas.py             # Pydantic request/response models
 │   ├── database/
 │   │   ├── connection.py
 │   │   └── pool.py
 │   ├── security/
-│   │   ├── auth.py
-│   │   ├── rate_limiter.py
 │   │   └── input_sanitizer.py
 │   ├── config/
 │   │   └── settings.py
@@ -357,13 +342,10 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 │       ├── data_loader.py
 │       ├── optimized_loader.py
 │       ├── helpers.py
-│       ├── analytics.py
-│       ├── error_handling.py
 │       └── performance_monitor.py
 └── tests/
     ├── test_core.py               # Health, greeting, full flow, auth, validation
-    ├── test_all_classifications.py # All call-type classification coverage tests
-    └── test_context_awareness.py  # Context / pronoun-resolution tests
+    └── test_all_classifications.py # Call-type classification coverage tests
 ```
 
 ---
@@ -373,11 +355,11 @@ When `USE_OPTIMIZED_PIPELINE=true`, additional admin/monitoring routes are mount
 **Call-type resolution order (per message):**
 
 1. **Direct pattern match** — `smart_classifier.py` runs ~200 regex patterns mapped to validated call type codes from the taxonomy. Fastest path; no LLM required.
-2. **TF-IDF retrieval** — `CallTypeRetriever` strips location phrases from the message first, then retrieves the top-10 candidate call types by cosine similarity.
-3. **LLM analysis** — `ContextAnalyzer` sends the stripped message, conversation history, and retrieved candidates to GPT-4.1 via DSPy. Returns a structured JSON object with intent, issue extraction (location-free `issue_summary`), call-type candidates with confidence scores, and conversation guidance.
-4. **Fallback** — if the LLM times out or returns malformed output, a deterministic fallback based on domain keyword detection responds with a clarification prompt.
+2. **Keyword/semantic** — Optimized pipeline uses the network classifier (TF-IDF + embeddings) or legacy pipeline uses `call_type_matcher` + embeddings. Produces ranked candidates.
+3. **LLM fallback** — When needed, `smart_classifier` or `issue_normalizer` calls the DSPy pipeline (Azure OpenAI) for clarification or normalization.
+4. **Fallback** — If the LLM times out or returns malformed output, a deterministic fallback responds with a clarification prompt.
 
-**Location stripping rule:** Before retrieval and before the LLM prompt, `ContextAnalyzer.strip_location_from_issue()` removes common trailing location phrases (e.g. "on the road", "near the park", "outside the building") so classification is based purely on the issue type.
+**Location rule:** Location is collected only via the frontend map popup when `needs_location: true`. The orchestrator does not extract location from message text.
 
 ---
 

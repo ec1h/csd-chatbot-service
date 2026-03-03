@@ -28,8 +28,7 @@ def generate_api_key():
     salt_hex = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
     salt = bytes.fromhex(salt_hex)
     
-    # Generate hash using PBKDF2-HMAC-SHA256 (same as auth.py)
-    # This matches the algorithm in src/security/auth.py:82
+    # Generate hash using PBKDF2-HMAC-SHA256 (must match API key verification in dependencies.py)
     key_hash = hashlib.pbkdf2_hmac('sha256', SECRET.encode('utf-8'), salt, 100_000)
     
     return salt, key_hash

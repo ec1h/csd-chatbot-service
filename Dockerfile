@@ -1,20 +1,20 @@
-# Use AWS Lambda Python base image (Python 3.11 – change if you use 3.10)
-FROM public.ecr.aws/lambda/python:3.11
+FROM amazonlinux:2023
 
-# Optional: set working dir (Lambda uses /var/task by default)
-WORKDIR /var/task
+ENV PYTHONUNBUFFERED=1
 
-# Copy dependency file and install deps
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN yum update -y && \
+    yum install -y python3.11 python3.11-pip gcc gcc-c++ make && \
+    yum clean all && rm -rf /var/cache/yum
 
-# Copy the rest of the app code
+WORKDIR /app
+
+COPY requirements.txt constraints.txt ./
+
+RUN pip3.11 install --no-cache-dir --upgrade pip && \
+    pip3.11 install --no-cache-dir -r requirements.txt -c constraints.txt
+
 COPY . .
 
-# (Optional) default environment values – real ones should be set in Lambda config
-# ENV ENV=qa
-# ENV LOG_LEVEL=info
+EXPOSE 8001
 
-# Tell Lambda which handler to invoke: module.function
-# Here: lambda_app.py -> handler variable
-CMD ["lambda_app.handler"]
+CMD ["python3.11", "app.py"]

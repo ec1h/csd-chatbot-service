@@ -30,7 +30,7 @@ resource "aws_db_subnet_group" "main" {
 
 resource "aws_security_group" "rds" {
   name        = "${var.environment}-csd-chatbot-rds-sg"
-  description = "Security group for CSD Chatbot RDS — inbound PostgreSQL from VPC only"
+  description = "Security group for CSD Chatbot RDS - inbound PostgreSQL from VPC only" 
   vpc_id      = var.vpc_id
 
   ingress {
@@ -60,7 +60,7 @@ resource "aws_db_instance" "main" {
   identifier = "${var.environment}-csd-chatbot-db"
 
   engine         = "postgres"
-  engine_version = "15.4"
+  engine_version = "15.15" 
   instance_class = var.instance_class
 
   db_name  = "csd_chatbot"
