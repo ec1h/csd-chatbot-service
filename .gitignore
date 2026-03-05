@@ -72,3 +72,4 @@ lerna-debug.log*
 dist/
 build/
 *.tgz
+.github/environments/.env.*
