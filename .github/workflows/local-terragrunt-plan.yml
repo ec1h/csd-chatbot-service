@@ -3,10 +3,6 @@ name: Local Terragrunt Plan
 on:
   workflow_call:
     inputs:
-      env_vars:
-        required: false
-        type: string
-        default: ""
       terragrunt_dir:
         required: true
         type: string
@@ -21,8 +17,8 @@ jobs:
   plan:
     runs-on: ubuntu-latest
     permissions:
-      id-token: write
       contents: read
+      id-token: write
       pull-requests: write
     steps:
       - name: Checkout repository
@@ -46,6 +42,7 @@ jobs:
 
       - name: Terragrunt Plan
         working-directory: ${{ inputs.terragrunt_dir }}
+        env:
+          TF_VAR_service_version: ${{ github.ref_type == 'branch' && github.sha || github.ref_name }}
         run: |
-          export ${{ inputs.env_vars }}
           terragrunt plan -no-color -out=tfplan

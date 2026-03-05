@@ -4,6 +4,11 @@ on:
   push:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  id-token: write
+  pull-requests: write
+
 jobs:
   env-plans:
     strategy:
@@ -16,7 +21,7 @@ jobs:
 
     uses: ./.github/workflows/local-terragrunt-plan.yml
     with:
-      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }}"
       terragrunt_dir: "./iac/${{ matrix.component }}"
       terragrunt_version: 0.68.6
       terraform_version: 1.9.5
+    secrets: inherit
