@@ -11,6 +11,3 @@ inputs = {
   db_instance_identifier = "test-csd-chatbot-db"
 }
 
-dependency "secrets" {
-  config_path = "../secrets"
-}

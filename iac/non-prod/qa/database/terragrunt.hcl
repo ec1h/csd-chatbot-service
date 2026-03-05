@@ -11,6 +11,3 @@ inputs = {
   db_cluster_identifier = "csd-database-cluster-qa"
 }
 
-dependency "secrets" {
-  config_path = "../secrets"
-}
