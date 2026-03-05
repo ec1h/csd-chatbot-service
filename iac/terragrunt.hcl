@@ -3,8 +3,8 @@ terraform {
   extra_arguments "common_vars" {
     commands = get_terraform_commands_that_need_vars()
     arguments = [
-      "-var-file=${get_terragrunt_dir()}/${find_in_parent_folders("account.hcl")}",
-      "-var-file=${get_terragrunt_dir()}/env.hcl",
+      "-var-file=${find_in_parent_folders("account.hcl")}",
+      "-var-file=${find_in_parent_folders("env.hcl")}",
     ]
   }
 }

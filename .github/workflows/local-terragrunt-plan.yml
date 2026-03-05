@@ -44,5 +44,6 @@ jobs:
         working-directory: ${{ inputs.terragrunt_dir }}
         env:
           TF_VAR_service_version: ${{ github.ref_type == 'branch' && github.sha || github.ref_name }}
+          TERRAGRUNT_NON_INTERACTIVE: "true"
         run: |
           terragrunt plan -no-color -out=tfplan
