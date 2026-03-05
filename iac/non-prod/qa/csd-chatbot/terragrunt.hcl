@@ -23,7 +23,7 @@ inputs = {
   database_secret_arn  = dependency.database.outputs.secret_arn
   
   # Azure OpenAI (QA secrets - these need to be created!)
-  azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:qa/csd-chatbot/azure-openai-PLACEHOLDER"
+  azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:qa/csd-chatbot/azure-openai-NlSsQx"
   api_key_secret_arn   = "arn:aws:secretsmanager:af-south-1:905418043725:secret:qa/csd-chatbot/api-key-wKxYZu"  # This exists!
   
   azure_openai_endpoint = "https://ec1-azureopenai-askjo.openai.azure.com/"

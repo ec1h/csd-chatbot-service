@@ -23,7 +23,7 @@ inputs = {
   database_secret_arn  = dependency.database.outputs.secret_arn
   
   # Azure OpenAI (UAT secrets - need to be created!)
-  azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:uat/csd-chatbot/azure-openai-PLACEHOLDER"
+  azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:uat/csd-chatbot/azure-openai-quKKzB"
   api_key_secret_arn   = "arn:aws:secretsmanager:af-south-1:905418043725:secret:uat/csd-chatbot/api-key-VIbS9s"  # This exists!
   
   azure_openai_endpoint = "https://ec1-azureopenai-askjo.openai.azure.com/"
