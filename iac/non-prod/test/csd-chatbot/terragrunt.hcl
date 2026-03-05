@@ -8,10 +8,22 @@ terraform {
 
 dependency "vpc" {
   config_path = "../vpc"
+  
+  mock_outputs = {
+    vpc_id = "vpc-0c70f9c141381565b"
+    private_subnet_ids = ["subnet-04f62cb7b8d2a6f24", "subnet-05869d1467326e2d0"]
+    public_subnet_ids = ["subnet-0b05513511446451a", "subnet-00ebff1d7e7e64c05"]
+  }
+  mock_outputs_allowed_terraform_commands = ["plan", "validate"]
 }
 
 dependency "database" {
   config_path = "../database"
+  
+  mock_outputs = {
+    secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:test/csd-chatbot/database-W1NSjd"
+  }
+  mock_outputs_allowed_terraform_commands = ["plan", "validate"]
 }
 
 inputs = {
@@ -22,7 +34,7 @@ inputs = {
   public_subnet_ids    = dependency.vpc.outputs.public_subnet_ids
   database_secret_arn  = dependency.database.outputs.secret_arn
   
-  # Azure OpenAI (TEST exists)
+  # Azure OpenAI
   azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:test/csd-chatbot/azure-openai-xC9TFZ"
   api_key_secret_arn   = "arn:aws:secretsmanager:af-south-1:905418043725:secret:test/csd-chatbot/api-key-JoqAwN"
   
