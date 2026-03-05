@@ -17,7 +17,6 @@ jobs:
           - "non-prod/test/csd-chatbot"
           - "non-prod/qa/csd-chatbot"
           - "non-prod/uat/csd-chatbot"
-          - "prod/prod/csd-chatbot"
 
     uses: ./.github/workflows/local-terragrunt-plan.yml
     with:
