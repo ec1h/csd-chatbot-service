@@ -4,15 +4,20 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
 venv/
-ENV/
-.venv
-
-# Environment variables — NEVER commit real credentials
 .env
-.env.local
-.env.production
+.venv
+poetry.lock
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
 
 # IDE
 .vscode/
@@ -21,62 +26,49 @@ ENV/
 *.swo
 *~
 
-# Logs
-*.log
-logs/
-
-# Database
-*.db
-*.sqlite
-
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# Temporary files
-*.tmp
-*.bak
-*.swp
+# Cache directories
+.cache/
+*.pkl
+*.pickle
 
-# Generated / temp analysis files
-project_files.txt
-large_files.txt
-project_tree.txt
+# Local dev files
+Dockerfile.local
+docker-compose.override.yml
 
-# Test coverage
-.coverage
-htmlcov/
-.pytest_cache/
-
-# Test reports (keep .gitkeep)
-reports/*.html
-reports/*.json
-reports/*.md
-
-# Build
-dist/
-build/
-*.egg-info/
-
-# Old app backup (if needed)
-app_old.py
-app_backup.py
-
-# Binary classifier cache — regenerated at startup
-src/classification/cache/*.pkl
-
-# Call-type metadata backup snapshots — derived from source data
-data/call_types/call_type_metadata_pre_rebalance.json
-data/call_types/call_type_metadata_original.json
-data/call_types/call_type_metadata_rebalanced.json
-data/call_types/call_type_metadata_enhanced.json
-
-# Terraform — never commit state files or provider binaries
-**/.terraform/
-**/.terraform.lock.hcl
+# Terraform/Terragrunt
 *.tfstate
 *.tfstate.*
+.terraform/
+terragrunt.terraform/
 *.tfplan
-tfplan
-terraform/test-outputs.txt
-terraform/environments/test/terraform.tfvars  # may contain secrets in future
+*.tfvars.json
+crash.log
+crash.*.log
+
+# Secrets
+*.pem
+*.key
+*.crt
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+build/
+*.tgz

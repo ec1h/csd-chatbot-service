@@ -1,0 +1,23 @@
+name: Terragrunt Plan
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  env-plans:
+    strategy:
+      matrix:
+        component:
+          - "non-prod/test/csd-chatbot"
+          - "non-prod/qa/csd-chatbot"
+          - "non-prod/uat/csd-chatbot"
+          - "prod/prod/csd-chatbot"
+
+    uses: ec1h/reusable-workflows/.github/workflows/reusable_terragrunt_plan.yml@0.0.6
+    secrets: inherit
+    with:
+      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }}"
+      terragrunt_dir: "./iac/${{ matrix.component }}"
+      terragrunt_version: 0.68.6
+      terraform_version: 1.9.5

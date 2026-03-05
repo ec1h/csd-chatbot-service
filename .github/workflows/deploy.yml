@@ -1,0 +1,138 @@
+name: Deploy Chatbot Service
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: "Environment to deploy to"
+        type: environment
+        required: true
+        options:
+          - test
+          - qa
+          - uat
+          - prod
+      run_seed:
+        description: "Run database seed?"
+        type: boolean
+        required: true
+        default: false
+
+run-name: Deploy Chatbot to ${{ inputs.environment }}
+
+concurrency:
+  group: csd-chatbot-${{ inputs.environment }}
+  cancel-in-progress: false
+
+jobs:
+  backup-db:
+    if: ${{ inputs.environment == 'prod' || inputs.environment == 'qa' || inputs.environment == 'uat' }}
+    uses: ec1h/reusable-workflows/.github/workflows/reusable_db_backup_ec2_ssm.yml@0.1.7
+    secrets: inherit
+    with:
+      environment: ${{ inputs.environment }}
+
+  db-migrations:
+    if: always()
+    needs: [backup-db]
+    uses: ec1h/reusable-workflows/.github/workflows/reusable_db_migrations.yml@0.0.6
+    secrets: inherit
+    with:
+      environment: ${{ inputs.environment }}
+      node_js_version: "20.x"
+      run_seed: ${{ inputs.seed }}
+      migration_path: ./database/migrations
+
+  setup-api-key:
+    if: ${{ inputs.environment == 'test' }}
+    needs: [db-migrations]
+    name: Setup API Key
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Load environment variables
+        uses: aarcangeli/load-dotenv@v1
+        with:
+          path: .github/environments
+          filenames: .env.${{ inputs.environment }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::${{ env.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          aws-region: af-south-1
+          role-session-name: github-${{ github.run_id }}
+          role-duration-seconds: 900
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: Install dependencies
+        run: npm install pg @aws-sdk/client-secrets-manager
+
+      - name: Generate and store API key
+        run: |
+          chmod +x ./scripts/setup-api-key.sh
+          ./scripts/setup-api-key.sh ${{ inputs.environment }}
+
+  terragrunt-apply:
+    if: ${{ always() && !failure() && !cancelled() }}
+    needs: [db-migrations, setup-api-key]
+    uses: ec1h/reusable-workflows/.github/workflows/reusable_terragrunt_apply.yml@0.1.1
+    secrets: inherit
+    with:
+      environment: ${{ inputs.environment }}
+      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }} TF_VAR_call_types_data_path=${{ env.CALL_TYPES_DATA_PATH }}"
+      component: csd-chatbot
+      build_node_service: false
+      terragrunt_version: 0.68.6
+      terraform_version: 1.9.5
+
+  export-openapi:
+    if: ${{ always() && needs.terragrunt-apply.result == 'success' && inputs.environment != 'prod' }}
+    needs: [terragrunt-apply]
+    name: Export OpenAPI to S3
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Load environment variables
+        uses: aarcangeli/load-dotenv@v1
+        with:
+          path: .github/environments
+          filenames: .env.${{ inputs.environment }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::${{ env.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          aws-region: af-south-1
+          role-session-name: github-${{ github.run_id }}
+          role-duration-seconds: 900
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Download exporter script
+        run: |
+          mkdir -p scripts
+          aws s3 cp "s3://csd-openapi-definitions-${{ inputs.environment }}/export-openapi.sh" "./export-openapi.sh" --region "af-south-1"
+          chmod +x ./export-openapi.sh
+
+      - name: Run OpenAPI exporter
+        env:
+          ENVIRONMENT: ${{ inputs.environment }}
+          AWS_REGION: af-south-1
+          SERVICE: csd-chatbot
+        run: ./export-openapi.sh

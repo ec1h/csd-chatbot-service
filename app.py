@@ -73,6 +73,10 @@ else:
 
 app = FastAPI(title="Kvell CSD LLM Chatbot", version="2.0.0")
 
+@app.get("/health")
+async def liveness_check():
+    """Simple health check for load balancer."""
+    return {"status": "ok"}
 # Setup middleware (CORS, request size limit, error handling)
 from src.api.middleware import setup_middleware
 setup_middleware(app)
@@ -90,8 +94,11 @@ if USE_OPTIMIZED_PIPELINE:
 @app.exception_handler(Exception)
 async def global_handler(request, exc):
     import traceback
+    import uuid
 
     error_id = str(uuid.uuid4())[:8]
+    # Add this line to see the full traceback
+    logger.error(f"ERROR {error_id}: {traceback.format_exc()}")
     print(f"ERROR {error_id}: {traceback.format_exc()}")
     return JSONResponse(
         status_code=500,
@@ -101,7 +108,6 @@ async def global_handler(request, exc):
             "message": "Please try again",
         },
     )
-
 
 @app.middleware("http")
 async def catch_exceptions(request, call_next):
@@ -200,6 +206,6 @@ async def startup():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("app:app", host="0.0.0.0", port=8001, reload=True)
-
+    
 
 

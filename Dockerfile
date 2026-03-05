@@ -1,20 +1,44 @@
-FROM amazonlinux:2023
-
-ENV PYTHONUNBUFFERED=1
-
-RUN yum update -y && \
-    yum install -y python3.11 python3.11-pip gcc gcc-c++ make && \
-    yum clean all && rm -rf /var/cache/yum
+FROM node:20-slim AS builder
 
 WORKDIR /app
 
-COPY requirements.txt constraints.txt ./
+# Copy package files
+COPY package*.json ./
+RUN npm ci --only=production
 
-RUN pip3.11 install --no-cache-dir --upgrade pip && \
-    pip3.11 install --no-cache-dir -r requirements.txt -c constraints.txt
+# Production stage
+FROM node:20-slim
 
-COPY . .
+WORKDIR /app
+
+# Install Python for the classification pipeline
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create non-root user
+RUN groupadd -r chatbot && useradd -r -g chatbot chatbot
+
+# Copy node modules from builder
+COPY --from=builder --chown=chatbot:chatbot /app/node_modules ./node_modules
+
+# Copy application code
+COPY --chown=chatbot:chatbot . .
+
+# Install Python dependencies
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Change ownership
+RUN chown -R chatbot:chatbot /app
+
+# Switch to non-root user
+USER chatbot
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=5s --start-period=60s --retries=3 \
+  CMD node -e "require('http').get('http://localhost:8001/health', (r) => r.statusCode === 200 ? process.exit(0) : process.exit(1))" || exit 1
 
 EXPOSE 8001
 
-CMD ["python3.11", "app.py"]
+CMD ["node", "server.js"]

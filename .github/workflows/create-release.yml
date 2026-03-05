@@ -1,0 +1,21 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: Choose semantic versioning increment
+        type: choice
+        required: true
+        default: patch
+        options:
+          - PATCH
+          - MINOR
+          - MAJOR
+
+jobs:
+  release:
+    uses: ec1h/reusable-workflows/.github/workflows/reusable_create_release.yml@0.0.6
+    secrets: inherit
+    with:
+      scope: ${{ inputs.scope }}
