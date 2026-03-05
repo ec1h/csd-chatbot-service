@@ -5,7 +5,9 @@ output "alb_dns_name" {
 
 output "ecs_cluster_name" {
   description = "Name of the ECS cluster"
-  value       = aws_ecs_cluster.main.name
+  value       = var.existing_cluster_name != "" ? var.existing_cluster_name : (
+    length(aws_ecs_cluster.main) > 0 ? aws_ecs_cluster.main[0].name : null
+  )
 }
 
 output "ecs_service_name" {
