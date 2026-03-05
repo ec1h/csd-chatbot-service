@@ -27,7 +27,7 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          role-to-assume: arn:aws:iam::905418043725:role/csd-cicd-role
           aws-region: af-south-1
 
       - name: Setup Terraform
