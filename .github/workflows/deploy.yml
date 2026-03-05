@@ -12,8 +12,8 @@ on:
           - qa
           - uat
           - prod
-      run_seed:
-        description: "Run database seed?"
+      seed:
+        description: "Run Seed?"
         type: boolean
         required: true
         default: false
@@ -27,16 +27,14 @@ concurrency:
 jobs:
   backup-db:
     if: ${{ inputs.environment == 'prod' || inputs.environment == 'qa' || inputs.environment == 'uat' }}
-    uses: ec1h/reusable-workflows/.github/workflows/reusable_db_backup_ec2_ssm.yml@0.1.7
-    secrets: inherit
+    uses: ./.github/workflows/local-db-backup.yml
     with:
       environment: ${{ inputs.environment }}
 
   db-migrations:
     if: always()
     needs: [backup-db]
-    uses: ec1h/reusable-workflows/.github/workflows/reusable_db_migrations.yml@0.0.6
-    secrets: inherit
+    uses: ./.github/workflows/local-db-migrations.yml
     with:
       environment: ${{ inputs.environment }}
       node_js_version: "20.x"
@@ -64,7 +62,7 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::${{ env.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
           aws-region: af-south-1
           role-session-name: github-${{ github.run_id }}
           role-duration-seconds: 900
@@ -85,11 +83,10 @@ jobs:
   terragrunt-apply:
     if: ${{ always() && !failure() && !cancelled() }}
     needs: [db-migrations, setup-api-key]
-    uses: ec1h/reusable-workflows/.github/workflows/reusable_terragrunt_apply.yml@0.1.1
-    secrets: inherit
+    uses: ./.github/workflows/local-terragrunt-apply.yml
     with:
       environment: ${{ inputs.environment }}
-      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }} TF_VAR_call_types_data_path=${{ env.CALL_TYPES_DATA_PATH }}"
+      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }}"
       component: csd-chatbot
       build_node_service: false
       terragrunt_version: 0.68.6
@@ -116,7 +113,7 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::${{ env.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
           aws-region: af-south-1
           role-session-name: github-${{ github.run_id }}
           role-duration-seconds: 900

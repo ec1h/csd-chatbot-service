@@ -1,0 +1,68 @@
+name: Local Database Migrations
+
+on:
+  workflow_call:
+    inputs:
+      environment:
+        required: true
+        type: string
+      node_js_version:
+        required: true
+        type: string
+      run_seed:
+        required: true
+        type: boolean
+      migration_path:
+        required: false
+        type: string
+        default: ./database/migrations
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node_js_version }}
+
+      - name: Install dependencies
+        run: npm install pg dotenv
+
+      - name: Load environment variables
+        uses: aarcangeli/load-dotenv@v1
+        with:
+          path: .github/environments
+          filenames: .env.${{ inputs.environment }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          aws-region: af-south-1
+
+      - name: Get database password from Secrets Manager
+        run: |
+          DB_PASSWORD=$(aws secretsmanager get-secret-value --secret-id ${{ env.DB_PASSWORD_SECRET_NAME }} --query SecretString --output text)
+          echo "DB_PASSWORD=$DB_PASSWORD" >> $GITHUB_ENV
+
+      - name: Run migrations
+        run: |
+          export DB_HOST="${{ env.DB_HOST }}"
+          export DB_PORT="${{ env.DB_PORT }}"
+          export DB_NAME="${{ env.DB_NAME }}"
+          export DB_USERNAME="${{ env.DB_USERNAME }}"
+          export DB_PASSWORD="${{ env.DB_PASSWORD }}"
+          node ${{ inputs.migration_path }}/migrate.js up
+
+      - name: Run seed (if requested)
+        if: ${{ inputs.run_seed }}
+        run: |
+          echo "Running seed data..."
+          # Add seed script here

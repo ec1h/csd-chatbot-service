@@ -1,0 +1,57 @@
+name: Local Terragrunt Apply
+
+on:
+  workflow_call:
+    inputs:
+      environment:
+        required: true
+        type: string
+      env_vars:
+        required: false
+        type: string
+        default: ""
+      component:
+        required: true
+        type: string
+      build_node_service:
+        required: false
+        type: boolean
+        default: false
+      terragrunt_version:
+        required: true
+        type: string
+      terraform_version:
+        required: true
+        type: string
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          aws-region: af-south-1
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: ${{ inputs.terraform_version }}
+
+      - name: Setup Terragrunt
+        uses: autero1/action-terragrunt@v3
+        with:
+          terragrunt-version: ${{ inputs.terragrunt_version }}
+
+      - name: Terragrunt Apply
+        working-directory: iac/${{ inputs.environment }}/${{ inputs.component }}
+        run: |
+          export ${{ inputs.env_vars }}
+          terragrunt apply -auto-approve -no-color

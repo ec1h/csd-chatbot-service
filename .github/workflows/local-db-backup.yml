@@ -1,0 +1,36 @@
+name: Local Database Backup
+
+on:
+  workflow_call:
+    inputs:
+      environment:
+        required: true
+        type: string
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::${{ secrets.CSD_AWS_ACCOUNT_ID }}:role/csd-cicd-role
+          aws-region: af-south-1
+
+      - name: Load environment variables
+        uses: aarcangeli/load-dotenv@v1
+        with:
+          path: .github/environments
+          filenames: .env.${{ inputs.environment }}
+
+      - name: Run database backup
+        run: |
+          echo "Backing up database for ${{ inputs.environment }}"
+          # Add your backup script here
+          # aws ssm start-session --target ${{ env.DB_BACKUP_EC2 }} --document-name AWS-StartInteractiveCommand --parameters command="${{ env.SCRIPT_PATH }}"

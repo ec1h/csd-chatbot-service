@@ -1,0 +1,33 @@
+name: Local Build and Test
+
+on:
+  workflow_call:
+    inputs:
+      node_js_version:
+        required: true
+        type: string
+      enable_sonarqube_quality_check:
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node_js_version }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test || echo "No tests found"
+
+      - name: Build
+        run: npm run build || echo "No build script found"

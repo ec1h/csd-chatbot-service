@@ -9,8 +9,7 @@ on:
 
 jobs:
   build-test-analyze:
-    uses: ec1h/reusable-workflows/.github/workflows/reusable_build_and_test_node_service.yml@0.1.10
-    secrets: inherit
+    uses: ./.github/workflows/local-build-test.yml
     with:
       node_js_version: '20.x'
       enable_sonarqube_quality_check: false
