@@ -17,14 +17,3 @@ data "aws_lb_target_group" "existing" {
   arn = var.existing_target_group_arn
 }
 
-data "aws_secretsmanager_secret" "database" {
-  arn = var.database_secret_arn
-}
-
-data "aws_secretsmanager_secret" "azure_openai" {
-  arn = var.azure_openai_api_key_secret_arn
-}
-
-data "aws_secretsmanager_secret" "api_key" {
-  arn = var.api_key_secret_arn
-}
