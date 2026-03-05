@@ -67,7 +67,9 @@ resource "aws_cloudwatch_metric_alarm" "high_cpu" {
   alarm_actions       = []  # Add SNS topic ARN here
   
   dimensions = {
-    ClusterName = aws_ecs_cluster.main.name
+    ClusterName = var.existing_cluster_name != "" ? var.existing_cluster_name : (
+      length(aws_ecs_cluster.main) > 0 ? aws_ecs_cluster.main[0].name : null
+    )
     ServiceName = aws_ecs_service.app.name
   }
 
