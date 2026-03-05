@@ -52,6 +52,11 @@ variable "log_level" {
   default     = "INFO"
 }
 
+variable "call_types_data_path" {
+  description = "Path to call types data file"
+  type        = string
+}
+
 variable "azure_openai_endpoint" {
   description = "Azure OpenAI endpoint"
   type        = string
