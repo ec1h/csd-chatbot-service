@@ -144,7 +144,7 @@ resource "aws_ecs_service" "app" {
   }
 
   load_balancer {
-    target_group_arn = var.existing_target_group_arn != "" ? var.existing_target_group_arn : aws_lb_target_group.main[0].arn
+    target_group_arn = var.existing_target_group_arn != "" ? var.existing_target_group_arn : aws_lb_target_group.main.arn
     container_name   = "chatbot"
     container_port   = 8001
   }
