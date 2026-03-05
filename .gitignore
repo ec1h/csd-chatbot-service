@@ -72,3 +72,4 @@ dist/
 build/
 *.tgz
 .github/environments/.env.*
+.terragrunt-cache/
