@@ -81,5 +81,8 @@ async function setup() {
   await client.end();
 }
 
-setup().catch(console.error);
+setup().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
 EOF
