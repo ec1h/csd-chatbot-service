@@ -42,7 +42,6 @@ jobs:
       migration_path: ./database/migrations
 
   setup-api-key:
-    if: ${{ inputs.environment == 'test' }}
     needs: [db-migrations]
     name: Setup API Key
     runs-on: ubuntu-latest
@@ -67,6 +66,11 @@ jobs:
           role-session-name: github-${{ github.run_id }}
           role-duration-seconds: 900
 
+      - name: Get database password from Secrets Manager
+        run: |
+          DB_PASSWORD=$(aws secretsmanager get-secret-value --secret-id ${{ env.DB_PASSWORD_SECRET_NAME }} --query SecretString --output text)
+          echo "DB_PASSWORD=$DB_PASSWORD" >> $GITHUB_ENV
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -76,6 +80,8 @@ jobs:
         run: npm install pg @aws-sdk/client-secrets-manager
 
       - name: Generate and store API key
+        env:
+          ENVIRONMENT: ${{ inputs.environment }}
         run: |
           chmod +x ./scripts/setup-api-key.sh
           ./scripts/setup-api-key.sh ${{ inputs.environment }}

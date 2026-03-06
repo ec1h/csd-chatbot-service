@@ -46,7 +46,7 @@ resource "aws_iam_role_policy" "ecs_execution_secrets" {
         Resource = [
           var.database_secret_arn,
           var.azure_openai_api_key_secret_arn,
-          var.api_key_secret_arn
+          local.api_key_secret_arn
         ]
       }
     ]
@@ -91,7 +91,7 @@ resource "aws_iam_role_policy" "ecs_task" {
         Resource = [
           var.database_secret_arn,
           var.azure_openai_api_key_secret_arn,
-          var.api_key_secret_arn
+          local.api_key_secret_arn
         ]
       },
       {

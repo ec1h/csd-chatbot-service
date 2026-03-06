@@ -101,7 +101,7 @@ resource "aws_ecs_task_definition" "app" {
         },
         {
           name      = "API_KEY"
-          valueFrom = var.api_key_secret_arn
+          valueFrom = local.api_key_secret_arn
         }
       ]
 

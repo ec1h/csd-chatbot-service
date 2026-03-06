@@ -2,15 +2,16 @@
 set -e
 
 ENVIRONMENT=$1
+export ENVIRONMENT
 echo "Setting up API key for $ENVIRONMENT environment"
 
-# Generate API key using Node
+# Generate API key using Node (reads ENVIRONMENT from env)
 node << 'EOF'
 const crypto = require('crypto');
 const { Client } = require('pg');
 const { SecretsManager } = require('@aws-sdk/client-secrets-manager');
 
-const environment = process.argv[1];
+const environment = process.env.ENVIRONMENT || 'test';
 const secretsManager = new SecretsManager({ region: 'af-south-1' });
 
 async function setup() {

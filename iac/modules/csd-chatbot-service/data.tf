@@ -2,6 +2,16 @@
 
 data "aws_caller_identity" "current" {}
 
+# Resolve API key secret ARN by name when using pipeline-generated secret (csd-chatbot/api-key-<env>)
+data "aws_secretsmanager_secret" "api_key_by_name" {
+  count  = var.api_key_secret_name != "" ? 1 : 0
+  name   = var.api_key_secret_name
+}
+
+locals {
+  api_key_secret_arn = var.api_key_secret_name != "" ? data.aws_secretsmanager_secret.api_key_by_name[0].arn : var.api_key_secret_arn
+}
+
 data "aws_ecs_cluster" "existing" {
   count = var.existing_cluster_name != "" ? 1 : 0
   cluster_name = var.existing_cluster_name

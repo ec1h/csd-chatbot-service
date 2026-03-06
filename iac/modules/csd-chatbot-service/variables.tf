@@ -79,8 +79,15 @@ variable "azure_openai_api_key_secret_arn" {
 }
 
 variable "api_key_secret_arn" {
-  description = "ARN of the API key secret"
+  description = "ARN of the API key secret (used when api_key_secret_name is not set)"
   type        = string
+  default     = ""
+}
+
+variable "api_key_secret_name" {
+  description = "Name of the API key secret in Secrets Manager (e.g. csd-chatbot/api-key-test). When set, ARN is looked up and used instead of api_key_secret_arn."
+  type        = string
+  default     = ""
 }
 
 variable "allowed_origins" {

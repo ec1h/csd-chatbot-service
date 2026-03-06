@@ -36,7 +36,7 @@ inputs = {
   
   # Azure OpenAI
   azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:uat/csd-chatbot/azure-openai-quKKzB"
-  api_key_secret_arn   = "arn:aws:secretsmanager:af-south-1:905418043725:secret:uat/csd-chatbot/api-key-VIbS9s"
+  api_key_secret_name  = "csd-chatbot/api-key-uat"
   
   azure_openai_endpoint = "https://ec1-azureopenai-askjo.openai.azure.com/"
   azure_openai_deployment = "gpt-4.1"
