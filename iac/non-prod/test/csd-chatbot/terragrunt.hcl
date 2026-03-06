@@ -33,7 +33,7 @@ dependency "database" {
 # Import log group if it exists in AWS but not in state; no-op otherwise (never blocks apply).
 before_hook "import_log_group" {
   commands = ["apply"]
-  execute  = ["sh", "-c", "terragrunt import aws_cloudwatch_log_group.ecs /ecs/csd-chatbot-test 2>/dev/null || true"]
+  execute  = ["sh", "-c", "terraform import aws_cloudwatch_log_group.ecs /ecs/csd-chatbot-test 2>/dev/null || true"]
 }
 
 inputs = {
