@@ -45,6 +45,18 @@ jobs:
       run_seed: ${{ inputs.seed }}
       migration_path: ./database/migrations
 
+  terragrunt-apply-db:
+    if: ${{ always() && !failure() && !cancelled() }}
+    needs: [db-migrations]
+    uses: ./.github/workflows/local-terragrunt-apply.yml
+    with:
+      environment: ${{ inputs.environment }}
+      env_vars: "TF_VAR_service_version=${{ github.ref_type == 'branch' && github.sha || github.ref_name }}"
+      component: database
+      build_node_service: false
+      terragrunt_version: 0.68.6
+      terraform_version: 1.9.5
+
   setup-api-key:
     needs: [db-migrations]
     name: Setup API Key
@@ -92,7 +104,7 @@ jobs:
 
   terragrunt-apply:
     if: ${{ always() && !failure() && !cancelled() }}
-    needs: [db-migrations, setup-api-key]
+    needs: [terragrunt-apply-db, setup-api-key]
     uses: ./.github/workflows/local-terragrunt-apply.yml
     with:
       environment: ${{ inputs.environment }}
