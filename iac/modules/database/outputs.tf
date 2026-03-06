@@ -16,9 +16,9 @@ locals {
   
   # For instances
   instance_endpoint = try(data.aws_db_instance.existing[0].endpoint, "")
-  instance_arn = try(data.aws_db_instance.existing[0].arn, "")
+  instance_arn = try(data.aws_db_instance.existing[0].db_instance_arn, "")
   instance_db_name = try(data.aws_db_instance.existing[0].db_name, "")
-  instance_username = try(data.aws_db_instance.existing[0].username, "")
+  instance_username = try(data.aws_db_instance.existing[0].master_username, "")
 }
 
 output "endpoint" {
