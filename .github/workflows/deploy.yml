@@ -169,15 +169,12 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Download exporter script
+      - name: Fetch and upload OpenAPI spec
         run: |
-          mkdir -p scripts
-          aws s3 cp "s3://csd-openapi-definitions-${{ inputs.environment }}/export-openapi.sh" "./export-openapi.sh" --region "af-south-1"
-          chmod +x ./export-openapi.sh
+          curl --retry 5 --retry-delay 10 --retry-connrefused \
+            -f -s "${{ env.SERVICE_BASE_URL }}/openapi.json" \
+            -o openapi.json
 
-      - name: Run OpenAPI exporter
-        env:
-          ENVIRONMENT: ${{ inputs.environment }}
-          AWS_REGION: af-south-1
-          SERVICE: csd-chatbot
-        run: ./export-openapi.sh
+          aws s3 cp openapi.json \
+            "s3://csd-openapi-definitions-${{ inputs.environment }}/csd-chatbot/openapi.json" \
+            --region af-south-1
