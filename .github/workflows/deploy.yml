@@ -83,7 +83,7 @@ jobs:
           node ./database/migrations/migrate.js up
 
       - name: Run seed (if requested)
-        if: ${{ inputs.run_seed }}
+        if: ${{ inputs.seed }}
         run: |
           echo "Running seed data..."
           # Add seed script here
