@@ -1,9 +1,3 @@
-# Import existing log group if it exists (e.g. from prior manual run); no-op if already in state.
-import {
-  to = aws_cloudwatch_log_group.ecs
-  id = "/ecs/csd-chatbot-${var.environment}"
-}
-
 # CloudWatch Log Group
 resource "aws_cloudwatch_log_group" "ecs" {
   name              = "/ecs/csd-chatbot-${var.environment}"
