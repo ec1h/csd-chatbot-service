@@ -6,6 +6,10 @@ terraform {
   source = "../../../modules//csd-chatbot-service"
 }
 
+locals {
+  is_plan = get_terraform_command() == "plan"
+}
+
 dependency "vpc" {
   config_path = "../vpc"
   
@@ -36,7 +40,8 @@ inputs = {
   
   # Azure OpenAI
   azure_openai_api_key_secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:qa/csd-chatbot/azure-openai-NlSsQx"
-  api_key_secret_name  = "csd-chatbot/api-key-qa"
+  api_key_secret_name  = local.is_plan ? "" : "csd-chatbot/api-key-qa"
+  api_key_secret_arn   = local.is_plan ? "arn:aws:secretsmanager:af-south-1:905418043725:secret:placeholder" : ""
   
   azure_openai_endpoint = "https://ec1-azureopenai-askjo.openai.azure.com/"
   azure_openai_deployment = "gpt-4.1"
