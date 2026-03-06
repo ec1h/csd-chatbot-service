@@ -59,6 +59,7 @@ jobs:
           export DB_NAME="${{ env.DB_NAME }}"
           export DB_USERNAME="${{ env.DB_USERNAME }}"
           export DB_PASSWORD="${{ env.DB_PASSWORD }}"
+          export ENVIRONMENT="${{ inputs.environment }}"
           node ${{ inputs.migration_path }}/migrate.js up
 
       - name: Run seed (if requested)
