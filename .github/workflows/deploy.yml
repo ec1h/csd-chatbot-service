@@ -89,10 +89,12 @@ jobs:
           # Add seed script here
 
   # Depends only on inline db-migrations (no workflow_call in the needs chain).
+  # Explicit if: only check direct parent — avoids transitive success() from backup-db skip.
   deploy-infra-and-app:
     name: Deploy infra and app
     runs-on: ubuntu-latest
     needs: [db-migrations]
+    if: ${{ needs.db-migrations.result == 'success' }}
     permissions:
       id-token: write
       contents: read
@@ -160,7 +162,7 @@ jobs:
         run: terragrunt apply -auto-approve -no-color
 
   export-openapi:
-    if: ${{ inputs.environment != 'prod' }}
+    if: ${{ inputs.environment != 'prod' && needs.deploy-infra-and-app.result == 'success' }}
     needs: [deploy-infra-and-app]
     name: Export OpenAPI to S3
     runs-on: ubuntu-latest
