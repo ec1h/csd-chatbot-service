@@ -20,6 +20,10 @@ on:
 
 run-name: Deploy Chatbot to ${{ inputs.environment }}
 
+permissions:
+  id-token: write
+  contents: read
+
 concurrency:
   group: csd-chatbot-${{ inputs.environment }}
   cancel-in-progress: false
