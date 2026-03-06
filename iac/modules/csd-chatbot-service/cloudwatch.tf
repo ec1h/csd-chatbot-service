@@ -6,6 +6,10 @@ resource "aws_cloudwatch_log_group" "ecs" {
   tags = merge(var.tags, {
     Environment = var.environment
   })
+
+  lifecycle {
+    prevent_destroy = true
+  }
 }
 
 # CloudWatch Dashboard
