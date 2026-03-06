@@ -51,7 +51,7 @@ jobs:
           terragrunt-version: ${{ inputs.terragrunt_version }}
 
       - name: Terragrunt Apply
-        working-directory: iac/${{ inputs.environment }}/${{ inputs.component }}
+        working-directory: iac/non-prod/${{ inputs.environment }}/${{ inputs.component }}
         run: |
           export ${{ inputs.env_vars }}
           terragrunt apply -auto-approve -no-color
