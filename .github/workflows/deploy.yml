@@ -115,8 +115,16 @@ jobs:
           chmod +x ./scripts/setup-api-key.sh
           ./scripts/setup-api-key.sh ${{ inputs.environment }}
 
-  terragrunt-apply:
+  # Gate: only run when all infra + API key are ready (avoids reusable-workflow skip quirks)
+  deps-ready:
+    name: Deps ready
+    runs-on: ubuntu-latest
     needs: [terragrunt-apply-db, terragrunt-apply-vpc, setup-api-key]
+    steps:
+      - run: echo "All dependencies succeeded, proceeding to csd-chatbot apply."
+
+  terragrunt-apply:
+    needs: [deps-ready]
     uses: ./.github/workflows/local-terragrunt-apply.yml
     with:
       environment: ${{ inputs.environment }}
