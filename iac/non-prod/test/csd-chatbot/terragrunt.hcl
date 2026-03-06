@@ -4,6 +4,11 @@ include {
 
 terraform {
   source = "../../../modules//csd-chatbot-service"
+
+  before_hook "import_log_group" {
+    commands = ["apply"]
+    execute  = ["sh", "-c", "terraform import aws_cloudwatch_log_group.ecs /ecs/csd-chatbot-test 2>/dev/null || true"]
+  }
 }
 
 locals {
@@ -28,12 +33,6 @@ dependency "database" {
     secret_arn = "arn:aws:secretsmanager:af-south-1:905418043725:secret:test/csd-chatbot/database-W1NSjd"
   }
   mock_outputs_allowed_terraform_commands = ["plan", "validate"]
-}
-
-# Import log group if it exists in AWS but not in state; no-op otherwise (never blocks apply).
-before_hook "import_log_group" {
-  commands = ["apply"]
-  execute  = ["sh", "-c", "terraform import aws_cloudwatch_log_group.ecs /ecs/csd-chatbot-test 2>/dev/null || true"]
 }
 
 inputs = {
