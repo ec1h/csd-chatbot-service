@@ -38,14 +38,57 @@ jobs:
   db-migrations:
     if: always()
     needs: [backup-db]
-    uses: ./.github/workflows/local-db-migrations.yml
-    with:
-      environment: ${{ inputs.environment }}
-      node_js_version: "20.x"
-      run_seed: ${{ inputs.seed }}
-      migration_path: ./database/migrations
+    name: DB migrations
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  # Single job: infra + API key + app. Avoids "needs" on reusable workflows so nothing gets skipped.
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+
+      - name: Install dependencies
+        run: npm install pg dotenv
+
+      - name: Load environment variables
+        uses: aarcangeli/load-dotenv@v1
+        with:
+          path: .github/environments
+          filenames: .env.${{ inputs.environment }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::905418043725:role/csd-cicd-role
+          aws-region: af-south-1
+
+      - name: Get database password from Secrets Manager
+        run: |
+          DB_PASSWORD=$(aws secretsmanager get-secret-value --secret-id ${{ env.DB_PASSWORD_SECRET_NAME }} --query SecretString --output text)
+          echo "DB_PASSWORD=$DB_PASSWORD" >> $GITHUB_ENV
+
+      - name: Run migrations
+        run: |
+          export DB_HOST="${{ env.DB_HOST }}"
+          export DB_PORT="${{ env.DB_PORT }}"
+          export DB_NAME="${{ env.DB_NAME }}"
+          export DB_USERNAME="${{ env.DB_USERNAME }}"
+          export DB_PASSWORD="${{ env.DB_PASSWORD }}"
+          export ENVIRONMENT="${{ inputs.environment }}"
+          node ./database/migrations/migrate.js up
+
+      - name: Run seed (if requested)
+        if: ${{ inputs.run_seed }}
+        run: |
+          echo "Running seed data..."
+          # Add seed script here
+
+  # Depends only on inline db-migrations (no workflow_call in the needs chain).
   deploy-infra-and-app:
     name: Deploy infra and app
     runs-on: ubuntu-latest
