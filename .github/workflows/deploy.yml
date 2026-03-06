@@ -70,6 +70,7 @@ jobs:
       terraform_version: 1.9.5
 
   setup-api-key:
+    if: ${{ always() }}
     needs: [db-migrations]
     name: Setup API Key
     runs-on: ubuntu-latest
