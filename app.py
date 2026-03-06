@@ -21,12 +21,15 @@ VERSION 6.0 - OPTIMIZED with Network Classification:
 """
 
 import os
+import hashlib
 import logging
 import uuid
+from datetime import datetime, timedelta, timezone
 from mangum import Mangum
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
+import psycopg2
 
 # Set up logging
 logger = logging.getLogger(__name__)
@@ -123,10 +126,54 @@ async def catch_exceptions(request, call_next):
 
 handler = Mangum(app)
 
+
+def _sync_api_key_from_env():
+    """
+    If API_KEY is set (injected by ECS from Secrets Manager), upsert it into ec1_api_keys.
+    CI only creates the secret; the app (running in VPC) syncs it to the DB on startup.
+    """
+    api_key = os.getenv("API_KEY", "").strip()
+    if not api_key or "." not in api_key:
+        return
+    key_id, secret_value = api_key.split(".", 1)
+    if not key_id or not secret_value:
+        return
+    salt = os.urandom(16)
+    key_hash = hashlib.pbkdf2_hmac("sha256", secret_value.encode("utf-8"), salt, 100_000)
+    expires_at = datetime.now(timezone.utc) + timedelta(days=365)
+    from src.database.connection import get_pool
+    from psycopg2.extras import RealDictCursor
+    pool_instance = get_pool()
+    conn = pool_instance.getconn()
+    try:
+        with conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute("SET statement_timeout = '5s'")
+            cur.execute(
+                """
+                INSERT INTO ec1_api_keys (key_id, salt, key_hash, status, created_at, expires_at)
+                VALUES (%s, %s, %s, 'active', NOW(), %s)
+                ON CONFLICT (key_id) DO UPDATE SET
+                    salt = EXCLUDED.salt,
+                    key_hash = EXCLUDED.key_hash,
+                    status = EXCLUDED.status,
+                    expires_at = EXCLUDED.expires_at
+                """,
+                (key_id, psycopg2.Binary(salt), psycopg2.Binary(key_hash), expires_at),
+            )
+        conn.commit()
+        logger.info("API key from env synced to ec1_api_keys: %s", key_id)
+    except Exception as e:
+        conn.rollback()
+        logger.warning("Could not sync API key to DB (non-fatal): %s", e)
+    finally:
+        pool_instance.putconn(conn)
+
+
 @app.on_event("startup")
 async def startup():
     """Application startup: load data and initialize services"""
-    
+    _sync_api_key_from_env()
+
     if USE_OPTIMIZED_PIPELINE:
         # NEW OPTIMIZED PIPELINE - All-in-one initialization
         try:

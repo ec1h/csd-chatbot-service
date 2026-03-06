@@ -131,28 +131,7 @@ jobs:
         working-directory: iac/non-prod/${{ inputs.environment }}/vpc
         run: terragrunt apply -auto-approve -no-color
 
-      - name: Load environment variables
-        uses: aarcangeli/load-dotenv@v1
-        with:
-          path: .github/environments
-          filenames: .env.${{ inputs.environment }}
-
-      - name: Get database password from Secrets Manager
-        run: |
-          DB_PASSWORD=$(aws secretsmanager get-secret-value --secret-id ${{ env.DB_PASSWORD_SECRET_NAME }} --query SecretString --output text)
-          echo "DB_PASSWORD=$DB_PASSWORD" >> $GITHUB_ENV
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20.x'
-
-      - name: Install dependencies
-        run: npm install pg @aws-sdk/client-secrets-manager
-
-      - name: Generate and store API key
-        env:
-          ENVIRONMENT: ${{ inputs.environment }}
+      - name: Generate and store API key (Secrets Manager only; app syncs to DB in VPC)
         run: |
           chmod +x ./scripts/setup-api-key.sh
           ./scripts/setup-api-key.sh ${{ inputs.environment }}
