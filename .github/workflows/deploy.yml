@@ -116,7 +116,6 @@ jobs:
           ./scripts/setup-api-key.sh ${{ inputs.environment }}
 
   terragrunt-apply:
-    if: success()
     needs: [terragrunt-apply-db, terragrunt-apply-vpc, setup-api-key]
     uses: ./.github/workflows/local-terragrunt-apply.yml
     with:
